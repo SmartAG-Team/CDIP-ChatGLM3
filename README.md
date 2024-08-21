@@ -1,10 +1,10 @@
 # CDIP-ChatGLM3
-crop disease identification and prescription with CNN and LLMs
+Crop disease control using CNNs and ChatGLM3-6b, along with fine-tuned models.
 
 https://github.com/user-attachments/assets/a098d6a3-00a9-4350-abe1-4187ef419887
 
-https://github.com/user-attachments/assets/775d83d6-8b50-4b5a-98a6-72f8d2273633
 
-Fine-tuned model
+https://github.com/user-attachments/assets/17621a5a-9d07-49d8-9760-ac859c511b9e
 
-https://github.com/user-attachments/assets/1a5c4039-3107-41da-bb76-d0e52da68c6e
+
+https://github.com/user-attachments/assets/e2cac48e-b38c-42f7-a41e-f4dcf88bf9b4
