@@ -1,5 +1,5 @@
 # CDIP-ChatGLM3
-Crop disease control using CNNs and ChatGLM3-6b, along with fine-tuned models.
+Crop disease identification and prescription using CNNs, ChatGLM3-6b, and Fine-tuned models
 
 https://github.com/user-attachments/assets/a098d6a3-00a9-4350-abe1-4187ef419887
 
