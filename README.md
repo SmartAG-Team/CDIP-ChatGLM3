@@ -20,5 +20,5 @@ Apple Alternaria Boltch, Apple Black rot, Apple Brown Spot, Apple Grey spot, App
 ```python
 conda create -n chatglm python=3.8
 conda activate chatglm
-cd AgriAgent
+cd chatglm
 pip install -r requirements.txt
