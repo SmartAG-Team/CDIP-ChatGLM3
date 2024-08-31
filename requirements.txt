@@ -5,3 +5,6 @@ scipy
 numpy
 matplotlib
 opencv_python
+openai
+rouge
+transformers
