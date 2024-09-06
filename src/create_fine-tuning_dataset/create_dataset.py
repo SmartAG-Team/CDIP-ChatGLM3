@@ -11,9 +11,11 @@ import glob
 parser = argparse.ArgumentParser(description="Argument parser example")
 parser.add_argument('--prompt_dir', type=str, default='./src/create_fine-tuning_dataset/prompt.txt', help='Instruction generation prompt')
 parser.add_argument('--prompt2_dir', type=str, default='./src/create_fine-tuning_dataset/prompt2.txt', help='Instruction generation prompt2')
-parser.add_argument('--api_key', type=str, default='sk-0e7d0b5cb782481dbff68b487c69d5ca', help='qwen api key')
-parser.add_argument('--folder_path', type=str, default='./data/books/grape/第七章 葡萄的采收、包装与贮运/', help='Path to the folder to process')
-parser.add_argument('--varieties', type=str, default='grape', help='grape/apple/...')
+
+parser.add_argument('--api_key', type=str, default='your api key', help='qwen api key')
+parser.add_argument('--folder_path', type=str, default='./data/books/文字数据集/小麦文字分段/小麦文字分段/第三章 小麦病虫害绿色防控技术/', help='Path to the folder to process')
+parser.add_argument('--varieties', type=str, default='grape', help='grape/apple/wheat...')
+
 parser.add_argument('--model', type=str, default='qwen-max-longcontext', help='qwen model name')
 parser.add_argument('--instruction_number', type=int, default=5, help='Number of instructions proposed per txt file')
 parser.add_argument('--delay', type=int, default=5, help='api call intervals')
@@ -38,7 +40,7 @@ folder_path = args.folder_path
 folder_name = os.path.basename(os.path.normpath(folder_path))
 instruction_file_path = f'./data/fine-tuning_dataset/{args.varieties}/{folder_name}_instruction.json'
 original_output_file_path = f'./data/fine-tuning_dataset/{args.varieties}/{folder_name}_original_output.json'
-output_file_path = f'./data/fine-tuning_dataset/{args.varieties}/{folder_name}_output.json'
+output_file_path = f'./data/fine-tuning_dataset/{args.varieties}/{folder_name}_finetune_output.json'
 error_log_file='error_log.txt'
 # output_file_path = f'./data/fine-tuning_dataset/grape/grape.json'
 instruction_dir = os.path.dirname(instruction_file_path)
