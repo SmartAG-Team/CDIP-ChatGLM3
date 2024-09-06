@@ -286,7 +286,7 @@ def output(original_output_file_path):
 
 if __name__ == "__main__":
     instruction_generation(folder_path)  #第一次打开这个 注释下面两个 只生成 _instruction_output.json 然后在新生成的_instruction_output.json中查看是否需要都关联了对应品种
-    original_output(instruction_file_path)  #第二次打开下面两个 注释上面这个 生成 _original_output.json 和 _finetune_output.json 
-    output(original_output_file_path)
+    # original_output(instruction_file_path)  #第二次打开下面两个 注释上面这个 生成 _original_output.json 和 _finetune_output.json 
+    # output(original_output_file_path)
 
    
