@@ -15,12 +15,12 @@ def check_json_format(file_path):
         if missing_fields:
             print(f"Line {idx*5+2}:")
             print(f"Item {idx} is missing fields: {', '.join(missing_fields)}")     
-        else:
-            print(f"Item {idx} is correctly formatted.")
+        # else:
+        #     print(f"Item {idx} is correctly formatted.")
     if missing_fields == [] :
         print(f"All Item is correctly formatted.")
 
 
 if __name__ == "__main__":
-    file_path = "./data/fine-tuning_dataset/grape-glm.json"  # 替换为你的JSON文件路径
+    file_path = "./data/fine-tuning_dataset/grape/grape.json"  # 替换为你的JSON文件路径
     check_json_format(file_path)

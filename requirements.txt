@@ -7,4 +7,4 @@ matplotlib
 opencv_python
 openai
 rouge
-transformers
+transformers==4.40.2
