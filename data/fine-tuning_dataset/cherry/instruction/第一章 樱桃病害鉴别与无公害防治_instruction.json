@@ -1,0 +1,812 @@
+[
+    {
+        "instruction": "描述樱桃冠瘿病的症状及其对樱桃植株的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举樱桃冠瘿病发病的主要环境条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括防治樱桃冠瘿病的三个关键措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释樱桃冠瘿病与砧木及品种遗传特性之间的关系。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指导如何使用化学方法有效刮除并防止樱桃树上的毛瘤再生。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种樱桃叶斑病的主要症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "樱桃叶斑病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简述樱桃叶斑病的发病规律，特别是与季节变化的关系。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出两项农业防治樱桃叶斑病的措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议一种在樱桃采摘后使用的化学药剂及其浓度，用于防治叶斑病。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述樱桃叶点病的典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种樱桃叶点病的农业防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出病原菌是如何在樱桃果园中进行传播的。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议一种在樱桃花芽萌动前使用的化学防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么在夏季多雨年份樱桃叶点病会更加严重。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述樱桃坏死环斑病的典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种樱桃坏死环斑病的传播途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已感染樱桃坏死环斑病的成龄果树，建议采取什么措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在农业防治措施中，如何确保新栽植的樱桃树不携带樱桃坏死环斑病病毒？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐一种在樱桃坏死环斑病初期使用的药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述樱桃小果病的主要症状及其对果实和叶片的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举樱桃小果病的三种主要传播途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出两种防治樱桃小果病的有效措施，并说明其操作方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么观赏性樱花能成为樱桃小果病毒的中间寄主？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已经感染樱桃小果病毒的樱桃苗，如何通过热处理进行脱毒？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述樱桃幼果菌核病的病症特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种樱桃幼果菌核病的农业防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出用于防治樱桃幼果菌核病的一种药剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释樱桃幼果菌核病的病原体是什么，并说明其如何越冬。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么樱桃近成熟期果实相比幼果期更少发病？给出可能的原因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述樱桃枝枯病的主要症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种樱桃枝枯病的农业防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供一种在樱桃发芽前使用的化学防治药剂及其配比。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释樱桃枝枯病的病原体以及其越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对樱桃枝枯病，提出在春季应使用的杀菌剂种类及建议稀释倍数。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述樱桃树灰色膏药病的主要症状及其病原体。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种用于防治樱桃树灰色膏药病的农业措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释樱桃树灰色膏药病的发病规律，特别是在传播途径上。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供一种适用于樱桃树灰色膏药病病部处理的化学药剂及其浓度配比。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么介壳虫的发生与樱桃树灰色膏药病的严重程度有关？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种可能引发樱桃树煤污病的病原菌名称。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对樱桃树煤污病，提出一项农业防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述樱桃树煤污病发病初期叶片的具体变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简述樱桃树煤污病的传播途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐一种用于治疗樱桃树煤污病的药剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结樱桃树生理性流胶病的主要病因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三项预防樱桃树生理性流胶病的管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释樱桃果实流胶与树干流胶在成因上的区别。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对樱桃树流胶病，提供两种化学防治方法及其操作细节。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述樱桃树生理性流胶病在不同季节的发病规律。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种樱桃树真菌性流胶病的农业防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述樱桃树真菌性流胶病的典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "樱桃树真菌性流胶病的病原是什么？并简要说明其如何在病部越冬。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对樱桃树真菌性流胶病，提出两种有效的药剂防治方法及其使用时机。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为何在樱桃树栽培管理中增强树势可以有效预防真菌性流胶病。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可能导致樱桃树腐烂病加重的因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述樱桃树腐烂病的主要症状，特别是在病斑发展过程中出现的现象。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在农业防治措施中，如何利用石灰水有效预防樱桃树腐烂病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已感染樱桃树腐烂病的树木，推荐使用哪些药剂进行治疗，并说明使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为何在樱桃树腐烂病的防治中，除了化学药剂外，还需要特别注意保护伤口。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述樱桃根癌病的典型症状，特别是在根茎部的表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结樱桃根癌病的传播途径，至少提及三种不同的方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三项农业防治措施，用来减少樱桃根癌病的发生。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释在栽植前如何使用土壤杆菌K84菌液处理樱桃苗木以预防根癌病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指导如何对已感染樱桃根癌病的树木进行药剂治疗，包括所需药物和操作步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结樱桃灰霉病的主要症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种樱桃灰霉病的化学防治药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述樱桃灰霉病的发病规律，特别强调季节性变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释农业防治措施如何帮助减少樱桃灰霉病的菌源。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对樱桃灰霉病，提供一项改进果园通风透光条件的具体建议。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种樱桃炭疽病的典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "樱桃炭疽病的病原在什么季节开始产生分生孢子并传播？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简述樱桃炭疽病的农业防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐一种在樱桃炭疽病发生初期可使用的化学药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "樱桃炭疽病菌的发育最适宜温度范围是多少？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结樱桃疮痂病的主要症状及其对樱桃果实、叶片和新梢的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种樱桃疮痂病的农业防治措施，并说明其作用原理。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述樱桃疮痂病病菌的越冬方式以及其在春季的繁殖条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出樱桃疮痂病发病最严重的季节，并分析此时利于病害流行的环境因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种在樱桃生长周期中推荐使用的化学药剂防治方法，包括药剂名称和施用时机。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述樱桃皱叶病的主要症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种传播樱桃皱叶病的昆虫。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出一项控制樱桃皱叶病传播的关键措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已经感染樱桃皱叶病的病株，应采取什么首要措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在樱桃种植中，如何预防皱叶病通过砧木传播？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结樱桃立枯病的主要症状及其对樱桃苗的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于预防樱桃立枯病的土壤处理药物及其使用比例。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释樱桃立枯病的发病规律，特别是哪些环境条件会加重病情？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对樱桃立枯病，给出一项播种前的土壤处理建议。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在樱桃苗发病初期，推荐两种可湿性粉剂及其稀释比例进行喷洒防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述樱桃细菌性穿孔病的主要症状及其在叶片、枝条和果实上的不同表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结樱桃细菌性穿孔病的两种主要病原菌及其引起的病斑特征差异。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三项农业防治樱桃细菌性穿孔病的措施，并简要说明其作用原理。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指导如何在樱桃树发芽前使用化学药剂预防细菌性穿孔病，需具体说明药剂种类及使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在樱桃生长季节，制定一个针对细菌性穿孔病的喷药计划，需包括药剂选择、浓度和喷施频率。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举出樱桃缺硼症的三种典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对樱桃缺硼症，提出一项土壤管理的改良措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么过量使用氮、钾、钙肥料会加剧樱桃树的缺硼现象？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "编辑一份简短的樱桃缺硼症防治指南，重点包括防治时期和方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在樱桃种植中，如何通过叶面施肥来有效预防缺硼症状的发生？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述樱桃缺铁症的症状及其发展过程。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种改善樱桃树土壤中铁元素吸收能力的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出在樱桃树防治缺铁症时，硫酸亚铁与有机肥混合的具体比例和施用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么过碱和高碳酸钙含量的土壤会导致樱桃树缺铁。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出一种樱桃树缺铁症的叶面治疗方法，并说明施用频率和持续时间。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结樱桃裂果病的主要病因和症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种樱桃裂果的类型并描述其特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "说明樱桃小果病毒如何影响樱桃植株及其果实。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出针对樱桃裂果病的农业防治措施，至少提及两项。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在樱桃裂果病预防中，如何利用药剂防治？请提供具体操作和建议浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述樱桃褐斑穿孔病的典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种樱桃褐斑穿孔病的病原，并指出其分类。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出樱桃褐斑穿孔病的主要发病时期以及促进病害发生的环境条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结三条农业防治樱桃褐斑穿孔病的措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出两种用于防治樱桃褐斑穿孔病的化学药剂及其建议稀释比例。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结樱桃褐腐病的主要症状和发病规律。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于防治樱桃褐腐病的药剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释樱桃褐腐病的病原体是什么并描述其如何越冬。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对樱桃褐腐病，提出两项农业防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在樱桃园管理中，应如何调控大棚内的湿度来预防樱桃褐腐病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述樱桃褪绿环斑病的症状特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种樱桃褪绿环斑病的传播途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已感染樱桃褪绿环斑病的结果树，应采取什么措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐一种用于治疗樱桃褪绿环斑病的药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简述如何通过农业措施预防樱桃褪绿环斑病。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述樱桃黑色轮纹病的症状及其特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举几种可以有效防治樱桃黑色轮纹病的抗病樱桃品种。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简述樱桃黑色轮纹病的发病规律，包括病原菌的越冬方式和传播条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出针对樱桃黑色轮纹病的农业防治措施，至少提及两项。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐几种用于治疗樱桃黑色轮纹病的药剂名称及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结樱桃黑霉病的主要症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于防治樱桃黑霉病的药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释樱桃黑霉病的发病规律，特别是强调有利于病害发展的环境条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出两项减少樱桃黑霉病发生几率的田间管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述如何在樱桃采摘后正确处理以降低黑霉病的感染风险。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]
