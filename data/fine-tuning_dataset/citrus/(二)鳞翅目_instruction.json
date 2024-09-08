@@ -1,0 +1,1262 @@
+[
+    {
+        "instruction": "描述柑橘大蓑蛾幼虫的特征及其对柑橘作物的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种物理方法和两种化学方法用于防治柑橘大蓑蛾，并简要说明其操作要点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释大蓑蛾在不同地区发生代数的差异，以及这种差异对柑橘种植者的意义。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括大蓑蛾从幼虫到成虫的生命周期，重点关注其对柑橘树的影响阶段。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么保护寄生蜂对于控制柑橘大蓑蛾的种群至关重要？给出理由。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘扁刺蛾幼虫的特征及其对柑橘叶片造成的危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种用于防治柑橘扁刺蛾的生物方法，并简要说明其操作方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出柑橘扁刺蛾成虫最活跃的时段以及它们的趋光特性如何被应用于防治中。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "修改以下防治建议，使其更适用于有机柑橘园：'喷施80%敌敌畏乳油800倍液'。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结柑橘扁刺蛾在不同地区的世代发生规律，特别指出四川和江西的情况。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘褐带卷蛾的幼虫对柑橘造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种用于防治柑橘褐带卷蛾的生物方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出柑橘褐带卷蛾成虫在形态上的性别差异。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括柑橘褐带卷蛾在不同地区的年发生代数。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议一种在柑橘花期使用的化学农药防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘凤蝶的形态特征，包括成虫、卵、幼虫和蛹的特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于防治柑橘凤蝶的生物方法，并简要说明其原理。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出柑橘凤蝶在不同地区的年发生代数，并解释其越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出针对柑橘凤蝶1至3龄幼虫期推荐的化学防治药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括柑橘凤蝶对柑橘作物造成的危害及主要为害状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘受桃蛀野螟侵害后的具体症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种区分桃蛀野螟幼虫与其他害虫幼虫的形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括桃蛀野螟在不同地区的年发生代数，并特别指出其在广东柑橘园的情况。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议两种物理方法来预防柑橘园中的桃蛀野螟。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么成虫会被糖醋液吸引，并提出利用这一习性进行监测或防治的策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘尺蠖对柑橘树造成的具体危害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于防治柑橘尺蠖的有效化学药剂及其建议稀释比例。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括油桐尺蠖在广东一年中的世代发生规律。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何利用农业措施减少柑橘尺蠖的虫蛹数量。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "说明在成虫羽化期，采取何种物理方法可以有效减少柑橘尺蠖的成虫基数。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘产区鸟嘴壶夜蛾的为害状以及它对柑橘果实的具体影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出鸟嘴壶夜蛾成虫的显著外观特征，包括尺寸、颜色和独特标记。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括鸟嘴壶夜蛾在不同地区柑橘产区的发生规律，特别是其活跃时期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据提供的信息，建议几种有效的鸟嘴壶夜蛾防治策略，特别强调利用生物防治和物理防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出鸟嘴壶夜蛾卵的形态特点，包括大小、颜色变化及表面结构。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柚巾夜蛾对柑橘作物造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举柚巾夜蛾成虫的几个显著外观特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括柚巾夜蛾幼虫的形态特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简述柚巾夜蛾在广东省的发生规律，特别指出幼虫出现的高峰期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出针对柚巾夜蛾的有效防治建议，可以参照嘴壶夜蛾的防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘果实受棉铃实夜蛾和烟实夜蛾为害的具体症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结棉铃实夜蛾与烟实夜蛾在形态上的主要区别。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种防治柑橘园中棉铃实夜蛾和烟实夜蛾的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为何棉铃实夜蛾和烟实夜蛾在广东柑橘种植区有蔓延趋势。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出成虫产卵时选择的植株特点，并说明其产卵后的习性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘斜纹夜蛾幼虫的外观特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种可用于防治柑橘斜纹夜蛾幼虫的生物制剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括柑橘斜纹夜蛾成虫的活动习性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何通过物理方法减少柑橘园中斜纹夜蛾的虫口密度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据给出的信息，建议一种适合在傍晚喷施以控制柑橘斜纹夜蛾的化学农药及其稀释比例。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述银纹夜蛾对柑橘造成的具体为害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种可用于防治银纹夜蛾的化学药剂类别。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何通过改变果园环境来预防银纹夜蛾的发生。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "银纹夜蛾的幼虫有哪些显著的形态特征？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括银纹夜蛾的生活史，包括其越冬方式和一年中的世代数。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述肖毛翅夜蛾对柑橘造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举五种除了肖毛翅夜蛾以外，也会侵害柑橘的夜蛾种类。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何根据形态特征辨认肖毛翅夜蛾。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供针对柑橘夜蛾类害虫的一般防治建议。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "询问肖毛翅夜蛾成虫的体色和翅膀上的特殊标记。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述亚洲玉米螟对柑橘造成的具体为害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种防治亚洲玉米螟的方法，并简要说明。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "亚洲玉米螟幼虫的形态有哪些显著特征？请详细说明。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释亚洲玉米螟的发生规律，特别是在与柑橘相关的环境中。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么避免在柑园周围种植玉米和高粱对控制亚洲玉米螟很重要？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述嘴壶夜蛾对柑橘造成的具体为害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举嘴壶夜蛾成虫的形态特征，特别强调与柑橘相关的识别要点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括嘴壶夜蛾在不同地区的年发生代数及其越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出嘴壶夜蛾成虫活动的高峰期以及它们的习性特点，尤其是与柑橘果园相关的部分。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简要说明针对嘴壶夜蛾的防治方法，可参考鸟嘴壶夜蛾的防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述大造桥虫对柑橘造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举大造桥虫的形态特征，特别指出其与柑橘相关的识别要点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括大造桥虫在广东地区一年的发生代数及其与柑橘幼果受害的关系。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "除了参照油桐尺蠖的防治方法，针对柑橘园提出两项针对性的防治大造桥虫措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据给出的信息，总结如何通过观察大造桥虫的生命周期来预测并预防其对柑橘果实的侵害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述小黄卷叶蛾对柑橘造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结小黄卷叶蛾的形态特征，重点关注易于识别的区别标志。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出小黄卷叶蛾在不同地区的发生代数，并说明其越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释小黄卷叶蛾的生活习性，包括其活动温度范围、产卵习惯以及幼虫行为。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出防治小黄卷叶蛾的建议措施，可参照拟小黄卷叶蛾的防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述玉带凤蝶的雌成虫形态特征，并特别指出其与柑橘的相关性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结玉带凤蝶的发生规律，包括世代数量和越冬方式，以及与柑橘作物的关系。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出玉带凤蝶幼虫在不同龄期的主要体色变化，并举例说明其如何适应柑橘树环境。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "询问玉带凤蝶对柑橘造成的具体为害症状，以及为何这种蝴蝶会对柑橘种植产生威胁。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供针对玉带凤蝶的有效防治建议，考虑到措施应与柑橘园管理实践相结合。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述茶蓑蛾对柑橘作物造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种可用于防治茶蓑蛾的生物制剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "茶蓑蛾在不同地区的世代数量有何差异？请总结。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释茶蓑蛾雌虫如何吸引雄虫进行交尾。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于柑橘园中发现的茶蓑蛾护囊，建议采取的物理防治措施是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述黄刺蛾对柑橘作物造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举黄刺蛾成虫的两个显著外形特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "黄刺蛾在哪些地区一年会发生1到2代？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请说明黄刺蛾从卵到成虫的大致生命周期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出两种黄刺蛾的天敌生物。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述壶夜蛾成虫对柑橘果实造成的具体危害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举壶夜蛾成虫的几个关键形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结壶夜蛾幼虫的生活习性和食性特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出壶夜蛾在哪个时间段对柑橘果实的为害最严重，并说明原因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出防治壶夜蛾的有效方法，需参照鸟嘴壶夜蛾的防治策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述大钩翅尺蛾在柑橘植株上的具体为害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举大钩翅尺蛾幼虫与大造桥虫幼虫的主要形态区别。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简述大钩翅尺蛾成虫的外观特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括大钩翅尺蛾在田间的发生季节和周期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议针对大钩翅尺蛾的有效防治措施，特别是在柑橘园中的应用。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述拟后黄卷叶蛾对柑橘造成的具体危害，并列举出其主要影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结拟后黄卷叶蛾的形态特征，特别指出雌雄虫的区别。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举拟后黄卷叶蛾在不同地区的发生高峰期，并说明其对柑橘生长周期的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出拟后黄卷叶蛾幼虫在不同季节的为害对象变化，以及这种变化对柑橘产量的潜在威胁。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "询问拟后黄卷叶蛾防治方法中，有哪些措施是针对其生活习性和柑橘园管理的？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举出三种可以用来诱杀绿刺蛾成虫的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于柑橘园中的绿刺蛾幼虫，应选用哪种药剂在什么阶段进行喷杀最为有效？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述绿刺蛾从卵到成虫的完整生命周期过程。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "除了绿刺蛾，还有哪些刺蛾种类会对柑橘作物造成危害？请列出至少三种。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在防治绿刺蛾时，如何利用生物防治手段保护环境并减少化学农药的使用？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述蜡彩蓑蛾对柑橘造成的具体危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举蜡彩蓑蛾雌雄形态的主要区别",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结蜡彩蓑蛾一年中的发生规律，重点关注其对柑橘的危害时期",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何根据给出的发生规律制定柑橘园的防治时间表",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供几种针对蜡彩蓑蛾的有效防治措施，特别提及适用于柑橘树的方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述达摩凤蝶对柑橘作物造成的具体危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举达摩凤蝶成虫的三个形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括达摩凤蝶的发生规律，包括世代数、越冬方式及羽化时间",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "修改防治方法的指示，使其专门针对柑橘园区内的达摩凤蝶",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "询问达摩凤蝶幼虫的生长阶段及其对柑橘叶片的影响",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述外斑埃尺蛾对柑橘造成的具体为害情况。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举外斑埃尺蛾的成虫形态特征，特别指出与柑橘相关的识别要点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "编辑一段关于如何通过观察柑橘树叶的受害情况来判断是否遭受外斑埃尺蛾侵害的简短指南。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在外斑埃尺蛾的防治方法中，哪些措施也适用于柑橘园的管理？请列出至少两项。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据提供的信息，总结外斑埃尺蛾幼虫的显著外观特征，以便区别于其他柑橘园常见害虫。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述枯叶夜蛾对柑橘果实造成的具体危害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种用于诱杀枯叶夜蛾成虫的方法，并说明制作过程。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括枯叶夜蛾的形态特征，特别强调其与识别相关的独特之处。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据给出的信息，总结枯叶夜蛾在浙江和广东的主要活动时期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对枯叶夜蛾幼虫，推荐一种有效的化学防治措施，包括药剂名称和使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘产区白囊蓑蛾的形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种白囊蓑蛾的生物防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释白囊蓑蛾一年中的发生规律，包括越冬、孵化和为害盛期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么敌百虫药剂被认为是控制柑橘产区白囊蓑蛾的有效选择？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供一种物理方法来减少柑橘园中白囊蓑蛾的数量。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述蓝凤蝶的形态特征，并特别指出与柑橘相关的危害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举蓝凤蝶在不同生长阶段的颜色变化，并说明其与柑橘作物的关系。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括蓝凤蝶的发生规律，包括其生命周期与柑橘作物的相关性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据提供的信息，总结蓝凤蝶与柑橘凤蝶在为害状上的共同点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供针对蓝凤蝶的有效防治策略，注意要与针对柑橘凤蝶的防治方法相参照。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘长卷叶蛾幼虫的特征及其对柑橘的危害方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举柑橘长卷叶蛾在不同地区一年发生的代数，并说明其越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括柑橘长卷叶蛾成虫的外观特点，包括颜色和翅膀形状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出柑橘长卷叶蛾的生活习性，如活动时间、产卵习性及食性偏好。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议针对柑橘长卷叶蛾的有效防治措施，可参考拟小黄卷叶蛾的防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述美凤蝶对柑橘作物造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出美凤蝶成虫的几种形态特征，并特别指出与柑橘相关的识别要点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据美凤蝶的发生规律，简述针对柑橘园的有效防治策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "编辑一段关于如何区分美凤蝶幼虫不同生长阶段的简短说明，重点提及与柑橘叶相关的特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结美凤蝶蛹的两种主要颜色型态，并解释它们在柑橘种植区的识别意义。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘受落叶夜蛾侵害的症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出落叶夜蛾在不同地区的别名。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何识别落叶夜蛾的成虫和幼虫。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结落叶夜蛾在福建一年内的发生代数及其越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供针对柑橘上落叶夜蛾的有效防治措施建议。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述艳叶夜蛾对柑橘造成的具体为害状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种用于防治艳叶夜蛾的方法，并说明其原理。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "艳叶夜蛾在哪个地区没有分布记录？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "编辑一段针对果农的建议，指导他们如何利用天敌控制艳叶夜蛾。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据给出的信息，推断艳叶夜蛾成虫最活跃的时间和环境条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述超桥夜蛾对柑橘类果实造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出超桥夜蛾的形态特征，特别是与它在柑橘果园中的识别相关的。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结超桥夜蛾的发生规律，重点关注其在柑橘种植区域的活动时间段。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据给出的信息，提出针对超桥夜蛾在柑橘园中的防治策略建议。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么超桥夜蛾被称为'超桥夜蛾'，与它的哪个形态特点有关？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘产区中桥夜蛾的为害状以及它与嘴壶夜蛾为害状的关系。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举桥夜蛾的形态特征，特别是其成虫的翅膀形状和颜色。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结桥夜蛾在浙江黄岩一年中的发生代数及其各代的高峰期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么桥夜蛾幼虫的数量相比嘴壶夜蛾要少，涉及其卵的寄生情况。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出针对桥夜蛾的防治建议，可以参考嘴壶夜蛾的哪些防治措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述掌夜蛾对柑橘造成的具体危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结掌夜蛾的形态特征，重点关注易于辨认的细节",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出掌夜蛾在一年中的发生代数以及主要为害时期",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释掌夜蛾幼虫的食性和移动习性如何增加柑橘受害风险",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供针对掌夜蛾的有效防治建议，可参考嘴壶夜蛾的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述一点蝙蝠蛾对柑橘作物造成的具体危害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种物理方法控制一点蝙蝠蛾在柑橘园中的扩散。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么一点蝙蝠蛾的幼虫能在柑橘树上造成环状剥皮现象。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据文中信息，概括一点蝙蝠蛾的生命周期各个阶段。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供一种化学防治一点蝙蝠蛾的方法，并说明最佳施用时期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述双线盗毒蛾对柑橘作物造成的具体危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种可用于控制双线盗毒蛾的化学药剂及其推荐浓度",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释双线盗毒蛾的生命周期中，幼虫越冬的具体行为和环境条件",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结双线盗毒蛾成虫的识别特征，包括体型、颜色及独特标志",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出针对柑橘园中双线盗毒蛾的综合管理策略，至少包括两项非化学防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘受咖啡豹蠹蛾侵害后的具体症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种区分咖啡豹蠹蛾雌雄成虫的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括咖啡豹蠹蛾的生命周期及其对柑橘的主要影响时期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议两种物理方法防止咖啡豹蠹蛾在柑橘园中的扩散。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出针对咖啡豹蠹蛾幼虫的化学防治措施，包括推荐药剂及使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘枯叶蛾的为害状以及它的形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结柑橘枯叶蛾的发生规律，包括其世代数、越冬习性及产卵特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举一种用于防治柑橘枯叶蛾的有效药剂及其使用浓度和时期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释柑橘枯叶蛾幼虫的活动习性和如何识别其卵。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么柑橘枯叶蛾在白天难以被发现？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘潜叶蛾的为害状及对柑橘树的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举几种有效的柑橘潜叶蛾化学防治药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释柑橘潜叶蛾的生活史，包括其发生世代和最适繁殖条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出非化学方法控制柑橘潜叶蛾的策略，至少提及两种方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结柑橘潜叶蛾的形态特征，包括成虫、卵、幼虫和蛹的描述。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘木蛾的形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出柑橘木蛾幼虫的主要为害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请问在江西三湖柑橘产区，柑橘木蛾一年发生几代？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出柑橘木蛾幼虫常用的隐蔽方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "除了参照卷叶蛾的防治方法，还有哪些天敌可以用于柑橘木蛾的生物防治？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]
