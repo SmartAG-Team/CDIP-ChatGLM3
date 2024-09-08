@@ -1,0 +1,1292 @@
+[
+    {
+        "instruction": "列举三种葡萄霜霉病在不同部位的症状表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释葡萄霜霉病的病原及其越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄霜霉病发生的气候条件，并指出为何这些条件有利于病害流行。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括果园管理中减少葡萄霜霉病发生应采取的非化学措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出两种常用的治疗性杀菌剂及其推荐使用浓度，用于葡萄霜霉病的防控。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种葡萄黑腐病在不同部位的症状表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释葡萄黑腐病的病原体及其越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述果园环境如何影响葡萄黑腐病的发病率。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于不需单独药剂防控的葡萄园，提出两项基本的防控措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐两种用于防治葡萄黑腐病的有效药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种预防葡萄白腐病的田间管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释白腐病如何在葡萄植株间传播，并提及关键因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述白腐病对葡萄果实的具体危害过程。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结葡萄白腐病的主要防控技术，重点关注果实保护措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么说葡萄白腐病是一种流行性强的病害？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种葡萄扇叶病的症状类型，并简述各自特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释葡萄扇叶病的病原及其越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄扇叶病的传播途径，区分近距离和远距离传播方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对葡萄扇叶病，提出首要的防控技术措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果葡萄园中发现扇叶病病株，应采取哪些紧急处理步骤？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可能传播葡萄花叶病毒的途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么培育无病毒苗木是防控葡萄花叶病的根本措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出葡萄花叶病的症状在植株哪个部位最明显，并描述其特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供一项针对蚜虫防控的具体措施，以减少葡萄花叶病的传播。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄花叶病是由哪种病原体引起的？如何在田间过冬？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可能导致葡萄叶缘干枯的直接原因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已发生叶缘干枯的葡萄植株，建议采取哪些补救措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么过度使用速效化肥会促成葡萄叶缘干枯现象。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在葡萄栽培中，如何通过调整施肥策略预防叶缘干枯病害？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述叶缘干枯在葡萄生长周期中的哪个阶段最常出现，以及其初期症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可以用来防治葡萄黄叶病的铁肥。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对葡萄黄叶病，如何通过改变施肥策略来预防？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么土壤中的铁会从可溶性状态转变为不溶性状态，导致葡萄缺铁？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在葡萄黄叶病的防控技术中，如何正确进行叶面喷施铁肥？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "除了铁元素缺乏，还有哪些因素会加重葡萄黄叶病的发生？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种预防葡萄休眠期冻害的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分析葡萄生长期冻害对嫩梢的具体影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "修改这段话，强调葡萄冻害防控中增施有机肥的重要性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据上下文，总结葡萄遭受冻害的主要内在原因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么结果量过大可能导致葡萄休眠期冻害更加严重？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种葡萄皮尔斯病的主要症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释皮尔斯病的病原及其传播途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议两种预防葡萄皮尔斯病的措施，重点针对媒介昆虫的防控。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已感染皮尔斯病的轻病株，推荐两种可用的治疗药物。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述如何进行苗木的温汤消毒以防止皮尔斯病的传播。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可能导致葡萄缺硼症的土壤条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在防控葡萄缺硼症的技术中，如何通过根施硼肥来补充硼素？给出具体操作方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄缺硼时在叶片上的初期和晚期症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么在葡萄的整个生长期内需要平衡供应硼素？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄种植中，叶面喷施硼肥的具体时间点和浓度是如何规定的？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可以有效减少葡萄气灼病发生的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已发生气灼病的葡萄果粒，描述其初期和严重期的外观变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释导致葡萄气灼病的两个主要原因，并说明如何通过修剪来预防这一病症。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么在高温季节喷施0.1%硫酸铜溶液能够帮助葡萄抵御气灼病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出一种能够提高葡萄树耐热性和抗旱性的施肥策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄缺镁症的初期症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举导致葡萄缺镁症的两个主要原因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于酸性土壤，应选择哪种镁肥进行施用以防治缺镁症？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果要通过叶面喷镁来预防缺镁症，应该从何时开始这一操作，并需要喷洒几次？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在葡萄栽培中，如何科学平衡镁与其他中微量元素肥料的施用？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可以有效防治葡萄缺锌症的锌肥种类。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已经表现出缺锌症状的葡萄园，建议何时开始喷施锌肥以达到最佳防治效果？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "编辑一段关于如何通过增加有机肥施用来预防葡萄缺锌症的简短农技指导。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "缺锌症对葡萄植株的果穗和叶片分别有哪些具体影响？请描述。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在什么样的土壤条件下，葡萄缺锌症的发生会更加严重？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种预防葡萄穗轴褐枯病的管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释穗轴褐枯病对葡萄果实的具体影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄穗轴褐枯病的发病初期症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供两种治疗葡萄穗轴褐枯病的有效药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结穗轴褐枯病的病原体及其越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种在葡萄生长过程中可以预防炭疽病的栽培管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释什么是葡萄炭疽病的潜伏侵染特点，并说明其对防治工作的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄炭疽病在果实上的初期和晚期病症有何不同。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐两种对葡萄炭疽病具有治疗作用的杀菌剂，并提供其推荐使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结在葡萄发芽前应采取哪些措施来有效铲除炭疽病菌。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种预防葡萄轮纹病的农业措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释葡萄轮纹病的病原体是什么，并描述其越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄轮纹病的症状，包括病斑的形状、颜色及大小。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么阴雨天气会加重葡萄轮纹病的发病情况？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄轮纹病的潜伏期通常为多久？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄斑枯病的初期症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举导致葡萄斑枯病发生的主要因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释葡萄斑枯病的病原体是什么，并说明其如何越冬。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出哪些葡萄品种对斑枯病较为敏感，并说明为何欧亚种葡萄对此病免疫。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "除了'灰斑病'防控技术外，还能提供哪些针对葡萄斑枯病的防治建议？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可以用来消毒葡萄苗木的化学药剂及其浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述根癌病对葡萄植株的具体危害表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么嫁接口附近的伤口容易成为根癌病菌侵入的途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已经感染根癌病的葡萄植株，简述推荐的治疗方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为了预防葡萄根癌病，提出两项与田间管理相关的措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄疫腐病的主要症状及其对葡萄植株的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种可能导致葡萄疫腐病发生的环境因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于轻度感染疫腐病的葡萄树，简述推荐的治疗方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在防控葡萄疫腐病的措施中，如何通过加强果园管理来减少病害发生？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供一种用于预防葡萄疫腐病的药剂名称及其建议的施用浓度范围。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种葡萄卷叶病在红色品种上的典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释葡萄卷叶病的病原及其主要传播方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于葡萄卷叶病，建议一种有效的防控措施并说明其重要性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄卷叶病对葡萄果实的具体影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么在防治葡萄卷叶病时，要强调使用无病毒苗木？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄蔓枯病的初期病斑特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于杀灭葡萄蔓枯病越冬病菌的药剂及其浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出两项加强葡萄栽培管理以预防蔓枯病的措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么管理粗放和肥水使用不当会增加蔓枯病的发生概率。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已发现轻病斑的葡萄枝蔓，应采取哪些具体治疗步骤？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种在葡萄芽枯病防控中使用的化学药剂及其推荐浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述芽枯病对葡萄芽部造成的初期和后期症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么高温多雨条件下芽枯病更易发生，并提出一项相应的预防措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄园管理中，如何通过调整施肥策略来增强葡萄树对芽枯病的抵抗能力？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在不单独施药的情况下，如何利用防治其他葡萄病害的药剂来兼防芽枯病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可能的梢枯病防控方法，特别针对葡萄种植。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄梢枯病的主要症状，以及它如何随时间进展。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释葡萄梢枯病的可能病原，并说明其为何难以控制。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出预防葡萄梢枯病最关键的措施，并解释其重要性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分析葡萄梢枯病对红提葡萄品种的影响，与其他品种相比有何不同。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可以有效预防葡萄白纹羽病的无病苗木消毒药剂及其浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已感染白纹羽病的葡萄树，应如何操作以防止病菌传播，并给出一种推荐的治疗药剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议在何种类型的土壤上不适宜建立新葡萄园以避免白纹羽病，并解释原因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在葡萄园管理中，提出两项增强树体抗病能力的具体措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简述利用福尔马林对土壤进行密闭熏蒸杀菌的步骤，以预防葡萄白纹羽病。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种在葡萄枝枯病防治中使用的化学药剂及其推荐浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄枝枯病对葡萄植株不同部位的影响，包括初期和后期症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么树势衰弱会加重葡萄枝枯病的发生，并提出一项改善措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出葡萄枝枯病的病原体，并说明其如何在田间传播。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结一套有效的葡萄枝枯病综合防控策略，至少包含两项具体措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种预防葡萄房枯病的农业管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "房枯病对葡萄的主要危害体现在哪些方面？请简述。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "房枯病的病原体是什么？它是如何在葡萄植株间传播的？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果果园已经发生了房枯病，应采取什么紧急措施减少病害扩散？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "除了房枯病，提到的另一种葡萄病害是什么？用于防控这两种病害的有效药剂是否相同？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出三种针对葡萄霜霉病的生物防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何区分葡萄黑痘病与灰霉病的症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出一个有效减少葡萄炭疽病发生的综合管理方案。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄白腐病最易发病的环境条件是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在不使用化学农药的前提下，列出预防葡萄穗轴褐枯病的自然措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种葡萄溃疡病在不同部位的症状表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释溃疡病与白腐病在葡萄果实上的区别。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括葡萄溃疡病的病原及主要传播途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出两项防控葡萄溃疡病的农业措施，并简述其操作方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐两种适用于葡萄套袋前的高效杀菌剂及其使用浓度范围。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可以有效防控葡萄灰霉病的药剂及其推荐浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为何低温潮湿环境有利于灰霉病的发生，并提出一项相应的管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述灰霉病在葡萄不同生长阶段的症状表现，至少提及两个阶段。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结灰霉病的病原以及其在果园中的主要传播方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据提供的信息，提出一套综合策略来预防葡萄灰霉病，包括农业措施和化学防控。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄白粉病在叶片上的初期和后期症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于控制葡萄白粉病的药剂及其推荐浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么枝叶茂密和氮肥过量会增加葡萄白粉病的发生概率。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供两种非化学方法以预防葡萄白粉病。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结葡萄白粉病的病原体以及它如何在不同季节传播。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄褐点病的初期症状及其对葡萄质量的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种可用于防治葡萄褐点病的药剂及其推荐使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何通过果园管理措施减少葡萄褐点病的发生。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄褐点病的病原体是什么？它是如何传播的？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在不使用化学药剂的情况下，提出两种增强葡萄树抗病能力的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种预防葡萄褐斑病的栽培管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释葡萄小褐斑病与大褐斑病的主要区别。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄褐斑病的病原及其越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议一种有效的化学药剂防治葡萄褐斑病，并给出使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结如何通过改善果园环境来减少葡萄褐斑病的发生。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述蝇粪病对葡萄果实造成的具体影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出两种可以有效防控蝇粪病的药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出在设施葡萄栽培中降低蝇粪病发生概率的管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么葡萄生长后期多雨潮湿的环境有利于蝇粪病的发生。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结防止葡萄蝇粪病的关键时期和推荐的药剂施用时机。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄灰斑病的症状及其在不同湿度条件下的变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种预防葡萄灰斑病的有效措施，并简要说明其原理。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释葡萄灰斑病的病原体是什么，以及它是如何在果园中传播的。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议针对已知去年灰斑病严重的葡萄园，应选择哪些药剂进行防治，并给出施药频率。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结葡萄灰斑病发生的主要环境因素，以及为什么意大利品种更易受此病害影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种常见的酵母菌种类，这些菌种与葡萄酸腐病有关。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过果园管理措施减少葡萄果粒的伤口，以预防酸腐病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释果穗套袋如何帮助预防葡萄酸腐病，并列举其两个主要好处。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于不套袋的葡萄，一旦发现个别果粒受害，推荐使用哪些药剂进行防控，并给出建议的用药频率。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述酸腐病在葡萄上的初期症状，以及随着病情进展会出现哪些变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种预防葡萄曲霉病的田间管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄曲霉病的初期症状，并指出其颜色变化过程。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么果实接近成熟时更容易受到曲霉病的侵害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于葡萄采后管理，提出两种减少果实伤口的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结葡萄曲霉病的病原体及其传播方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种预防葡萄锈病的农业管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄锈病的主要症状和病原体。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议两种适用于控制葡萄锈病的化学药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么在葡萄生长季节要特别注意夜间多露的天气条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出清除葡萄园内病残体的最佳时机，并说明其对控制锈病的重要性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种预防葡萄软腐病的田间管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释葡萄软腐病的主要病原体及其传播方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄软腐病对果实的具体影响，并指出在什么时期该病害最为活跃。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结葡萄软腐病与果实受伤之间的关系，以及环境因素如何加剧病情。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出针对葡萄软腐病，除了参考“曲霉病”防控技术外，还有哪些针对性的防治建议。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种在葡萄生长中后期防控霉污病的有效药剂及其推荐浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述霉污病对葡萄外观质量的影响，并说明其病原体。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么蚧壳虫的存在会促进霉污病的严重发生。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄发芽前应使用何种药剂处理枝蔓以预防霉污病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对蚧壳虫若虫，推荐一种防治药物并给出使用频率。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种葡萄黑痘病在不同部位的症状表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释葡萄黑痘病的病原及其越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于防控葡萄黑痘病，提出一项在冬季应采取的具体措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "哪些气候条件有利于葡萄黑痘病的发生？请简述。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐两种在葡萄生长期用于防控黑痘病的有效药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可能导致葡萄裂果的原因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么土壤缺钙会加重葡萄裂果症。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议一个在葡萄落花后半个月开始实施的钙肥喷施计划。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄果实催红时如何避免因用药导致的果粒开裂？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述一种防控葡萄裂果症的栽培管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种在葡萄上可能因雹害引发的病菌感染及其对应防控药剂的名称。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述雹害对葡萄枝蔓、叶片、果实的具体影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么防雹网是预防葡萄雹害的首要措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供一种适用于葡萄雹害后病菌感染防控的药剂配比和使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结葡萄雹害的病因和发生特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可能导致葡萄药害加剧的环境因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议一种适用于缓解葡萄药害的生物调节剂，并说明其使用浓度范围。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结避免葡萄药害发生的三项关键农业实践。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述葡萄叶片上可能出现的两种不同类型药害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出在葡萄园管理中，如何通过调整用药策略来预防药害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]
