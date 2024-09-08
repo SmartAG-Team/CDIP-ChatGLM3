@@ -1,0 +1,1082 @@
+[
+    {
+        "instruction": "总结苹果腐烂病的主要症状及其识别特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三项影响苹果腐烂病发生程度的关键因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果树腐烂病的两个为害高峰期，并解释为何春季高峰更为严重。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出针对苹果树腐烂病的预防措施，重点是如何减少树体伤口。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "阐述刮治法治疗苹果腐烂病的技术要领，包括如何正确处理病斑边缘。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果水锈病的症状及其对果实的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结苹果水锈病的发生特点，特别是提到的病原体越冬位置和传播条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于防治苹果水锈病的药剂及其推荐浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么在果实生长中后期和多雨年份苹果水锈病更易发生。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出两项改善果园环境以减少苹果水锈病发生风险的管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果疫腐病对果实的具体影响",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可用于预防苹果疫腐病的农药及其使用浓度",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何通过改善果园管理减少苹果疫腐病的发生",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出针对苹果树根颈部疫腐病斑的治疗方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结苹果疫腐病的发生特点，包括病害时期和环境条件",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果红粉病的主要症状和识别特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结苹果红粉病的发病条件和促进因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三项预防苹果红粉病的农业管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为何苹果红粉病通常不需要专门的药剂防治？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已发生红粉病的苹果果园，提出一项即时的管理建议。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述链格孢黑腐病对苹果造成的具体症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种可能导致链格孢黑腐病加重的因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于苹果的链格孢黑腐病，提出一项非化学防治的策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么套袋果实更易受链格孢黑腐病影响？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在不使用专门药剂的情况下，如何综合管理预防苹果链格孢黑腐病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果泡斑病的症状及其对苹果外观的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结苹果泡斑病的发生特点，包括病菌的越冬方式、传播途径及发病条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于防治苹果泡斑病的有效药剂及其推荐浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么硫酸铜钙在某些苹果品种上使用时可能引发果锈现象。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供一个针对苹果泡斑病的药剂防治时间表，包括首次喷药的时间和后续喷药的频率。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果树银叶病的主要症状及其对树木的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结苹果树银叶病的发生特点，包括病菌的越冬方式和传播途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三项预防苹果树银叶病的关键防治技术。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么树体表面的机械伤口会增加苹果树患银叶病的风险。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指导如何使用硫酸-8羟基喹啉治疗轻病苹果树，包括最佳施药时间和方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结苹果花腐病的主要症状及其对苹果植株的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种苹果花腐病的防治药剂及其推荐使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果花腐病的病原体越冬方式以及春季传播条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么海拔较高、土壤黏重及排水不良的果园更易发生苹果花腐病。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出针对苹果花腐病的综合管理措施，包括秋季和春季应采取的行动。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果斑点落叶病在叶片上的初期和后期症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种容易受苹果斑点落叶病影响的苹果品种。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么夏季多雨会加重苹果斑点落叶病的病情。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出一项在春季控制苹果斑点落叶病的果园管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐一种用于防治苹果斑点落叶病的有效药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果褐斑病的三种叶片症状类型及其特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种影响苹果褐斑病发生轻重的因素，并简要说明其作用。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出针对苹果褐斑病的综合防治措施，至少包括两个方面的策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐几种用于防治苹果褐斑病的有效药剂，并说明使用时的注意事项。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么在没有全套袋的苹果上不建议使用铜素杀菌剂？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种可能导致苹果白粉病加重的环境因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对苹果白粉病，建议采取哪些果园管理措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果白粉病在新梢上的具体症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在苹果树上，白粉病菌主要通过什么途径传播？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐两种用于防治苹果白粉病的药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果干腐病的溃疡型症状及其发展过程。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三项预防苹果干腐病的栽培管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么弱树和弱枝更容易受到苹果干腐病的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供两种用于苹果干腐病铲除性防治的药剂及其推荐浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已感染苹果干腐病的主干和主枝，应采取什么措施进行治疗？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果锈病在叶片上的初期和最终症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出三种可以用于预防苹果锈病的化学药剂及其推荐浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么苹果锈病的发生与桧柏的存在有关，并说明其传播机制。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于无法移除的桧柏，提出在苹果锈病季节应采取的保护措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结苹果园如何利用气象条件预测锈病的严重程度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结苹果黑星病的主要症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种苹果黑星病常用的生长期药剂防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释苹果黑星病的发生与哪些气候因素密切相关",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述如何通过果园卫生措施减少苹果黑星病的病菌越冬",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么苹果品种间的感病程度存在差异？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果白星病的主要症状及其对果树的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出两种用于预防苹果白星病的农事管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐三种治疗苹果白星病的有效药剂，并提供其建议使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么在苹果树管理中清除病残落叶对于控制白星病至关重要。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于一套袋的苹果园，提出两种适合的白星病化学防控方案。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述轮纹叶斑病对苹果叶片造成的初期和后期症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结轮纹叶斑病的病原体及传播途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出轮纹叶斑病发病的季节特点以及哪些环境条件会加剧病情。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "除了轮纹叶斑病，苹果树还可能遭受哪种病害？并简述其防治技术与轮纹叶斑病防治技术的相同之处。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对轮纹叶斑病，提出一项非化学方法的预防措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果根朽病的典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可以用于治疗苹果根朽病的药剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何通过土壤处理预防苹果根朽病。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已感染根朽病的苹果树，给出一种非化学治疗方法及其操作步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么在新建苹果园时应避免选择旧林地？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可用于预防苹果树紫纹羽病的无病苗木培育方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已感染紫纹羽病的苹果树，简述刮除病部组织后的处理步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "哪些特定地点改建的果园容易发生苹果紫纹羽病？请列出并解释原因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议两种非化学方法用于苹果园土壤消毒，以减少紫纹羽病的发生。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "除了化学治疗，提出两种辅助措施帮助受紫纹羽病影响的苹果树恢复健康。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果树感染白纹羽病的初期根部变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种除苹果以外，易受白纹羽病影响的植物。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释白纹羽病菌如何在果园中进行传播。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于改建自古墓坟场的苹果园，提出预防白纹羽病的具体措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结防治苹果白纹羽病应参考的另一种病害的防治技术。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果树圆斑根腐病的初期症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举导致苹果树圆斑根腐病发生的几个因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于轻病树，应采取什么措施以促进其恢复？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在防治苹果树圆斑根腐病时，如何科学配置结果量以保持树势健壮？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供两种治疗苹果树重病圆斑根腐病的有效药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果树花叶病的轻型花叶型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释苹果树花叶病的发生特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种预防苹果树花叶病的措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么说培育和使用无病毒苗木是对抗苹果花叶病的根本措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已经感染花叶病的苹果树，如何通过管理措施减轻病情？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种苹果锈果病的症状类型，并简要描述每种类型的特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释苹果锈果病的传播途径，特别是通过嫁接和根接触是如何发生的。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对苹果锈果病，提出两项关键的预防措施并说明其重要性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已经感染锈果病的苹果树，如何通过管理措施减轻果实受害程度？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么在苹果和梨混栽的情况下，锈果病更难以控制？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果树木腐病的症状以及它如何影响树木。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种能够有效预防苹果树木腐病的伤口涂抹剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释苹果树木腐病的发生特点，包括其病原体和传播途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对苹果园中的老弱苹果树，提出一套综合防治木腐病的策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么苹果树的机械伤口容易成为木腐病菌侵入的门户？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果缺钙症的痘斑型症状及其对果肉的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出苦痘型与痘斑型的主要区别，并说明哪种类型的苹果更容易发生苦痘型缺钙症。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种有效的速效钙肥及其推荐的使用浓度，用于防治苹果缺钙症。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简述苹果缺钙症发生的根本原因，并提出一项改善土壤钙素含量的具体措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么果实套袋可能加重苹果缺钙症的症状？并提出一项减少此影响的管理策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果树黄叶病的主要症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举导致苹果树黄叶病的土壤条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出改善苹果树黄叶病的栽培管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐几种用于树上喷铁治疗的铁肥及其浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何通过施用有机肥来预防苹果树黄叶病。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果树小叶病的具体症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释苹果树小叶病的成因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出两种改善苹果树小叶病的土壤管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议在苹果树哪个生长阶段开始喷施硫酸锌溶液以预防小叶病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "除了硫酸锌外，还推荐哪些喷施液用于治疗苹果树的小叶病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种可能导致苹果缩果病加重的因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于苹果缩果病的果面干斑型，描述其初期和后期的主要症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议一种在苹果开花期预防缩果病的措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么在沙质土壤和碱性土壤上种植苹果时，树上喷硼的效果更佳。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根施硼肥时，每株苹果树推荐的硼砂和硼酸用量是多少？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果日灼病的初期症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举导致苹果日灼病发生的两个主要原因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议一种预防苹果日灼病的修剪方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在防治苹果日灼病时，为何推荐夏季喷施尿素和磷酸二氢钾？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释套袋果摘袋时采用二次脱袋技术的作用。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果裂果病的症状及其对果品质量的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出导致苹果裂果病的主要原因，并解释其与水分供应的关系。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于预防苹果裂果病，提出两种具体的农业管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "说明为什么富士和国光品种的苹果更易受裂果病影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在防治苹果裂果病时，如何合理施用钙肥以补充土壤中的钙元素？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结苹果树药害的主要症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可能导致苹果树枝干发生药害的情况",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何避免苹果树在萌芽期遭受药害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述果实药害对苹果外观的影响",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出两项增强苹果树抗药能力的栽培管理措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果枝干轮纹病的症状及其对树木的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于防治苹果枝干轮纹病的药剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么富士苹果比其他品种更容易遭受枝干轮纹病的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供两种增强苹果树抗病能力的栽培管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "说明在苹果树发芽前应采取的病斑处理步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果轮纹烂果病的主要症状及其与炭疽病的区别。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于防治苹果轮纹烂果病的药剂及其推荐浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么果实套袋是预防轮纹烂果病的有效方法，并说明套袋前后需要采取的措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概述苹果轮纹烂果病的病原菌越冬方式以及影响病害发生的关键环境因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供在苹果采摘后，为了安全储藏以减少轮纹烂果病发生应采取的措施和建议药剂处理方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种苹果炭疽病的主要症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释苹果炭疽病的潜伏侵染现象是什么意思。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议两种果园管理措施来减少苹果炭疽病的发生。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "哪些农药被推荐用于苹果炭疽病的生长期防治？列出四种。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么给苹果套袋是防治炭疽病的有效方法之一？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种可以有效防治苹果霉心病的药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么苹果霉心病在北斗及元帅系品种中更常见，而在富士系品种中相对较轻？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果霉心病的心腐型症状，并说明它对果实的具体影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结苹果霉心病的发生特点，包括其病原、传播方式及影响发病的因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出在苹果花期进行霉心病化学防治的最佳时机和建议的喷药次数。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述套袋苹果上斑点病的症状特点",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出可能导致套袋果斑点病加重的因素",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议几种用于预防套袋果斑点病的安全农药及其浓度",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么套袋后苹果更易受到斑点病的影响",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括套袋果斑点病的防治关键措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果褐腐病的症状及其发展过程。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三项预防苹果褐腐病的果园管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议两种在苹果收获前用于防治褐腐病的药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么苹果近成熟期的多雨潮湿条件会加剧褐腐病的发生？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括苹果褐腐病的病原体如何在果园中度过冬季，并指出其对防治工作的意义。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]
