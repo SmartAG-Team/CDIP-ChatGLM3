@@ -1,0 +1,482 @@
+[
+    {
+        "instruction": "总结草莓黏菌病的主要症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种预防草莓黏菌病的农业措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么高燥和平坦的地势有利于减少草莓黏菌病的发生。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述黏菌病对草莓产量的具体影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出两种治疗草莓黏菌病的化学药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举出草莓红中柱根腐病的两种类型及其特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对草莓红中柱根腐病，提出至少三项农业防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述在草莓生长过程中，如何使用药剂防治红中柱根腐病，需包括具体药剂名称及使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释草莓红中柱根腐病的慢性萎缩型是如何逐步影响植株的，从根部变化开始描述。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为了预防草莓红中柱根腐病，如何通过调整灌溉方式和肥料施用进行管理？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种草莓灰霉病的农业防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释草莓灰霉病对果实的具体影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在草莓开花前，推荐使用哪种药剂进行灰霉病的预防，并说明使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓灰霉病在田间的典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么说草莓灰霉病的防治重点在于预防？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓芽枯病的主要症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于防治草莓芽枯病的药剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓种植如何通过农业措施预防芽枯病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释草莓干腐病与草莓芽枯病之间的关系。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在保护地草莓栽培中，如何通过控制环境条件来减少芽枯病的发生？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释草莓白粉病的主要症状以及它如何影响草莓的叶片、花和果实。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出两种农业防治草莓白粉病的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供一种药剂防治草莓白粉病的具体措施，包括所用药剂名称及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述硫黄熏蒸在预防草莓白粉病中的应用时机和操作步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已经发现草莓白粉病病斑的区域，指导如何进行化学防治，包括推荐的药剂和喷施频率。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓黑霉病的症状及其对果实的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种农业防治草莓黑霉病的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐一种在草莓采收前可使用的化学药剂防治黑霉病，并说明其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何进行土壤消毒以预防草莓黑霉病，包括所需材料和步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "除了化学药剂外，还有一种非化学的防治措施能在草莓采收前使用，请指出该措施及其效果。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓终极腐霉烂果病的主要症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种农业防治草莓终极腐霉烂果病的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐一种药剂防治草莓终极腐霉烂果病的具体方案，包括药剂名称和使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么在草莓种植中应避免使用高氮肥料。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结防止草莓终极腐霉烂果病的关键措施，包括农业措施和化学防治措施各一点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓炭疽病对植株不同部位的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三项农业防治草莓炭疽病的措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议一种适合在草莓生长周期早期使用的杀菌剂及其浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为何在草莓种植中要避免重茬，并提出相应的解决办法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在不使用化学药剂的情况下，提出两种控制草莓炭疽病的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓'V'形褐斑病的症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出三种用于防治草莓'V'形褐斑病的化学药剂及其建议浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释农业防治措施如何帮助减少草莓'V'形褐斑病的发生。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么在管理草莓植株时要避免偏施速效氮肥？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指导如何正确执行草莓喷雾防治，包括频率和交替用药的建议。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓绿瓣病对草莓植株的具体影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种有效防治草莓绿瓣病的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么四环素能用于治疗草莓绿瓣病。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于防止草莓绿瓣病的传播，给出一项关键的预防措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在草莓种植中，如何确保引进的种苗不携带草莓绿瓣病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓蛇眼病的症状及其对草莓植株的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种农业防治草莓蛇眼病的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐一种用于治疗草莓蛇眼病的药剂，并说明其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么在采收草莓前三天需要停止使用药剂。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于保护地栽培草莓，如何使用粉尘剂进行蛇眼病的防治？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种已知能侵染草莓并造成损失的病毒名称。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓病毒病的主要症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简述农业防治草莓病毒病的具体措施，至少提及两种方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议一种化学药剂及其浓度，用于防治传播草莓病毒的蚜虫。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为何草莓病毒病被称为隐症。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓线虫病对草莓植株的具体影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种不同类型的草莓线虫及其造成的独特损害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出两种非化学方法来预防草莓线虫病。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已感染线虫的草莓秧苗，建议采取的紧急措施是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐两种用于控制草莓线虫的化学药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种草莓细菌性叶斑病的农业防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓细菌性叶斑病的初期病斑有何特征？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议一种在草莓种植中预防细菌性叶斑病的土壤处理方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果草莓植株已经表现出细菌性叶斑病症状，应选择哪种药剂进行治疗，并说明使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在进行草莓细菌性叶斑病化学防治时，需要注意的用药间隔和频次是多少？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓褐色轮斑病的症状及其对不同部位的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于防治草莓褐色轮斑病的药剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释农业防治措施如何帮助减少草莓褐色轮斑病的发生。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么地膜覆盖栽培可以有效减少草莓褐色轮斑病的初侵染？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "除了化学药剂，还有哪些物理或生物方法可以用于控制草莓褐色轮斑病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种农业防治草莓疫霉果腐病的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓疫霉果腐病对成熟果实的具体影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议一种在草莓繁育小苗期间预防疫霉果腐病的措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "编辑这段文本，使其更加简洁明了地概括草莓疫霉果腐病的病症。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种用于防治草莓疫霉果腐病的化学药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

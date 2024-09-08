@@ -1,0 +1,992 @@
+[
+    {
+        "instruction": "描述辣椒色链隔孢引起的病害在叶片上的典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种辣椒色链隔孢的分生孢子梗和分生孢子的特征尺寸。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简述辣椒病害的发病规律，特别是关于病原菌如何越冬及发病条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出两种辣椒病害的农业防治措施，并说明其操作要点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已发生的辣椒病害，推荐一种药剂防治方案，包括药剂名称、浓度及施药最佳时间。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种可能导致辣椒尾孢病加重的环境因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据给出的防治方法，建议一种适合家庭种植辣椒时采取的非化学防治策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "编辑这段描述，使其更加简明扼要地解释辣椒尾孢病的识别特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "从上述信息中，总结辣椒尾孢病的传播途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "假如农民发现辣椒植株出现疑似辣椒尾孢病的症状，应如何初步判断并采取第一步行动？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结辣椒上出现的主要病症及其特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出一种控制辣椒链格孢病害的物理方法和一种化学方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么日灼会增加辣椒感染链格孢的风险。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "编辑一份简短的辣椒病害预防指南，强调针对链格孢病的措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可用于治疗辣椒链格孢病的药剂名称及建议的稀释倍数。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒果实感染匍柄霉后的初期症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种辣椒匍柄霉病的传播方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出一项提高辣椒植株免疫力的栽培管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐一种用于辣椒匍柄霉病的发病前预防药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在辣椒匍柄霉病发病后，如何调整药剂喷雾的频率以应对病情加重？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请简述辣椒果实上出现的病症特征，并说明病原菌的名称和分类。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据发病规律，列举两种可能导致辣椒此病害加重的环境因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "编辑一段话，概括防治辣椒此病害的三个主要措施，强调操作的顺序。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种推荐用于治疗辣椒该病害的化学药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对辣椒种植，提出一项长期预防此类病害的农业管理策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种辣椒炭疽病的农业防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于辣椒上的灰色病斑，如何判断它们是由红色炭疽病菌引起的？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "编辑一份简短的辣椒炭疽病防治指南，强调化学防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒炭疽病病原菌的越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出在辣椒种植中控制湿度以预防炭疽病的具体建议。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒灰霉病对果实的具体影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种辣椒灰霉病的化学防治药剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何通过改善温室内环境条件来预防辣椒灰霉病。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "辣椒灰霉病的病原菌属于哪一科？并简述其形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出在辣椒种植中，针对灰霉病应采取的两项农业管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒植株茎基部受到病害后的具体表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种可用于防治辣椒立枯病的药剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释立枯丝核菌如何在土壤中越冬并引发辣椒病害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出针对辣椒立枯病的非化学防治措施，至少提及两项。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指导如何利用55℃水浸泡种子以预防辣椒苗期病害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "识别并列出辣椒植株上可能受病害影响的所有部位。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒茎秆发病初期和后期的主要症状差异。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简述辣椒菌核病的病原菌特征及其分类信息。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括辣椒菌核病发病规律中的关键环境因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种辣椒菌核病的药剂防治方法，并说明使用频率。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒植株萎蔫的症状，并解释其在中午时更为明显的原因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种辣椒枯萎病的病原菌越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出一项针对辣椒枯萎病的农业防治措施，并解释其作用原理。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "修改现有的种子消毒方法，提出一种新的种子处理方案以减少辣椒枯萎病的发生。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结辣椒枯萎病的典型发病规律，包括促进病害发生的环境条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种不同的药剂防治辣椒链格孢的方法，并注明各自的使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何通过栽培管理降低辣椒的病害发生概率。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒链格孢的病原菌特征及其越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据发病规律，总结辣椒链格孢病害流行的环境条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请提供一种适用于辣椒链格孢病害防治的生物农药，并说明其作用机理。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出三种针对辣椒白粉病的药剂防治方法及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据文本描述，简要总结辣椒白粉病的病原菌特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对辣椒白粉病，提出一种非化学防治措施，并解释其作用原理。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述辣椒白粉病发病初期和后期叶片的具体变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过田间管理有效预防辣椒白粉病？请提供两个具体步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒植株根部受病害初期的具体颜色变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种辣椒根部病害的防治药剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么高温高湿条件会加重辣椒根部病害的发病情况。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "修改现有的防治方法，提出一种新的针对辣椒根部病害的生物防治策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据病原信息，判断辣椒根部病害是否属于真菌性病害，并说明理由。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种可以帮助辣椒植株预防煤污病的农业措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据文本描述，简述辣椒煤污病的主要病状变化过程。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请提供两种可用于治疗辣椒煤污病的化学药剂及其推荐浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分析辣椒煤污病病原菌的越冬方式及第二年的传播途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结辣椒种植中哪些管理因素会加重煤污病的发生？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可能导致辣椒煤污病加重的环境因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释辣椒煤污病的两种主要病原菌属于哪两个菌门？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于辣椒煤污病，建议采取哪些物理防治措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "修改以下防治方法，使其适用于辣椒有机种植：'发病初期喷75%百菌清可湿性粉剂600倍液'。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结在辣椒种植中如何有效预防煤污病的发生，至少提及两点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种预防辣椒绵疫病的农业防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒疫霉的特征及其在病害发生中的作用。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么连阴天或多雨条件下辣椒绵疫病会更加严重。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出辣椒发病初期推荐使用的两种药剂名称及使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出在辣椒种植中如何通过地膜覆盖减少病原菌传播的具体方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结辣椒植株受甜菜曲顶病毒影响的主要症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种防治辣椒作物甜菜曲顶病毒的药剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为何在氮肥施用过多的条件下，辣椒植株更容易感染甜菜曲顶病毒。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "修改并完善辣椒防治传毒介体的措施，提出一种新的物理防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "询问在高温干旱季节，如何调整辣椒田间管理以减少蚜虫等传毒介体的危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种可能导致辣椒植株萎蔫并最终枯死的环境因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释如何通过调整土壤酸碱度来预防辣椒青枯病。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述一种适合用于辣椒种子消毒的具体方法，包括所需物质和操作步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已经遭受青枯病的辣椒田，给出一项不包括化学防治的补救建议。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种能够有效预防辣椒青枯病的生物农药及其推荐使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种可能导致辣椒斑点病加重的因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释辣椒斑点病的病原菌是什么，并描述其分类地位。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请提供两种用于辣椒斑点病化学防治的药剂名称及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对辣椒斑点病，如何进行有效的种子消毒？请简述步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为了预防辣椒斑点病的发生，农业防治措施包括哪些要点？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒果实患病初期的表面变化特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举一种可用于辣椒种子消毒的方法，并说明具体操作步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "除水旱轮作外，给出另一种减少辣椒溃疡病土壤中菌源数量的措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "选择推荐药剂中的一种，指示如何配制用于预防辣椒溃疡病的喷洒液。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据发病规律，概述辣椒溃疡病在田间传播的主要途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结辣椒细菌性溃疡病的主要症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种可能导致辣椒感染细菌性溃疡病的农事活动。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释胡萝卜软腐欧文氏菌是如何利用原果胶酶侵染辣椒的。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出一项预防辣椒细菌性溃疡病的关键措施，并说明其原理。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "除了防治伤口，还有哪些通用策略可以应用于辣椒细菌性溃疡病的防治？请至少提及两种。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结辣椒细菌性叶斑病的主要症状及其对辣椒生产的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出三种有效的辣椒细菌性叶斑病药剂防治方法，并说明使用频率。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释辣椒丁香假单胞杆菌适合致病变种的形态特征和培养特性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒细菌性叶斑病的发病规律，包括最适宜的环境条件和传播途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出预防辣椒细菌性叶斑病的农业管理措施，至少提及两种实践操作。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒叶点霉病的症状特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出辣椒叶点霉病的病原菌特性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括辣椒叶点霉病的发病规律。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出三项有效的辣椒叶点霉病防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么辣椒在发病初期应选择40%腈菌唑可湿性粉剂进行喷洒。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种可能导致辣椒发生上述病症的农事操作不当行为。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据描述，简述辣椒斑点芽枝霉的生长偏好条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请推荐两种除了化学药剂外的物理或生物防治措施来控制辣椒的此病害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结辣椒果实病症从初期到后期变化的主要特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么在辣椒种植中过度使用氮肥会增加此病害的风险。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒疫霉病对辣椒植株的具体影响",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可用于防治辣椒疫霉病的化学药剂及其使用方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释辣椒疫霉病的病原菌是如何在土壤中越冬并引发新一年的病害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供两种非化学方法来预防辣椒疫霉病，并说明其原理",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结辣椒疫霉病发病规律的关键环境因素",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒疫霉病的初期植株萎蔫症状，并指出其随病情发展变化的特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种导致辣椒疫霉病的病原菌，并给出其孢子囊的形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结辣椒疫霉病的发病规律，特别是关于病原菌的越冬方式和传播条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出至少三种农业防治辣椒疫霉病的方法，并解释其中一项的具体实施步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对辣椒疫霉病，提出一项适合在微酸性土壤条件下采取的土壤调节措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒植株感染此病后的典型叶片症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举一种有效的辣椒化学防治方法并说明其使用浓度和频率。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释病原菌如何在自然条件下越冬并传播至辣椒植株。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于辣椒病害，提出一项非化学的预防措施并解释其作用原理。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结辣椒链格孢病的主要发病规律，包括促进病害流行的环境因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出三种辣椒斑点病的典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释辣椒斑点病的病原体是什么并提及其分类。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括辣椒斑点病发病规律的关键因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供两种非化学方法来预防辣椒斑点病。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐一种在辣椒斑点病发生后可使用的化学治疗药剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结辣椒病毒病的主要症状类型。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种导致辣椒病毒病的病原体。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么高温干旱条件下辣椒病毒病发病更重。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供两种辣椒种子消毒的具体方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已经发生病毒病的辣椒植株，建议采用哪些药剂进行治疗？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒丛枝病的主要症状，特别是与健康辣椒植株的区别。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种用于防治辣椒丛枝病的抗生素及其推荐的施用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么使用防治病毒病的药剂对辣椒丛枝病效果不佳。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出一项预防辣椒丛枝病传播的有效农业措施，并解释其原理。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过实验室检测确定辣椒植株是否感染了植物菌原体？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释辣椒幼苗猝倒病的症状以及如何识别这种病症。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种用于防治辣椒猝倒病的化学药剂及其推荐使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出辣椒种植中预防猝倒病的关键管理措施，至少提及三项。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒猝倒病的病原菌特征及其生命周期中的关键阶段。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果辣椒幼苗已经出现猝倒病迹象，应采取何种紧急处理措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结辣椒根结线虫病的主要症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种导致辣椒根结线虫病的病原。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述有利于辣椒根结线虫病发病的土壤条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供两种非化学方法来预防辣椒根结线虫病。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已经发病的辣椒植株，建议采用何种药剂进行治疗，并说明使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒根霉果腐病的主要症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种辣椒根霉果腐病的农业防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释辣椒根霉果腐病的病原菌特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括辣椒根霉果腐病的发病规律",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供一种适用于辣椒根霉果腐病的化学防治药剂及其使用方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

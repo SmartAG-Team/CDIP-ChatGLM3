@@ -1,0 +1,422 @@
+[
+    {
+        "instruction": "总结大豆根腐病的主要症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种引起大豆根腐病的真菌病原及其特点",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述大豆根腐病的侵染循环过程",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出五项农业防治大豆根腐病的措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么连作会导致大豆根腐病加重",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述大豆褐斑病的症状及与灰星病的区别。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种有效控制大豆褐斑病的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释大豆褐斑病的病原体属于哪个分类单元，并描述其形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "说明大豆褐斑病的侵染循环过程，包括其越冬方式和初侵染途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已感染大豆褐斑病的农田，提出一个综合管理策略以减轻下一年的病情。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述大豆褐纹病的主要症状及其在不同生长阶段的表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种可以有效防治大豆褐纹病的化学药剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释大豆褐纹病的侵染循环过程，包括越冬方式和初侵染源。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么大豆连作地比轮作地更容易发生褐纹病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出针对大豆褐纹病，除了化学防治外，还有哪些农业管理措施可以采取？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述大豆菌核病的症状及其对大豆植株的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可以有效减少大豆菌核病菌源的农业管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释大豆菌核病的病原体是什么，并简述其特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么气候条件特别是湿度对大豆菌核病的发生有重要影响？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出两种常用的化学药剂防治大豆菌核病的方法，包括药剂名称和使用剂量。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述大豆霜霉病的主要症状及其对大豆产量的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种可用于防治大豆霜霉病的化学药剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么带菌种子是大豆霜霉病防控的关键，并说明如何进行种子处理以减少病害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结大豆霜霉病的侵染循环过程，包括越冬方式、初次侵染源以及再侵染条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出三项非化学方法来减轻大豆霜霉病的发生，并简要说明每项方法的操作要点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述大豆轮纹病的主要症状及其对作物的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可以有效减少大豆轮纹病发生的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释大豆轮纹病的病原体是什么，并简述其特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据文本，总结大豆轮纹病的传播途径及适宜发病的环境条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出在没有免疫或高抗品种的情况下，如何通过耕作方式来减轻大豆轮纹病的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述大豆茎枯病的主要症状及其对不同大豆品种的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种防止大豆茎枯病传播和减少病源的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释大豆茎枯病的病原体是什么，以及其分生孢子器的特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括大豆茎枯病的侵染循环过程。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于未知的大豆茎枯病发病条件，提出一项可能的研究方向。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述大豆灰星病的主要症状及对大豆产量的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举大豆灰星病的三种防治方法，并简要说明其原理。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释大豆灰星病的病原体属于哪个分类单元，并描述其分生孢子器的特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分析大豆灰星病为何在东北地区尤为严重，列出至少两个环境因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供关于如何识别大豆灰星病在豆荚上的病斑特征的信息。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述大豆细菌斑点病的症状特点，特别是在叶片上如何表现？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种有效控制大豆细菌斑点病的方法，并简要说明其原理。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释大豆细菌斑点病的病原菌特性，包括形态、生存条件以及革兰氏染色反应结果。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分析大豆细菌斑点病的发病条件，着重指出哪些环境因素会加重病情？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么在东北地区，尤其是黑龙江西北部，大豆细菌斑点病的发生较为普遍且严重？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述大豆胞囊线虫病的主要症状及其对大豆植株的影响",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种与大豆胞囊线虫病发生密切相关的土壤条件",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出两种有效的农业措施来预防大豆胞囊线虫病的传播",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释大豆胞囊线虫的生活史，包括其从卵到成虫的发育过程",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概述大豆胞囊线虫与大豆根腐病的主要区别",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述大豆花叶病的症状及其对作物的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种大豆花叶病毒的传播途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何通过气象条件判断大豆病毒病的发病可能性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结防止大豆花叶病传播和减轻病情的四项关键措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么说种子带毒率是大豆花叶病初侵染的重要来源？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述大豆菟丝子的典型生命周期，包括其生长习性、为害过程以及繁殖方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举并解释至少三种有效防治大豆菟丝子的方法，确保提及具体操作细节。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "比较中国大豆菟丝子与其他地区菟丝子在形态特征上的异同。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分析大豆菟丝子对大豆产量的具体影响，并给出不同受害程度下的减产百分比。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "阐述为什么大豆菟丝子被视为进境植物检疫性有害生物，并指出其检疫重要性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结大豆紫斑病的主要症状及其对作物的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种大豆紫斑病的田间防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释大豆紫斑病的病原体是什么，并描述其特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么大豆开花期和成熟期的气候条件与紫斑病粒的数量有密切关系？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已经感染紫斑病的大豆种子，推荐一种有效的化学药剂拌种方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述大豆灰斑病的主要症状及其对大豆产量和品质的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种可用于防治大豆灰斑病的农业措施，并简述其操作方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释大豆灰斑病的病原体是什么，并描述其特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么连作会导致大豆灰斑病更严重？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出两种化学药剂防治大豆灰斑病的方法，包括药剂名称和使用剂量。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]
