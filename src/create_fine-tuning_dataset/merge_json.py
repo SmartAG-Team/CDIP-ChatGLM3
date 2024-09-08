@@ -21,6 +21,6 @@ def merge_json_files(folder_path, output_file):
     print(f"All JSON files in '{folder_path}' have been merged into '{output_file}'.")
 
 if __name__ == "__main__":
-    folder_path = "./data/fine-tuning_dataset/apple/finetune_output"  # 替换为你的文件夹路径
-    output_file = "./data/fine-tuning_dataset/apple/apple.json"  # 替换为你的输出文件路径
+    folder_path = "./data/fine-tuning_dataset/corn/finetune_output"  # 替换为你的文件夹路径
+    output_file = "./data/fine-tuning_dataset/corn/corn.json"  # 替换为你的输出文件路径
     merge_json_files(folder_path, output_file)
