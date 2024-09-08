@@ -13,6 +13,7 @@ parser = argparse.ArgumentParser(description="Argument parser example")
 parser.add_argument('--prompt_dir', type=str, default='./src/create_fine-tuning_dataset/prompt.txt', help='Instruction generation prompt')
 parser.add_argument('--prompt2_dir', type=str, default='./src/create_fine-tuning_dataset/prompt2.txt', help='Instruction generation prompt2')
 
+
 parser.add_argument('--api_key', type=str, default='sk-0e7d0b5cb782481dbff68b487c69d5ca', help='qwen api key')
 parser.add_argument('--folder_path', type=str, default='./data/books/grape/葡萄霜霉病智慧预警与绿色综合防控 技术规程', help='Path to the folder to process')
 parser.add_argument('--varieties', type=str, default='grape', help='grape/apple/wheat...')
@@ -21,8 +22,6 @@ parser.add_argument('--model', type=str, default='qwen-max-longcontext', help='q
 parser.add_argument('--instruction_number', type=int, default=5, help='Number of instructions proposed per txt file')
 parser.add_argument('--delay', type=int, default=5, help='api call intervals')
 args = parser.parse_args()
-
-
 # 读取 prompt 文件
 with open(args.prompt_dir, 'r', encoding='utf-8') as prompt_file:
     prompt = prompt_file.read()
