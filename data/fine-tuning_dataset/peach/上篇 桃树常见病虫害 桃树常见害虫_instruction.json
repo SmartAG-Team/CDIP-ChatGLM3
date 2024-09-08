@@ -1,0 +1,542 @@
+[
+    {
+        "instruction": "描述桃树蚜虫的成虫形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种桃树蚜虫的天敌并说明其作用。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释桃树蚜虫一年中发生代数及越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供两种防治桃树蚜虫的物理方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据上下文推荐一种在桃树开花前后使用的化学防治药物及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树小卷叶蛾幼虫的特征及其颜色变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举桃树小卷叶蛾在不同地区的年发生代数。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供一种物理方法和一种化学方法来防治桃树小卷叶蛾。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出桃树小卷叶蛾成虫在北京地区首次出现和高峰期的时间。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么要在桃树上使用果实套袋技术，并说明其对防治桃树小卷叶蛾的作用。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树上叶螨的雌成螨外观特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种用于防治桃树叶螨的化学药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释桃树叶螨的生活习性中，其从地下杂草向树上扩散的条件是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出桃树叶螨一年中发生的世代数量范围，并说明何种气候条件对此有利。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出一项在桃树落叶后进行的物理防治叶螨的措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树上叶蝉的危害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种用于防治桃树叶蝉的化学药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出桃树叶蝉成虫的越冬场所，并说明其春季活动习性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "编辑一段针对桃树种植户的叶蝉防治建议，强调非化学方法的运用。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据描述，判断桃树叶蝉在国内的分布情况是否广泛？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树蚜虫的无翅孤雌蚜形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举桃树蚜虫的主要天敌并说明如何利用它们进行生物防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释北方桃树蚜虫一年中的生活史，包括越冬方式和繁殖高峰期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于桃树蚜虫，提供一种适合幼果园采用的物理防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出针对桃树蚜虫有效的化学防治药剂及其使用浓度，并说明如何提高药效。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树潜叶蛾的幼虫形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种桃树潜叶蛾成虫的夏冬两型颜色差异。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出桃树潜叶蛾的卵的尺寸范围。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括桃树潜叶蛾的生活习性，特别是其越冬和产卵行为。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议一种针对桃树潜叶蛾的有效防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树上草履蚧的雌成虫特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种防治桃树草履蚧的物理方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出桃树草履蚧若虫最喜欢在一天中的哪个时间段活动？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释草履蚧对桃树的主要危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "询问桃树草履蚧一年发生的世代数量。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树天蛾的成虫形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举桃树天蛾在中国的主要分布省份。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出桃树天蛾幼虫的显著外观特点，并说明其行为习性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出针对桃树天蛾的有效防治措施，至少提及两种方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释桃树天蛾的生命周期，包括发生的代数及其越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树上Pseudaulacaspis pentagona盾蚧的雌成虫形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种防治桃树Pseudaulacaspis pentagona盾蚧的方法，并说明最佳施用时间。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释Pseudaulacaspis pentagona盾蚧对桃树造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据给出的信息，简述桃树Pseudaulacaspis pentagona盾蚧的生活史，包括其一年内的世代更替。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "询问如何通过物理方法减少桃树上Pseudaulacaspis pentagona盾蚧的数量。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树花金龟成虫的外观特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举桃树花金龟幼虫的主要食物来源。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何利用桃树花金龟的习性进行防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出桃树花金龟成虫在一年中的活跃高峰期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "编辑一段简短说明，概括桃树花金龟的生活史和对果树的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树上常见的粉蚧科害虫的雌成虫形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种桃树介壳虫的天敌并简述其作用。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释桃树介壳虫若虫对套袋果实的具体危害表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议一种适用于控制桃树上一龄若虫的化学药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括桃树介壳虫在不同地区的年世代数及越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树天牛幼虫的特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种防治桃树天牛的有效方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释桃树天牛成虫的交尾及产卵习性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出桃树天牛在哪个生长阶段对桃树的危害最大？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "询问桃树天牛的生命周期时长。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述桃树上丽金龟科昆虫的成虫外观特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出该桃树丽金龟科昆虫的主要分布省份。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简述针对这种桃树丽金龟科昆虫的防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出桃树丽金龟科昆虫的生命周期中，从蛹变为成虫的大致时间。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "编辑这段文字，强调成虫对桃树的危害及防治紧迫性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树上Latoia consocia(Walker)幼虫的特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可用于防治桃树上Latoia consocia(Walker)幼虫的化学药剂及其推荐浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "说明桃树Latoia consocia(Walker)在不同地区的世代差异。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括桃树Latoia consocia(Walker)成虫的习性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供两种物理方法来控制桃树上的Latoia consocia(Walker)。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树鳃金龟成虫的特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举桃树鳃金龟幼虫的形态特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括桃树鳃金龟的生活习性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出防治桃树鳃金龟的两种具体方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释桃树鳃金龟蛹的特征及其与成虫的关系。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树上可能出现的蝽科昆虫的特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种桃树蝽科昆虫防治方法并说明其实施时期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为何蝽科昆虫对桃树果实造成的危害会导致大幅度减产。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "编辑一段简短的农民指南，指导如何在春季检查桃树是否有蝽科昆虫的卵。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提问：在华北地区，桃树蝽科昆虫从开始活动到产卵大约需要多少时间？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树上常见的螟蛾种类及其对桃树的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种防治桃树螟蛾幼虫侵害桃果的方法，并说明最佳实施时间。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么成虫偏好在桃树果实上产卵，以及这对桃树管理的意义。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括桃树螟蛾幼虫的形态特征，包括体长、体色变化和头部特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据给出的信息，总结如何通过环境管理降低桃园中螟蛾的发生率。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举出该害虫在桃树上可能造成的具体损害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据描述，归纳桃树卷叶蛾的生命周期阶段。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "强调桃树防治措施中关于物理防治的部分。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供一种适合在家庭桃树果园中实施的生物防治方法，并解释其原理。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "询问如何根据该桃树害虫的习性调整化学农药的施用时机。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]
