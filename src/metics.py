@@ -4,12 +4,12 @@ import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
 # 加载训练数据集
-with open("./data/fine-tuning_dataset/grape/grape_test_data.json", "r", encoding="utf-8") as json_file:
+with open("./data/fine-tuning_dataset/test/grape_test_data.json", "r", encoding="utf-8") as json_file:
     data_source = json.load(json_file)
 print(data_source)
 
 # 设置输出文件路径
-output_file_path = './data/response/freeze5_new_grape/freeze5_new_grape.json'
+output_file_path = './data/response/chatglm_grape_apple/chatglm_grape.json'
 
 # 如果目录不存在，创建目录
 os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
@@ -21,11 +21,11 @@ if not os.path.exists(output_file_path):
 
 # 加载模型和分词器
 tokenizer = AutoTokenizer.from_pretrained(
-    r"D:\student\lzy\llM\LLaMA-Factory-main\saves\freeze\freeze_10\sft", 
+    r"D:\student\lzy\llM\LLaMA-Factory-main\chatglm3_6b", 
     trust_remote_code=True
 )
 gpt_model = AutoModelForCausalLM.from_pretrained(
-    r"D:\student\lzy\llM\LLaMA-Factory-main\saves\freeze\freeze_10\sft", 
+    r"D:\student\lzy\llM\LLaMA-Factory-main\chatglm3_6b", 
     trust_remote_code=True, 
     device='cuda'
 )
