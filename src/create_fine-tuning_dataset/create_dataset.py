@@ -1,7 +1,7 @@
 import os
 import json
 import re
-from rouge import Rouge  
+from rouge import Rouge
 from openai import OpenAI
 import argparse
 import time
@@ -12,6 +12,7 @@ import glob
 parser = argparse.ArgumentParser(description="Argument parser example")
 parser.add_argument('--prompt_dir', type=str, default='./src/create_fine-tuning_dataset/prompt.txt', help='Instruction generation prompt')
 parser.add_argument('--prompt2_dir', type=str, default='./src/create_fine-tuning_dataset/prompt2.txt', help='Instruction generation prompt2')
+
 
 
 parser.add_argument('--api_key', type=str, default='your api key', help='qwen api key')
@@ -298,8 +299,10 @@ def output(original_output_file_path):
 
 
 if __name__ == "__main__":
+
     #instruction_generation(folder_path)  #第一次打开这个 注释下面两个 只生成 _instruction_output.json 然后在新生成的_instruction_output.json中查看是否需要都关联了对应品种
     original_output(instruction_file_path)  #第二次打开下面两个 注释上面这个 生成 _original_output.json 和 _finetune_output.json 
+
     output(original_output_file_path)
 
    
