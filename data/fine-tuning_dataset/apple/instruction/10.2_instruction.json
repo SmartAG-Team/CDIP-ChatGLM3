@@ -1,0 +1,602 @@
+[
+    {
+        "instruction": "总结桃小食心虫对苹果的主要危害及其防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可用于地面防治桃小食心虫的药剂及其浓度范围。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么8月中旬是一个关键时间节点，对于桃小食心虫的防治策略有何影响？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃小食心虫成虫的形态特征，包括颜色和尺寸。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "除了药剂防治，还有哪些物理或生物方法可以有效控制桃小食心虫对苹果的危害？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述朝鲜球坚蚧对苹果树造成的具体危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于防治朝鲜球坚蚧的药剂及其使用浓度",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释朝鲜球坚蚧雌成虫的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出朝鲜球坚蚧一年中哪个时期进行交尾并产卵",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出苹果园在休眠期防治朝鲜球坚蚧的方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果树上的草履蚧若虫和雌成虫造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种防治草履蚧上苹果树的方法，并简要说明操作过程。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么在苹果树干上捆绑塑料裙可以有效控制草履蚧的为害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "编写一份简短的通知，告知果农在何时开始准备防治草履蚧，以保护苹果树。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结草履蚧从卵到成虫的生命周期，特别是在与苹果树相关的阶段。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结苹果叶螨类的危害特点及其对苹果造成的具体影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举苹果全爪螨与二斑叶螨在形态上的不同之处。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述山楂叶螨的生命周期及一年中的活动规律。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出几种用于防治苹果叶螨类的有效药剂及其推荐使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释苹果叶螨类综合防治措施中处理害螨越冬场所的具体步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述梨网蝽对苹果树造成的具体危害，并指出其影响叶片的直观表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可用于生长期防治梨网蝽的有效药剂及其推荐浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结梨网蝽一年中的发生代数以及其最活跃的时期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何利用草把诱集成虫越冬并进行销毁，以减少来年梨网蝽的数量。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出在使用化学药剂防治梨网蝽时，添加农药助剂的作用。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种用于防治苹果卷叶蛾类的化学药剂及其建议使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹小卷叶蛾的越冬习性，并说明其防治的第一个关键时期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "编辑一份简短的农民指南，介绍如何通过物理方法减少苹果园中的卷叶蛾类害虫，包括设置诱捕设备和利用生物防治手段。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结苹果卷叶蛾类中，哪种害虫一年发生的代数最多，以及它的重要生活习性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据给出的信息，概括苹果卷叶蛾类害虫对苹果树造成的典型损害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结苹果树上常见的食叶毛虫种类及其特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹毛虫的成虫和幼虫形态特征，以及其在苹果树上的发生习性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举针对苹果树上食叶毛虫的有效防治措施，并简要说明使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为何在苹果树防治害虫时需要在药液中添加有机硅类助剂。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供一种非化学方法来预防苹果树的苹毛虫害，并说明其操作步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果树受梨星毛虫侵害后的具体症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种梨星毛虫的天敌，并说明它们如何帮助控制梨星毛虫的数量。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于苹果园的梨星毛虫防治，解释为何萌芽前的休眠期防治特别重要。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出在苹果树生长季节中，用于防治梨星毛虫的两种推荐药剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结梨星毛虫一年中的生活史，包括其越冬方式和不同世代的出现时间。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述绿盲蝽对苹果树造成的具体伤害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种在苹果树上防治绿盲蝽的有效药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释绿盲蝽的生命周期，并指出其在苹果树上最主要的为害时期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供一种非化学方法来减少苹果园中绿盲蝽的越冬虫源。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么早、晚时段喷洒药剂对防治绿盲蝽更有效？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果树上蚱蝉成虫造成的具体伤害现象。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举蚱蝉若虫和成虫的不同生活习性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结有效的蚱蝉防治技术，特别是针对成虫的措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为何蚱蝉对苹果树的危害需要大范围联合多年的防治策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供一种创新方法，可以辅助农民在若虫出土期间进行有效捕捉。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果树上黄刺蛾幼虫的危害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出苹果树上常见的三种刺蛾类害虫，并简述其成虫颜色特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释黄刺蛾在北方果区的生命周期，包括越冬方式和成虫活动时期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出至少两种物理方法用于防治苹果园中的刺蛾类害虫。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于在果园内设置黑光灯防治刺蛾的措施，说明其原理并讨论有效性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结梨小食心虫对苹果的危害特点和发生习性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出三种用于诱杀梨小食心虫成虫的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何利用糖醋液配方防治梨小食心虫，并给出具体配比。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述在苹果园管理中，如何通过新建果园规划来减少梨小食心虫的为害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供两种适合在梨小食心虫防治中使用的化学药剂及其推荐稀释倍数。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述黑绒鳃金龟的形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种对苹果树有害的金龟子种类。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释金龟子类害虫的主要为害方式及其对苹果坐果率的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供一种在苹果萌芽期防治金龟子的有效土壤用药方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "除了化学防治，列举两种用于控制金龟子的其他措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果棉铃虫幼虫的形态特征及其变异性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于防治苹果棉铃虫的有效药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么萎蔫的杨、柳树枝能诱集棉铃虫成虫，并说明设置这种诱集装置的具体步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括苹果产区棉铃虫一年中的发生代数及其主要为害时期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供一种非化学方法来预防苹果棉铃虫，并说明其操作流程和注意事项。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述金纹细蛾对苹果树造成的具体危害及其症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于防治金纹细蛾的有效药剂及其推荐使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么成虫发生期内在果园设置性引诱剂诱捕器是必要的防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结金纹细蛾在华北果区一年中各代幼虫的发生高峰时间。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出一种改善农药杀虫效果的方法，该方法在文中有所提及。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果棉蚜的危害特点及其对苹果植株的具体影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种不同形态特征的苹果棉蚜，并说明它们的区别。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结苹果棉蚜的发生习性，包括其一年中的发生代数、越冬方式以及活动高峰期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对苹果棉蚜的防治技术，提出在苹果落叶后至发芽前应采取的措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在生长期药剂防治苹果棉蚜时，指出两个关键期并推荐一种适合在开花前使用的药剂。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果黄蚜对苹果树造成的具体危害，并提及它们在什么季节最为活跃。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于防治苹果黄蚜的药剂及其推荐的使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释绣线菊蚜的生命周期中，从越冬到产生有性蚜的关键阶段。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供一种在苹果树休眠期防治苹果黄蚜的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么在防治绣线菊蚜时需要考虑保护天敌，给出至少两个理由。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果瘤蚜对苹果树造成的具体危害，并提及叶片的变化过程。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举苹果瘤蚜的两种越冬方式，并说明其发生时间。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "苹果瘤蚜一年中何时为害最重？并简述此期间它们的行为特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出一项消灭苹果瘤蚜越冬虫源的物理措施，并解释实施细节。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在苹果生长季如何有效进行药剂防治，需考虑哪些关键因素？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果树上康氏粉蚧的危害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可以用于防治苹果树康氏粉蚧的药剂及其浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何通过束草诱集康氏粉蚧成虫并进行冬季管理。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出康氏粉蚧在苹果生长周期中哪一代若虫的发生期最长？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于套袋苹果，提出喷药防治康氏粉蚧的最佳时机建议。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述梨圆蚧对苹果果实造成的具体危害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举一种用于消灭梨圆蚧越冬虫源的药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释梨圆蚧雌成虫的形态特征，包括介壳的颜色和形状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出防治梨圆蚧的关键时期及为何这一时期尤为重要。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于套袋果园，提供套袋前喷药的具体时间建议及喷药目的。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

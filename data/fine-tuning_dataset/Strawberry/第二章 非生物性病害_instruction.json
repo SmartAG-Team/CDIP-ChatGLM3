@@ -1,0 +1,512 @@
+[
+    {
+        "instruction": "解释草莓高温日灼的症状及其对草莓植株的具体影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出预防草莓高温日灼的三种有效措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓果实遭受高温日灼后的外观变化过程。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么草莓在高温干旱季节应减少使用赤霉素？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指导如何判断何时需要为草莓田补充水分。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种能避免草莓遭受除草剂药害的防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓叶片遭受三氮苯类除草剂药害的初期症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么在草莓种植前使用活性炭能减少除草剂药害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "编辑以下句子，使其更加简洁明了：'为了保护草莓不受除草剂的伤害，通常的做法是在草莓根部预先包裹活性炭，之后进行栽种，或者在草莓栽植初期和施用土壤除草剂之前，在草莓行带施用活性炭。'",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "哪些不当的施用方式可能导致草莓园中的除草剂产生药害？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种可能导致草莓畸形果的原因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对草莓畸形果，提出一种非化学的防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "编辑这段话，使其更加简洁地描述如何通过温度调控预防草莓畸形果。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据上下文，哪种肥料应该作为草莓种植的基础肥料？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在草莓种植中，如何通过疏花疏果来减少畸形果的发生？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓缺磷症的初期和晚期叶片颜色变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出两种防治草莓缺磷症的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果草莓植株表现出缺磷症状，应施用多少百分比的过磷酸钙澄清液进行叶面喷施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "缺磷如何影响草莓的花果大小？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在草莓种植初期，为了预防缺磷，每亩应施用多少公斤的过磷酸钙？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对草莓冻害，列举三种初期症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议一种预防草莓冻害的措施，尤其适用于早春时期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么在冷空气来临前为草莓园地灌水能提高作物的抗寒能力。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在防治草莓冻害的方法中，提到的一种化学药剂是什么？并给出其推荐的稀释比例范围。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于保护地栽培草莓，提出一项具体的人工加温策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种可能导致草莓出现生理性白果现象的原因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议两种改善草莓生理性白果现象的栽培管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释草莓生理性白果的症状，包括果实颜色变化及味道特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已经发生生理性白果的草莓植株，提出一项即时的补救策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么在防治草莓生理性白果时，推荐使用含糖量较高的品种？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓设施栽培中因赤霉素过量造成的具体影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种可能导致草莓激素药害的药物。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出避免草莓激素药害的三个关键措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释多效唑过量使用对草莓植株生长的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结草莓设施栽培中合理使用激素的原则。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举三种轮作方式，这些方式能有效减少草莓种植中的盐害问题。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何通过施用钾肥和生物菌肥来改善受盐害影响的草莓植株生长环境。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对草莓栽培中土壤盐渍化的问题，提供一种具体的物理改良措施及其操作步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在草莓种植区，为什么要特别强调水地与旱地作物的轮作，这对减轻盐害有何帮助？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "编写一份简短的指南，指导农民如何利用有机物质改善因盐害而板结的草莓田土壤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓缺钙症的症状，特别是在叶子和果实上的表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种预防草莓缺钙症的方法，并说明何时实施这些方法最为有效。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "缺钙导致草莓根部的变化是什么？如何通过调整土壤条件来缓解这一问题？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "当草莓出现缺钙症状时，应如何进行叶面喷施处理？使用的溶液浓度是多少？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么在草莓栽培中选择对缺钙不敏感的品种是重要的防治措施之一？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出缺硫症对草莓植株的具体影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释缺硫症与缺氮症在草莓叶片上表现的主要区别。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于缺硫的草莓园，建议采取哪些补救措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果要通过施用石膏来治疗缺硫，每亩草莓园应施用多少石膏？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "除了石膏外，还有哪些方式可以有效补充草莓生长所需的硫元素？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓缺钾症的初期症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种可以改善草莓缺钾状况的有机肥料。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "缺钾情况下，每亩草莓地应施用多少硫酸钾？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过叶面喷施缓解草莓的缺钾症状？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为何草莓缺钾时，幼嫩叶子不显示症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓缺铁症的初期和严重期的症状差异。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出两种预防草莓缺铁症的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果草莓种植区土壤pH值过高，应如何调整以避免缺铁问题？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释草莓叶子边缘坏死与缺铁之间的关系。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓缺铁时，为什么叶脉仍保持绿色，而叶脉间变为黄白色？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓缺硼症的早期症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出防治草莓缺硼症的两种方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释草莓缺硼导致的果实变化特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于已出现缺硼症状的草莓植株，建议如何通过叶面喷施来补硼？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在什么时期喷施硼肥需特别注意浓度，以避免对草莓造成伤害？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓缺锰症的初期和后期症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出两种防治草莓缺锰症的方法，并说明何时使用。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "缺锰对草莓果实的大小有什么影响？对品质呢？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在草莓生长过程中，如何通过叶面喷施来纠正缺锰现象？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么在草莓开花或坐果期不宜进行叶面喷施硫酸锰？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓缺锌症的初期和重度症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出两种预防草莓缺锌症的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "缺锌导致草莓叶片变化的具体特征是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果草莓植株缺锌，应使用哪种溶液进行叶面喷施以补充锌元素？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么通过观察叶片边缘颜色变化可以帮助识别草莓是否缺锌。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓缺氮症的初期和后期在叶片上的具体表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出两种防治草莓缺氮症的施肥方法及其操作细节。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "缺氮对草莓果实的大小有何影响？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么草莓深施氮肥相比表施更能持久有效并减少早衰风险。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在草莓生长周期中，何时进行尿素喷施以预防缺氮最适宜？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓生理性白化叶的症状，并解释其对草莓植株的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出两种预防草莓生理性白化叶的方法，并说明为什么这些方法有效。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "假设发现草莓田中有植株出现生理性白化叶症状，应如何及时处理以防止病情扩散？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "除了拔除病株和选择抗病品种外，还能采取哪些措施来增强草莓植株的抗病性？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简要概括草莓生理性白化叶与普通病害的区别，以及为何它会导致植株光合作用减弱。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

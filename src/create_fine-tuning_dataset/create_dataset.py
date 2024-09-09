@@ -8,20 +8,21 @@ import time
 import glob
 
 
+
 parser = argparse.ArgumentParser(description="Argument parser example")
 parser.add_argument('--prompt_dir', type=str, default='./src/create_fine-tuning_dataset/prompt.txt', help='Instruction generation prompt')
 parser.add_argument('--prompt2_dir', type=str, default='./src/create_fine-tuning_dataset/prompt2.txt', help='Instruction generation prompt2')
 
-parser.add_argument('--api_key', type=str, default='sk-27f210051bb14ac48bf17990844433e5', help='qwen api key')
-parser.add_argument('--folder_path', type=str, default='./data/books/文字数据集/马铃薯文字分段/马铃薯文字分段/第15章 马铃薯虫害综合防治/', help='Path to the folder to process')
-parser.add_argument('--varieties', type=str, default='potato', help='grape/apple/wheat...')
+
+
+parser.add_argument('--api_key', type=str, default='your api key', help='qwen api key')
+parser.add_argument('--folder_path', type=str, default='./data/books/grape/葡萄霜霉病智慧预警与绿色综合防控 技术规程', help='Path to the folder to process')
+parser.add_argument('--varieties', type=str, default='grape', help='grape/apple/wheat...')
 
 parser.add_argument('--model', type=str, default='qwen-max-longcontext', help='qwen model name')
 parser.add_argument('--instruction_number', type=int, default=5, help='Number of instructions proposed per txt file')
 parser.add_argument('--delay', type=int, default=5, help='api call intervals')
 args = parser.parse_args()
-
-
 # 读取 prompt 文件
 with open(args.prompt_dir, 'r', encoding='utf-8') as prompt_file:
     prompt = prompt_file.read()
@@ -140,13 +141,26 @@ def instruction_generation(folder_path):
         except FileNotFoundError:
             existing_data = [] 
         except json.JSONDecodeError:
-            existing_data = [] 
+            existing_data = []
 
-        # 添加到现有数据
+        rouge = Rouge()
+
+        # 过滤生成的数据，只添加ROUGE-L小于0.7的项，并将文件夹名加入数据中
+        new_data_to_add = []
+        for new_entry in json_data:
+            is_similar = False
+            for existing_entry in existing_data:
+                score = rouge.get_scores(str(new_entry['instruction']), str(existing_entry['instruction']), avg=True)
+                if score['rouge-l']['f'] >= 0.7:
+                    is_similar = True
+                    break
+            if not is_similar:
+                new_data_to_add.append(new_entry)
+        # 将生成的JSON数据追加到现有数据中
         if isinstance(existing_data, list):
-            existing_data.extend(json_data)
+            existing_data.extend(new_data_to_add)
         else:
-            existing_data = [existing_data] + json_data
+            existing_data = [existing_data] + new_data_to_add 
 
         # 遍历每个项，补齐"input"和"output"字段
         for entry in existing_data:
@@ -167,7 +181,7 @@ def instruction_generation(folder_path):
             json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
 
         # 打印新加的数据数量
-        print(f"{folder_name}_instruction.json 中新加了 {len(json_data)} 个数据")
+        print(f"{folder_name}_instruction.json 中新加了 {len(new_data_to_add)} 个数据")
         time.sleep(args.delay)
 
 def original_output(instruction_file_path):
@@ -285,8 +299,10 @@ def output(original_output_file_path):
 
 
 if __name__ == "__main__":
-    # instruction_generation(folder_path)  #第一次打开这个 注释下面两个 只生成 _instruction_output.json 然后在新生成的_instruction_output.json中查看是否需要都关联了对应品种
-    # original_output(instruction_file_path)  #第二次打开下面两个 注释上面这个 生成 _original_output.json 和 _finetune_output.json 
+
+    #instruction_generation(folder_path)  #第一次打开这个 注释下面两个 只生成 _instruction_output.json 然后在新生成的_instruction_output.json中查看是否需要都关联了对应品种
+    original_output(instruction_file_path)  #第二次打开下面两个 注释上面这个 生成 _original_output.json 和 _finetune_output.json 
+
     output(original_output_file_path)
 
    

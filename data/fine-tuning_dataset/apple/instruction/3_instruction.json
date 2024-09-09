@@ -1,0 +1,182 @@
+[
+    {
+        "instruction": "总结苹果园建立时需考虑的关键气候因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举苹果树栽培中土壤条件的几个关键指标及其适宜范围。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "阐述苹果再植病的主要表现及其引发的原因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对苹果再植病，给出至少三种有效的解决策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果园规划中道路系统的设计要点，包括各级道路的布局与宽度设定。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "阐述在盐碱地上种植苹果树前，进行引淡水洗盐的具体步骤及其原理。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种适合在沙荒地上改良土壤的方法，并说明它们如何提高土壤肥力。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么在山坡、丘陵地种植苹果树需要修筑水平梯田，并描述梯田的理想构造特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对比在不同类型的山坡、丘陵地（如片麻岩与石灰岩地区）进行土壤改良的关键差异。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结在各种不利土壤条件下改良土壤以种植苹果的核心策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结苹果砧木苗培育的主要步骤",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释什么是T形芽接，并描述其操作流程",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种适用于砧木较粗情况下的嫁接方法，并说明各自适用条件",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出在苹果苗木嫁接后管理中的关键措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述如何通过水浸催芽法处理苹果砧木种子",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结苹果苗木选择的重要性及其对产量的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种苹果苗木常用的消毒方法，并简述操作步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于苹果苗木的包装材料，提出三点选择标准。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么苗木运输最好选在晚秋或早春进行，并说明运输过程中应采取的保湿措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述越冬假植的具体步骤，包括假植沟的规格和苗木放置方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举出苹果种植中选择品种的三大关键因素，并简要说明原因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为何苹果种植中需要配置授粉树，以及理想的授粉树应满足哪些条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对不同规模的果园，提出合理的苹果品种数量配置建议，并说明理由。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述苹果园中‘中心式’配置方法的具体操作步骤，并说明其适用场景。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据市场需求，如何在苹果园中进行早、中、晚熟品种的合理布局？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结苹果树种植的三个最佳季节，并说明每个季节种植的优点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种苹果树种植的常用栽植方式，并描述其适用条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "详细说明栽植苹果树前如何挖掘和施肥栽植沟或穴，包括土壤处理和肥料使用。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "阐述在苹果树栽植过程中，如何通过控制栽植深度和进行地面覆盖来提高成活率。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为何在某些地区，苹果树苗栽植后需要套袋，以及套袋的具体操作步骤和注意事项。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

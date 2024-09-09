@@ -1,0 +1,992 @@
+[
+    {
+        "instruction": "描述八点广翅蜡蝉对柑橘造成的具体为害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结八点广翅蜡蝉的形态特征，特别指出其与柑橘相关的识别要点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种有效的八点广翅蜡蝉化学防治药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何通过农业操作减少八点广翅蜡蝉的越冬卵，以控制其发生。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么在若虫期进行喷药防治八点广翅蜡蝉效果最佳？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘双刺姬粉虱的为害状以及它如何影响柑橘树的生长。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举柑橘双刺姬粉虱成虫的形态特征，包括体长、翅展及颜色。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据给出的发生规律，总结柑橘双刺姬粉虱一年中的世代更替时间。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释柑橘双刺姬粉虱的卵和蛹的形态特点，包括大小、颜色及结构。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "鉴于双刺姬粉虱与黑刺粉虱防治方法相似，概括适用于柑橘树上粉虱类害虫的一般防治策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述双钩巢粉虱对柑橘造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结双钩巢粉虱的形态特征，包括成虫、卵和若虫的外观描述。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出双钩巢粉虱的发生规律，特别指明其喜好的生活环境及世代重叠的特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出针对双钩巢粉虱的防治策略建议，可以借鉴黑刺粉虱的防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释双钩巢粉虱如何在柑橘叶面上构建其特有的巢状结构进行生存。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述吹绵蚧对柑橘造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种用于防治吹绵蚧的物理方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "说明吹绵蚧在不同地区的年发生代数，并指出其最适发生和繁殖的温度范围。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何利用澳洲瓢虫等天敌进行生物防治，并给出实施步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供针对一龄若虫的化学防治建议，需参考褐圆蚧的防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述堆蜡粉蚧对柑橘造成的具体危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种堆蜡粉蚧的天敌并说明其作用",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释堆蜡粉蚧的繁殖方式及产卵数量范围",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括堆蜡粉蚧在柑橘树上的主要分布位置及活跃时期",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供两种针对柑橘堆蜡粉蚧的有效化学防治药剂及其使用时机",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘木虱对柑橘作物造成的具体危害及其传播的黄龙病症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可用于防治柑橘木虱的有效药剂及其推荐使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结柑橘木虱的生活习性，包括其产卵、孵化及世代重叠的特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么冬季清园喷药对于控制柑橘木虱至关重要，并说明最佳实施时间。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据文本，概述柑橘木虱的形态特征，包括成虫和若虫的不同之处。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘粉虱对柑橘作物造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举柑橘粉虱各个生长阶段的形态特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括柑橘粉虱在不同产区的年发生代数差异。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释柑橘粉虱的繁殖行为，包括其交尾、产卵及孤雌生殖现象。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据柑橘粉虱的发生规律，提出两项适合在春季采取的防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘粉蚧的为害状以及它通常在柑橘树的哪些部位活动？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举柑橘粉蚧雌成虫和雄成虫的主要形态差异。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结柑橘粉蚧的发生规律，包括越冬方式和一年中的发生代数。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释柑橘粉蚧的生活习性，比如它们偏好在什么样的环境中生存？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供针对柑橘粉蚧的防治建议，可以参考堆蜡粉蚧的防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述棉蚜对柑橘作物的具体危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举棉蚜的两种形态特征，并说明其颜色变化",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结棉蚜的发生规律，包括越冬方式和繁殖代数",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为何棉蚜在不同季节的世代更替速度不同",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出针对棉蚜在柑橘上的防治策略概述",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述橘二叉蚜对柑橘作物造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结橘二叉蚜的形态特征，包括无翅和有翅孤雌蚜的不同之处。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出橘二叉蚜的发生规律，包括其年发生代数和越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据提供的信息，提出防治橘二叉蚜的有效措施建议。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释橘二叉蚜在不同季节的活动变化，并说明哪些因素会促使其产生有翅蚜进行迁飞。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述橘小粉蚧对柑橘作物造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结橘小粉蚧雌成虫的形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种橘小粉蚧的生物防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释橘小粉蚧在西双版纳地区与蚂蚁的关系及其影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出使用0.5%烟碱·苦参碱水剂防治橘小粉蚧的效果如何？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结橘绿绵蜡蚧对柑橘的危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述橘绿绵蜡蚧雌成虫的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出浙江地区橘绿绵蜡蚧的发生规律，包括若虫和成虫的关键活动时期",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出防治橘绿绵蜡蚧的三种方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释橘绿绵蜡蚧若虫的习性特点",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述橘蚜对柑橘作物造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出几种有效的橘蚜化学防治药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释橘蚜的生命周期中，从卵到成虫的转变过程。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括橘蚜的发生规律，包括其一年中的世代数以及繁殖高峰期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么保护和利用天敌是橘蚜生物防治的重要措施？提及几种常见的天敌种类。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘产区白带尖胸沫蝉的为害状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举白带尖胸沫蝉的主要形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结白带尖胸沫蝉在柑橘产区的发生规律，包括世代数和活动时间",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出针对柑橘产区白带尖胸沫蝉的防治建议",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么在某些情况下可以不对柑橘产区的白带尖胸沫蝉进行防治",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述白蛾蜡蝉对柑橘作物造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种物理防治白蛾蜡蝉的方法，并说明如何操作。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出白蛾蜡蝉的雌成虫和雄成虫在体型上的主要区别。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据给出的信息，概括白蛾蜡蝉的生活史，包括越冬方式、春季活动及繁殖习性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐几种可用于控制白蛾蜡蝉的化学药剂及其浓度配比。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘白轮蚧的形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种可以用来防治柑橘白轮蚧的有效药剂及其使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释柑橘白轮蚧如何影响柑橘树的生长和产量。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结柑橘白轮蚧在四川一年中的发生代数及主要发生时间。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出针对柑橘白轮蚧的第一代若虫期应采取的防治措施建议。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述矢尖蚧对柑橘作物造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种可以用来防治矢尖蚧的生物方法，并解释其原理。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出最佳化学防治矢尖蚧的时间点及推荐使用的药剂和浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括矢尖蚧的形态特征，包括雌雄成虫及不同龄期若虫的特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结影响矢尖蚧发生规律的主要环境因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述碧蛾蜡蝉对柑橘树造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出碧蛾蜡蝉成虫与若虫的主要形态差异。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结碧蛾蜡蝉在不同地区的发生代数与时间周期，特别提及柑橘种植区域。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何根据文中提供的信息，制定针对性的柑橘园碧蛾蜡蝉防治策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提问：碧蛾蜡蝉的若虫在哪个生长阶段会开始在柑橘树上产生白色蜡质物？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述糠片蚧对柑橘造成的具体危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出糠片蚧雌成虫和雄成虫的主要形态差异",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结糠片蚧在柑橘树上的发生规律，包括越冬方式和各代发生盛期",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分析影响糠片蚧种群密度的因素，特别是在柑橘园中的环境条件",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简述防治糠片蚧的方法，可以参考矢尖蚧的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述紫牡蛎蚧对柑橘的危害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举紫牡蛎蚧雌成虫和雄成虫的形态差异。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括紫牡蛎蚧在一年内的发生代数及其产卵习性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出紫牡蛎蚧在华南地区的若虫高发期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供防治紫牡蛎蚧的建议措施，参照褐圆蚧的防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述红圆蚧对柑橘造成的具体危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结红圆蚧的形态特征，特别指出雌成虫与雄成虫的区别",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出红圆蚧的发生规律，包括其越冬方式及一年中的世代变化",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出防治红圆蚧的方法，可参考褐圆蚧和矢尖蚧的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释红圆蚧生命周期中若虫阶段的行为特点，包括它们如何移动、固定和变态的过程",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述绣线菊蚜对柑橘作物造成的具体危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举绣线菊蚜的形态特征，包括有翅蚜和无翅蚜的区别",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结绣线菊蚜在广州一年内的繁殖代数及其生殖方式",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分析影响绣线菊蚜有翅蚜扩散速度的因素",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简述防治绣线菊蚜的方法，特别强调与橘蚜防治的共通之处",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述蟪蛄对柑橘作物造成的具体危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举蟪蛄的形态特征，并说明如何与柑橘树上的其他昆虫区分",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结蟪蛄的生活周期，并指出哪个阶段对柑橘根部造成最大威胁",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供针对蟪蛄成虫的非化学防治策略，考虑到柑橘园的可持续管理",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "询问蟪蛄成虫的活动习性，特别是与柑橘园灯光使用相关的管理建议",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘褐圆蚧的为害状以及它如何影响柑橘的生长和产量。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出柑橘褐圆蚧雌成虫介壳的形态特征，包括颜色、大小和形状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括柑橘褐圆蚧在不同地区的年发生代数，并指出哪个时期其种群增长最快。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提出两项非化学方法来防治柑橘园中的褐圆蚧。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么寄生于果实上的柑橘褐圆蚧雌成虫比叶片上的繁殖力更强，考虑可能的环境因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述褐软蚧对柑橘作物造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出褐软蚧雌成虫的显著形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "概括褐软蚧的发生规律，包括每年发生的世代和越冬方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供一种防治柑橘树上褐软蚧的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何识别柑橘树叶上的褐软蚧若虫。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘树上角蜡蚧的生命周期和特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举角蜡蚧对柑橘作物造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结角蜡蚧与伪角蜡蚧的区别。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出控制柑橘园中角蜡蚧的生物防治和物理防治措施各一种。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为何角蜡蚧的防治要参考龟蜡蚧的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘树上长牡蛎蚧的典型为害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种有效防治柑橘长牡蛎蚧的生物方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何识别柑橘树上的长牡蛎蚧雌成虫介壳。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据给出的信息，总结长牡蛎蚧一年内的发生代数及其大致时间。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议一种针对柑橘长牡蛎蚧若虫的有效化学防治措施，需注明药剂名称及浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘树上青蛾蜡蝉的典型为害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出青蛾蜡蝉成虫的几个显著外观特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出青蛾蜡蝉在华南地区的若虫主要为害时期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "修改以下关于青蛾蜡蝉防治方法的建议，使其更具体针对柑橘种植：`参照白蛾蜡蝉的防治。`",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "询问青蛾蜡蝉成虫与若虫的取食习性差异。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘圆粉虱对柑橘作物造成的典型危害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结马氏粉虱的雌成虫形态特征，包括体长、颜色及翅膀特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出马氏粉虱的生命周期中各个阶段的名称和发展顺序。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出马氏粉虱一年中发生的代数及其大致发生时间。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "询问如何根据已知信息制定针对柑橘马氏粉虱的有效防治策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述黑刺粉虱对柑橘作物造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出黑刺粉虱雌成虫的主要形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结黑刺粉虱在不同地区的年发生代数，并指出哪个地区世代重叠最严重。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出针对黑刺粉虱的有效物理防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议在何种情况下应选择使用化学药剂防治黑刺粉虱，并推荐几种常用药剂。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述黑点蚧对柑橘作物造成的具体危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举黑点蚧雌成虫和雄成虫的主要形态差异。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结黑点蚧一年中的发生规律，包括产卵、孵化和迁移的关键时间点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "针对黑点蚧的防治，提出除了药剂防治外的另一种有效策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么荫蔽园地和生长衰弱的柑橘植株更有利于黑点蚧的繁殖。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述黑蚱蝉对柑橘树造成的具体危害，并提及它如何影响柑橘的产量。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种农业措施来防治黑蚱蝉，并说明这些措施如何帮助保护柑橘树。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释黑蚱蝉的生活周期，从卵到成虫的各个阶段，以及每个阶段与柑橘树的关系。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "提供两种化学防治黑蚱蝉的方法，并讨论这些方法对柑橘园环境的潜在影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结黑蚱蝉的形态特征，特别是那些有助于其在柑橘林中识别的特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘树上龟蜡蚧的危害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种用于防治柑橘龟蜡蚧的生物方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释柑橘龟蜡蚧雌成虫和雄成虫的形态差异。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "指出柑橘龟蜡蚧一年中产卵和若虫出现的大致时间。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出一种在嫩芽期针对柑橘龟蜡蚧的有效化学防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]
