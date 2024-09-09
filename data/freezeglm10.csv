@@ -1,6 +1,0 @@
-Metric,Precision,Recall,F-score
-ROUGE-1,1.0,1.0,0.999999995
-ROUGE-2,1.0,1.0,0.999999995
-ROUGE-L,1.0,1.0,0.999999995
-BLEU-4,-,-,1.0
-Average ROUGE F-score,-,-,0.999999995
