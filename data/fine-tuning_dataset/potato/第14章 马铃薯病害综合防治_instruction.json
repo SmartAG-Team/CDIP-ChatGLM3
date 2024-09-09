@@ -1,0 +1,242 @@
+[
+    {
+        "instruction": "总结马铃薯晚疫病的发病规律和主要的防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释马铃薯粉痂病的传播途径，并列举两种以上有效的田间管理措施来减轻此病害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出针对马铃薯黑痣病，农民在储藏前应采取哪些具体措施来预防病害发生？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于马铃薯黄萎病，描述其发生规律并给出一套综合防治策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过农业技术手段控制马铃薯灰霉病的扩散？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结马铃薯青枯病的发病规律和主要防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出针对马铃薯环腐病的具体管理措施，包括如何在储藏期间减少病害发生。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释马铃薯软腐病的传播途径，并提供一套从田间管理到储藏的综合防治方案。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述马铃薯黑胫病的发生规律，特别是与温度、湿度的关系，以及如何通过农业操作来预防此病。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对比马铃薯青枯病与马铃薯黑胫病在防治方法上的异同点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结马铃薯卷叶病毒病的传播方式和一种有效的防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举两种可以传播马铃薯X病毒病的非蚜虫媒介。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释马铃薯S病毒病在田间快速传播的原因，并给出一项减缓此现象的建议。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于马铃薯A病毒病，提出除了使用无毒种薯外的另一种防治策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对比马铃薯M病毒病与马铃薯卷叶病毒病在传播方式上的主要区别。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结马铃薯疮痂病的发生规律和主要防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于马铃薯疮痂病的药剂防治方案，并说明施用时期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释如何通过田间管理控制马铃薯茎线虫的传播。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述马铃薯金线虫的生命周期，并指出其最适生存条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "给出马铃薯金线虫防治中，除了药剂防治外，还有哪些关键的非化学防治策略？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结马铃薯晚疫病的发病规律和主要的防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出针对马铃薯粉痂病的三种非化学防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释马铃薯黑痣病的发生与哪些环境因素密切相关？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述如何使用化学方法处理马铃薯种薯以预防黄萎病。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对比马铃薯白霉病和灰霉病的发病环境偏好和防治策略。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结马铃薯青枯病的发病规律和主要防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于马铃薯环腐病防治的切刀消毒方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释马铃薯软腐病的发生与哪些环境因素有关？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于马铃薯黑胫病，如何通过农业管理措施进行预防？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述马铃薯细菌性病害综合防治策略中，药剂防治的具体应用案例。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结马铃薯卷叶病毒病的防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举三种用于防治马铃薯Y病毒病的药剂及其使用浓度",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释马铃薯X病毒病在不同温度下的症状表现差异",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述马铃薯S病毒病重新感染种薯的过程和影响因素",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建议针对马铃薯M病毒病的综合防控策略",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结马铃薯疮痂病的发生规律和主要防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出针对马铃薯茎线虫有效的田间管理措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释马铃薯金线虫的传播方式，并给出检疫建议。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述马铃薯疮痂病的化学防治方法，包括药剂名称和使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "对于马铃薯金线虫，提供一种具体的药剂防治方案，包括药剂类型和使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

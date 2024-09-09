@@ -1,7 +1,7 @@
 import os
 import json
 import re
-from rouge import Rouge  
+from rouge import Rouge
 from openai import OpenAI
 import argparse
 import time
@@ -12,9 +12,9 @@ parser = argparse.ArgumentParser(description="Argument parser example")
 parser.add_argument('--prompt_dir', type=str, default='./src/create_fine-tuning_dataset/prompt.txt', help='Instruction generation prompt')
 parser.add_argument('--prompt2_dir', type=str, default='./src/create_fine-tuning_dataset/prompt2.txt', help='Instruction generation prompt2')
 
-parser.add_argument('--api_key', type=str, default='your api key', help='qwen api key')
-parser.add_argument('--folder_path', type=str, default='./data/books/文字数据集/小麦文字分段/小麦文字分段/第三章 小麦病虫害绿色防控技术/', help='Path to the folder to process')
-parser.add_argument('--varieties', type=str, default='grape', help='grape/apple/wheat...')
+parser.add_argument('--api_key', type=str, default='sk-27f210051bb14ac48bf17990844433e5', help='qwen api key')
+parser.add_argument('--folder_path', type=str, default='./data/books/文字数据集/马铃薯文字分段/马铃薯文字分段/第15章 马铃薯虫害综合防治/', help='Path to the folder to process')
+parser.add_argument('--varieties', type=str, default='potato', help='grape/apple/wheat...')
 
 parser.add_argument('--model', type=str, default='qwen-max-longcontext', help='qwen model name')
 parser.add_argument('--instruction_number', type=int, default=5, help='Number of instructions proposed per txt file')
@@ -285,8 +285,8 @@ def output(original_output_file_path):
 
 
 if __name__ == "__main__":
-    instruction_generation(folder_path)  #第一次打开这个 注释下面两个 只生成 _instruction_output.json 然后在新生成的_instruction_output.json中查看是否需要都关联了对应品种
+    # instruction_generation(folder_path)  #第一次打开这个 注释下面两个 只生成 _instruction_output.json 然后在新生成的_instruction_output.json中查看是否需要都关联了对应品种
     # original_output(instruction_file_path)  #第二次打开下面两个 注释上面这个 生成 _original_output.json 和 _finetune_output.json 
-    # output(original_output_file_path)
+    output(original_output_file_path)
 
    
