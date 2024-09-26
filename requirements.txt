@@ -8,3 +8,5 @@ opencv_python
 openai
 rouge
 transformers==4.40.2
+openpyxl
+seaborn

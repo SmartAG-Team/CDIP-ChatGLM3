@@ -1,0 +1,31 @@
+Model,Subject,Accuracy
+chatglm3_6b,STEM,43.69
+chatglm3_6b,Humanities,56.11
+chatglm3_6b,Social Science,57.37
+chatglm3_6b,Other,55.86
+chatglm3_6b,China specific,55.07
+chatglm3_6b,Overall,53.32
+freeze10,STEM,41.62
+freeze10,Humanities,54.19
+freeze10,Social Science,54.96
+freeze10,Other,54.07
+freeze10,China specific,53.02
+freeze10,Overall,51.23
+freeze10_alpaca_10K,STEM,42.16
+freeze10_alpaca_10K,Humanities,56.8
+freeze10_alpaca_10K,Social Science,56.35
+freeze10_alpaca_10K,Other,55.03
+freeze10_alpaca_10K,China specific,53.97
+freeze10_alpaca_10K,Overall,52.54
+freeze10_alpaca_20K,STEM,42.93
+freeze10_alpaca_20K,Humanities,57.03
+freeze10_alpaca_20K,Social Science,56.93
+freeze10_alpaca_20K,Other,54.6
+freeze10_alpaca_20K,China specific,55.51
+freeze10_alpaca_20K,Overall,52.87
+freeze10_alpaca_5K,STEM,42.1
+freeze10_alpaca_5K,Humanities,55.17
+freeze10_alpaca_5K,Social Science,55.06
+freeze10_alpaca_5K,Other,54.15
+freeze10_alpaca_5K,China specific,53.55
+freeze10_alpaca_5K,Overall,51.59

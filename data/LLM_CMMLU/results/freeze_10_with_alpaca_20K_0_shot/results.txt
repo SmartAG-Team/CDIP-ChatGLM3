@@ -1,0 +1,134 @@
+Average accuracy 0.669 - arts
+160 results, 0 inappropriate formated answers.
+Average accuracy 0.349 - astronomy
+149 results, 16 inappropriate formated answers.
+Average accuracy 0.474 - business_ethics
+209 results, 0 inappropriate formated answers.
+Average accuracy 0.594 - chinese_civil_service_exam
+160 results, 0 inappropriate formated answers.
+Average accuracy 0.779 - chinese_driving_rule
+131 results, 0 inappropriate formated answers.
+Average accuracy 0.471 - chinese_food_culture
+136 results, 0 inappropriate formated answers.
+Average accuracy 0.698 - chinese_foreign_policy
+106 results, 1 inappropriate formated answers.
+Average accuracy 0.733 - chinese_history
+322 results, 1 inappropriate formated answers.
+Average accuracy 0.456 - chinese_literature
+204 results, 0 inappropriate formated answers.
+Average accuracy 0.655 - chinese_teacher_qualification
+177 results, 2 inappropriate formated answers.
+Average accuracy 0.422 - clinical_knowledge
+237 results, 0 inappropriate formated answers.
+Average accuracy 0.256 - college_actuarial_science
+78 results, 28 inappropriate formated answers.
+Average accuracy 0.617 - college_education
+107 results, 0 inappropriate formated answers.
+Average accuracy 0.467 - college_engineering_hydrology
+105 results, 1 inappropriate formated answers.
+Average accuracy 0.444 - college_law
+108 results, 0 inappropriate formated answers.
+Average accuracy 0.421 - college_mathematics
+57 results, 48 inappropriate formated answers.
+Average accuracy 0.440 - college_medical_statistics
+91 results, 15 inappropriate formated answers.
+Average accuracy 0.457 - college_medicine
+269 results, 4 inappropriate formated answers.
+Average accuracy 0.537 - computer_science
+190 results, 14 inappropriate formated answers.
+Average accuracy 0.645 - computer_security
+169 results, 2 inappropriate formated answers.
+Average accuracy 0.619 - conceptual_physics
+134 results, 13 inappropriate formated answers.
+Average accuracy 0.410 - construction_project_management
+139 results, 0 inappropriate formated answers.
+Average accuracy 0.513 - economics
+156 results, 3 inappropriate formated answers.
+Average accuracy 0.638 - education
+163 results, 0 inappropriate formated answers.
+Average accuracy 0.479 - electrical_engineering
+167 results, 5 inappropriate formated answers.
+Average accuracy 0.464 - elementary_chinese
+252 results, 0 inappropriate formated answers.
+Average accuracy 0.558 - elementary_commonsense
+197 results, 1 inappropriate formated answers.
+Average accuracy 0.697 - elementary_information_and_technology
+231 results, 7 inappropriate formated answers.
+Average accuracy 0.338 - elementary_mathematics
+204 results, 26 inappropriate formated answers.
+Average accuracy 0.533 - ethnology
+135 results, 0 inappropriate formated answers.
+Average accuracy 0.553 - food_science
+141 results, 2 inappropriate formated answers.
+Average accuracy 0.408 - genetics
+174 results, 2 inappropriate formated answers.
+Average accuracy 0.557 - global_facts
+149 results, 0 inappropriate formated answers.
+Average accuracy 0.524 - high_school_biology
+168 results, 1 inappropriate formated answers.
+Average accuracy 0.435 - high_school_chemistry
+131 results, 1 inappropriate formated answers.
+Average accuracy 0.581 - high_school_geography
+117 results, 1 inappropriate formated answers.
+Average accuracy 0.379 - high_school_mathematics
+124 results, 40 inappropriate formated answers.
+Average accuracy 0.429 - high_school_physics
+98 results, 12 inappropriate formated answers.
+Average accuracy 0.671 - high_school_politics
+143 results, 0 inappropriate formated answers.
+Average accuracy 0.563 - human_sexuality
+126 results, 0 inappropriate formated answers.
+Average accuracy 0.400 - international_law
+185 results, 0 inappropriate formated answers.
+Average accuracy 0.605 - journalism
+172 results, 0 inappropriate formated answers.
+Average accuracy 0.602 - jurisprudence
+410 results, 1 inappropriate formated answers.
+Average accuracy 0.841 - legal_and_moral_basis
+214 results, 0 inappropriate formated answers.
+Average accuracy 0.545 - logical
+123 results, 0 inappropriate formated answers.
+Average accuracy 0.414 - machine_learning
+116 results, 6 inappropriate formated answers.
+Average accuracy 0.679 - management
+209 results, 1 inappropriate formated answers.
+Average accuracy 0.615 - marketing
+179 results, 1 inappropriate formated answers.
+Average accuracy 0.677 - marxist_theory
+189 results, 0 inappropriate formated answers.
+Average accuracy 0.466 - modern_chinese
+116 results, 0 inappropriate formated answers.
+Average accuracy 0.538 - nutrition
+145 results, 0 inappropriate formated answers.
+Average accuracy 0.610 - philosophy
+105 results, 0 inappropriate formated answers.
+Average accuracy 0.560 - professional_accounting
+175 results, 0 inappropriate formated answers.
+Average accuracy 0.379 - professional_law
+211 results, 0 inappropriate formated answers.
+Average accuracy 0.372 - professional_medicine
+376 results, 0 inappropriate formated answers.
+Average accuracy 0.616 - professional_psychology
+229 results, 3 inappropriate formated answers.
+Average accuracy 0.569 - public_relations
+174 results, 0 inappropriate formated answers.
+Average accuracy 0.578 - security_study
+135 results, 0 inappropriate formated answers.
+Average accuracy 0.588 - sociology
+226 results, 0 inappropriate formated answers.
+Average accuracy 0.433 - sports_science
+164 results, 1 inappropriate formated answers.
+Average accuracy 0.497 - traditional_chinese_medicine
+185 results, 0 inappropriate formated answers.
+Average accuracy 0.479 - virology
+169 results, 0 inappropriate formated answers.
+Average accuracy 0.738 - world_history
+160 results, 1 inappropriate formated answers.
+Average accuracy 0.613 - world_religions
+160 results, 0 inappropriate formated answers.
+STEM                                     42.96
+Humanities                               57.03
+Social Science                           56.93
+Other                                    54.62
+China specific                           55.51
+Overall                                  52.89

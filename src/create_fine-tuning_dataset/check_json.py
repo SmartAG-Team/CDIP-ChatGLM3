@@ -22,5 +22,5 @@ def check_json_format(file_path):
 
 
 if __name__ == "__main__":
-    file_path = "./data/fine-tuning_dataset/wheat/wheat.json"  # 替换为你的JSON文件路径
+    file_path = "./data/response/finetune_model_lora_5epoch/response_grape.json"  # 替换为你的JSON文件路径
     check_json_format(file_path)

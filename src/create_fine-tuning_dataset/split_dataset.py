@@ -28,5 +28,5 @@ def split_data(json_file, output_train_file, output_test_file, test_ratio=0.1):
     print(f"数据已划分：测试数据 {test_count} 条，训练数据 {total_count - test_count} 条。")
 
 
-split_data('./data/fine-tuning_dataset/apple/apple.json', './data/fine-tuning_dataset/apple/apple_train_data.json', './data/fine-tuning_dataset/apple/apple_test_data.json')
+split_data('./data/fine-tuning_dataset/grape/grape.json', './data/fine-tuning_dataset/grape/grape_train_data.json', './data/fine-tuning_dataset/grape/grape_test_data.json')
 
