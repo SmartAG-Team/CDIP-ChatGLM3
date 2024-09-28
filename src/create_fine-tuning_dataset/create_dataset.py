@@ -11,13 +11,13 @@ import glob
 
 parser = argparse.ArgumentParser(description="Argument parser example")
 parser.add_argument('--prompt_dir', type=str, default='./src/create_fine-tuning_dataset/prompt.txt', help='Instruction generation prompt')
-parser.add_argument('--prompt2_dir', type=str, default='./src/create_fine-tuning_dataset/prompt2.txt', help='Instruction generation prompt2')
+parser.add_argument('--prompt2_dir', type=str, default='./src/create_fine-tuning_dataset/prompt3.txt', help='Instruction generation prompt2')
 
 parser.add_argument('--api_key', type=str, default='sk-0e7d0b5cb782481dbff68b487c69d5ca', help='qwen api key')
-parser.add_argument('--folder_path', type=str, default='./data/LLM_books_2/文字数据集/葡萄文字分段/葡萄文字分段/第一章 葡萄优良品种和砧木/', help='Path to the folder to process')
-parser.add_argument('--varieties', type=str, default='grape', help='grape/apple/wheat...')
+parser.add_argument('--folder_path', type=str, default='./data/LLM_books_2/文字数据集/水稻文字分段/水稻文字分段/第一章 水稻病害/', help='Path to the folder to process')
+parser.add_argument('--varieties', type=str, default='rice', help='grape/apple/wheat...')
 
-parser.add_argument('--model', type=str, default='qwen-max', help='qwen model name')
+parser.add_argument('--model', type=str, default='llama3.1-405b-instruct', help='qwen model name')
 parser.add_argument('--instruction_number', type=int, default=5, help='Number of instructions proposed per txt file')
 parser.add_argument('--delay', type=int, default=5, help='api call intervals')
 args = parser.parse_args()
@@ -191,14 +191,24 @@ def original_output(instruction_file_path):
                 continue
 
             instruction = item['instruction']
-            
-            completion = client.chat.completions.create(
-                model=args.model,
-                messages=[
-                    {'role': 'user', 'content': instruction}
-                ],
-                stream=False
-            )      
+            try:
+                completion = client.chat.completions.create(
+                    model=args.model,
+                    messages=[
+                        {'role': 'user', 'content': instruction},
+                        {'role': 'user', 'content': '请尽可能详细的回答，内容较多时请分点回答'}
+                    ],
+                    stream=False
+                )      
+            except:
+                completion = client.chat.completions.create(
+                    model=args.model,
+                    messages=[
+                        {'role': 'user', 'content': instruction},
+                        {'role': 'user', 'content': '请尽可能详细的回答，内容较多时请分点回答'}
+                    ],
+                    stream=False
+                )         
             response = completion.choices[0].message.model_dump()
 
             # 将生成的内容放入output字段
@@ -232,7 +242,7 @@ def output(original_output_file_path):
                 model=args.model,
                 messages=[
                     {'role': 'system', 'content': text},
-                    {'role': 'user', 'content': '请结合上下文信息针对每一个指令修改润色一下回复信息，请不要修改原有的结构。'}
+                    {'role': 'user', 'content': '请结合上下文信息针对每一个指令修改润色一下回复信息。'}
                 ],
                 stream=False
             )
@@ -297,7 +307,7 @@ def output(original_output_file_path):
 
 
 if __name__ == "__main__":
-    # instruction_generation(folder_path)  #第一次打开这个 注释下面两个 只生成 _instruction_output.json 然后在新生成的_instruction_output.json中查看是否需要都关联了对应品种
+    #instruction_generation(folder_path)  #第一次打开这个 注释下面两个 只生成 _instruction_output.json 然后在新生成的_instruction_output.json中查看是否需要都关联了对应品种
     original_output(instruction_file_path)  #第二次打开下面两个 注释上面这个 生成 _original_output.json 和 _finetune_output.json 
     output(original_output_file_path)
 
