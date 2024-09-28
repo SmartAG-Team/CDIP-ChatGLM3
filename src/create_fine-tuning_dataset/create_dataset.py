@@ -11,10 +11,10 @@ import glob
 
 parser = argparse.ArgumentParser(description="Argument parser example")
 parser.add_argument('--prompt_dir', type=str, default='./src/create_fine-tuning_dataset/prompt.txt', help='Instruction generation prompt')
-parser.add_argument('--prompt2_dir', type=str, default='./src/create_fine-tuning_dataset/prompt 2.txt', help='Instruction generation prompt2')
+parser.add_argument('--prompt2_dir', type=str, default='./src/create_fine-tuning_dataset/prompt2.txt', help='Instruction generation prompt2')
 
 parser.add_argument('--api_key', type=str, default='sk-0e7d0b5cb782481dbff68b487c69d5ca', help='qwen api key')
-parser.add_argument('--folder_path', type=str, default='./data/books/文字数据集/葡萄文字分段/葡萄文字分段/第八章 葡萄主要病虫害防控技术/第一节 主要病害防控技术/', help='Path to the folder to process')
+parser.add_argument('--folder_path', type=str, default='./data/LLM_books_2/文字数据集/葡萄文字分段/葡萄文字分段/第一章 葡萄优良品种和砧木/', help='Path to the folder to process')
 parser.add_argument('--varieties', type=str, default='grape', help='grape/apple/wheat...')
 
 parser.add_argument('--model', type=str, default='qwen-max', help='qwen model name')
