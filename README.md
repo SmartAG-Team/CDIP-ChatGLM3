@@ -145,7 +145,7 @@ Our CV experiment results include four main components.
 1. **Model Performance**: By comparing the Accuracy, Recall, F1-scores, and Precision of 10 models, we identify the best-performing model.
 2. **Disease Identification Accuracy**: The prediction results are demonstrated by calculating the accuracy for each type of disease prediction.
 
-####**Model Performance**
+#### **Model Performance**
 We selected 10 models for this experiment, which include:ResNet-34，ResNet-50，MobileNetV3-Small，EfficientNet-B0，EfficientNet-B1，EfficientNet-B2，EfficientNetV2-S，Swin-Transformer-Tiny，FasterNet-T0，FasterNet-T1.
 To test the performance of the 10 models, you can run the following Python code：
 
@@ -155,7 +155,7 @@ To test the performance of the 10 models, you can run the following Python code�
 
 You should replace the 'model' in the command with the actual model being tested
 
-####**Disease Identification Accuracy**
+#### **Disease Identification Accuracy**
 Our dataset includes the following crops: apple, cherry, citrus, corn, grape, peach, pepper, potato, rice, soybean, strawberry, tomato, and wheat. The full_confusion_matrix.csv contains the classification information for the diseases of all these crops. You can generate the table by running the code：
 
   ```
