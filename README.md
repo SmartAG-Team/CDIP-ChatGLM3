@@ -135,7 +135,11 @@ Before starting the training, you need to place the disease dataset in the data/
   from EfficientNet import efficientnet_b1 as create_model
   ```
 
-And modify the default value of --weights in the main function to model\CV\pretrain_model\efficientnetb1.pth.Then you can start training.
+And modify the default value of --weights in the main function to 
+ ```
+ model\CV\pretrain_model\efficientnetb1.pth
+ ```
+Then you can start training.
 ## Results
 
 ### CV-Model Test
