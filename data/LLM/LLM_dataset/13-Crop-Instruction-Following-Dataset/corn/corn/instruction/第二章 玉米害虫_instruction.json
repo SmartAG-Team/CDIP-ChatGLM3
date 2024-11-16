@@ -1,0 +1,837 @@
+[
+    {
+        "instruction": "请描述玉米害虫东亚飞蝗的形态特征，包括成虫、卵和蝗蜻的特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米害虫东亚飞蝗主要危害哪些作物？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释玉米害虫东亚飞蝗的发生规律，包括其迁飞习性和适生环境。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "什么是玉米害虫东亚飞蝗的防治措施？请列举生态控制技术、生物防治和化学防治的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请说明应用蝗虫微孢子虫或绿僵菌防治玉米害虫东亚飞蝗的最佳时机和使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米害虫二点委夜蛾的分布与危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米害虫二点委夜蛾主要危害哪些植物？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米害虫二点委夜蛾的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米害虫二点委夜蛾的幼虫在白天喜欢躲在哪里？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米害虫二点委夜蛾的防治措施，包括农业防治、物理防治和化学防治",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米害虫土蝗主要危害哪些农作物？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米害虫黄胫小车蝗的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米害虫黄胫小车蝗在河北北部、西部山区及晋中、晋北地区一年发生几代？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举对玉米农作物危害比较严重的土蝗种类",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米害虫土蝗的防治措施有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米害虫地老虎的主要特征和习性",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "比较玉米害虫小地老虎和黄地老虎的区别",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米地里发现了地老虎幼虫，该怎么办？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治玉米害虫地老虎的主要方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米害虫大螟幼虫的形态特征，包括体长、颜色和其他显著特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米害虫大螟主要危害哪些作物？请列出至少5种",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释玉米大螟的发生规律，包括越冬方式、化蛹时间和交尾产卵时间",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米受大螟危害后会出现哪些症状？请描述至少3种",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出两种防治玉米大螟的措施，包括农业防治和化学防治",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米大青叶蝉的形态特征，包括体长、头部颜色、复眼颜色等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米大青叶蝉主要危害哪些农作物？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治玉米大青叶蝉的农业防治措施，包括铲除杂草、及时中耕等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请问玉米大青叶蝉在我国北部一年发生几代？每代成虫出现的时间是什么时候？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出三种化学防治玉米大青叶蝉的方法，包括使用的药剂和稀释倍数。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述斑须蝽对玉米造成的危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "你能否列出玉米斑须蝽的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "什么时候斑须蝽会开始危害玉米",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出两种防治玉米斑须蝽的化学方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米农业防治斑须蝽的主要措施是什么",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述斜纹夜蛾的形态特征，包括成虫、卵、幼虫和蛹的外观。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释斜纹夜蛾的发生规律，包括其生命周期和一年中哪些月份危害严重。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果玉米田中发现了斜纹夜蛾卵块，应该采取什么措施进行防治？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米斜纹夜蛾的防治措施，包括农业防治、生物防治、物理防治和化学防治等方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米桃蛀螟的形态特征，包括成虫、卵、幼虫和蛹的外观。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释玉米桃蛀螟的发生规律，包括其世代数量、越冬方式和各个生长阶段的时间。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过农业防治和物理防治来控制玉米桃蛀螟的危害？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治玉米桃蛀螟的化学防治方法，包括使用的药剂和使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米棉铃虫的形态特征，包括成虫、卵、幼虫和蛹的外观特点",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米棉铃虫的幼虫有哪些类型？请列出所有类型",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释玉米棉铃虫的发生规律，包括其生命周期和各虫态的发育特点",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米棉铃虫主要危害哪些农作物？请列出所有受影响的作物",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米棉铃虫的防治措施，包括农业防治、物理防治、生物防治和化学防治等方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米双斑萤叶甲的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米双斑萤叶甲主要危害哪些作物？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米双斑萤叶甲的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米双斑萤叶甲的成虫期有多长？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请总结玉米双斑萤叶甲的发生规律",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米叶螨的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米叶螨主要有哪些种类？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释玉米叶螨的发生规律",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米叶螨的防治措施有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米叶螨的主要寄主植物",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米旋心虫的分布与危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米旋心虫的卵在土壤中越冬的时间是多久？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米旋心虫的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米旋心虫的幼虫期主要危害的是什么植物？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米旋心虫成虫的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米耕葵粉蚧的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米耕葵粉蚧一年发生几代？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米耕葵粉蚧的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么6月下旬至7月上中旬是玉米耕葵粉蚧化学防治的最佳时期",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米耕葵粉蚧的卵的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米蓟马的分布与危害情况",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米蓟马的形态特征是什么",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米蓟马的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米蓟马的发生规律是怎样的",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么干旱对玉米蓟马大发生有利",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米蚜虫的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米蚜虫主要分布在哪些地区？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米蚜虫的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米蚜虫的发生规律是怎样的？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请问玉米蚜虫主要危害哪些作物？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米螟的分布与危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米螟的形态特征有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释玉米螟的发生规律",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何防治玉米螟？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米螟的成虫、卵、幼虫和蛹的特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述甘薯跳盲蝽的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "甘薯跳盲蝽主要以哪些植物为寄主？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出甘薯跳盲蝽的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "甘薯跳盲蝽的成虫和若虫主要吸食哪些部位？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述甘薯跳盲蝽的发生规律",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述甜菜夜蛾的分布与危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "甜菜夜蛾的成虫有什么特征？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出甜菜夜蛾的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "甜菜夜蛾的幼虫有几龄？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请问甜菜夜蛾的卵是什么形状？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述稻赤斑黑沫蝉的形态特征，包括成虫、卵和若虫的外观特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出稻赤斑黑沫蝉的防治措施，包括农业防治、人工诱杀和化学防治等方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "若虫防治中，如何使用3%克百威颗粒剂进行防治？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述稻赤斑黑沫蝉的发生规律，包括其生命周期和活动特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述网目拟地甲的分布范围和主要食性",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "网目拟地甲的成虫和幼虫分别对玉米造成什么样的危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "网目拟地甲的成虫和幼虫有哪些形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请简要描述网目拟地甲的发生规律，包括越冬、羽化和危害盛期",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "有哪些方法可以用来防治网目拟地甲，包括农业防治和化学防治",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述大黑鳃金龟甲的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "蛴蜡主要危害哪些农作物？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请比较大黑鳃金龟甲和暗黑鳃金龟甲的生命周期",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过农业防治措施减少蛴蜡的数量？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释铜绿丽金龟甲的卵期、幼虫期、蛹期和成虫期分别是多久",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出蜗牛对玉米造成的危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述灰巴蜗牛的贝壳特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请问蜗牛一年繁殖多少代？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米防治蜗牛的农业防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述毒饵诱杀蜗牛的方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述华北蝼蛄的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "蝼蛄一年能发生几代？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米防治蝼蛄的三种措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "华北蝼蛄在哪个月份开始产卵？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释使用毒饵防治蝼蛄的步骤",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "蟋蟀的主要危害是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述蟋蟀的形态特征，包括体长、颜色和翅膀等方面。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "蟋蟀的发生规律是怎样的？请描述其生命周期和各个阶段的特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举玉米蟋蟀的防治措施，包括农业防治、物理防治和化学防治等方面。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果玉米地里发现蟋蟀，请说明如何使用麦麸毒饵进行防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "赤须盲蝽对玉米造成的主要危害是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述赤须盲蝽的形态特征，包括身体颜色、头部形状和触角特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "赤须盲蝽在华北地区一年发生几代？请简要描述其发生规律。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "赤须盲蝽的防治措施有哪些？请列出农业防治和化学防治的具体方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "总结赤须盲蝽的生物学特性，包括其食性、活动习性和世代重叠现象。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米金针虫的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米金针虫的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米金针虫的幼虫期有多长？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述高粱条螟对玉米造成的危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米高粱条螟的成虫有哪些形态特征？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米高粱条螟的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "高粱条螟的幼虫在玉米和高粱秸秆中越冬时会发生什么变化？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释玉米高粱条螟的发生规律，包括其世代和发育过程",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米黏虫的形态特征，包括成虫、卵、幼虫和蛹的外观。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "黏虫的发生规律是怎样的？一年发生几代？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米防治黏虫的物理和化学方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在玉米田中发现大量黏虫幼虫，该怎么办？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

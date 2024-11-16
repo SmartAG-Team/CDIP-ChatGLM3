@@ -1,0 +1,572 @@
+[
+    {
+        "instruction": "请描述玉米丝黑穗病的典型症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "土壤带菌在玉米丝黑穗病的侵染循环中起到了什么作用？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出几种适合防治玉米丝黑穗病的杀菌剂",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果玉米种子带菌，会对田间传病产生什么影响？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "从多方面描述如何防治玉米丝黑穗病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米全蚀病的主要症状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "从多方面描述如何防治玉米全蚀病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米全蚀病的农业防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "哪些土壤类型更容易受到玉米全蚀病的影响？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么施用有机肥可以减轻玉米全蚀病的发病程度",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米大斑病的分布与危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米大斑病的症状特征有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米大斑病的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释玉米大斑病的发生规律",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米大斑病的发病适温和湿度条件是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米小斑病的分布与危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米小斑病的症状特征有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米小斑病的三种类型",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释玉米小斑病的发生规律",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米小斑病的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米弯孢霉叶斑病的主要症状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米弯孢霉叶斑病的发生规律是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出5种适合用于玉米弯孢霉叶斑病化学防治的药剂",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么玉米种植过密会导致玉米弯孢霉叶斑病发病加重",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果玉米田里发现了玉米弯孢霉叶斑病，应该采取什么农业防治措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米疯顶病的典型症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米疯顶病的发生规律是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米疯顶病的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么玉米疯顶病会对玉米生产造成重大影响",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米疯顶病的病菌侵染过程",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米瘤黑粉病的典型症状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米瘤黑粉病的病菌可以在哪些部位形成菌瘿？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米瘤黑粉病的防治措施，包括农业防治和化学防治",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么连作地和距村庄较近的地块更容易发生玉米瘤黑粉病",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米瘤黑粉病的发生规律，包括病菌的越冬方式和传播方式",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米矮化花叶病的主要症状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米矮化花叶病主要通过什么方式传播？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治玉米矮化花叶病的主要措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果玉米田中发现了玉米矮化花叶病，应该采取什么紧急措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么冬暖春旱的天气条件会加重玉米矮化花叶病的发生",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米穗腐病的典型症状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米穗腐病的发生规律是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出玉米穗腐病的防治措施，包括农业防治和化学防治",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么高温多雨和玉米虫害会加重玉米穗腐病的发生",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "什么样的玉米品种更容易感染玉米穗腐病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米粗缩病的典型症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米粗缩病的主要传播方式是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出防治玉米粗缩病的农业防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么玉米苗期感病受害最重",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据上下文，什么是玉米粗缩病的主要传毒介体？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米红叶病的主要症状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米红叶病的传播方式是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出玉米红叶病的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么春季是玉米红叶病传播侵染的主要时期",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果玉米田附近有麦田，如何预防玉米红叶病的发生？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米纹枯病的主要症状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米纹枯病主要通过哪些途径传播？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米纹枯病的防治措施，包括农业防治和化学防治",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释玉米纹枯病的发生规律，包括温度、湿度和其他因素的影响",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果玉米纹枯病已经开始发生，应该采取什么紧急措施来控制病情？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米细菌性茎基腐病的典型症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米细菌性茎基腐病的发生与哪些因素有关？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米细菌性茎基腐病的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米细菌性茎基腐病的病菌主要通过什么方式传播？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么玉米细菌性茎基腐病的发生会受到自然抑制",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米细菌性茎腐病的主要症状特征是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米细菌性茎腐病发病的有利条件，包括温度、湿度等因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "轮作和高畦栽培对预防玉米细菌性茎腐病有什么作用？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米细菌性茎腐病在茎秆和叶鞘上的典型病症表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "使用抗生素浸种可以控制玉米细菌性茎腐病的传播吗？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米苗枯病的分布与危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米苗枯病的症状特征有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米苗枯病的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "土壤类型和湿度如何影响玉米苗枯病的发生？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释连作种植如何影响玉米苗枯病的发生",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米褐斑病的主要症状与特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米褐斑病主要发生在哪些地区？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米褐斑病的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米褐斑病的发生规律是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么在土壤肥力较高的地块，玉米健壮，叶色深绿，病害较轻甚至不发病",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米锈病的主要发生区域和发病症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米锈病主要发生在玉米的哪些部位？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出玉米锈病发生的有利条件",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举农业防治玉米锈病的措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举化学防治玉米锈病的药剂和使用方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米青枯病的主要症状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米青枯病的主要病原体有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出玉米青枯病的主要防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么玉米籽粒灌浆和乳熟阶段容易发生玉米青枯病",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米青枯病的分布和危害情况",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述玉米顶腐病的典型症状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "玉米顶腐病的病原菌有哪两种？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出玉米顶腐病的防治措施，包括农业防治和化学防治",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么土质黏重、低洼冷凉地块会加重玉米顶腐病的发病",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果玉米心叶已扭曲腐烂，应该采取什么措施来促进雄穗的正常吐穗？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

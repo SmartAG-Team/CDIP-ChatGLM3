@@ -1,0 +1,517 @@
+[
+    {
+        "instruction": "桃树上的蚜虫有哪些特征？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述桃树蚜虫的分布范围和习性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何识别桃树蚜虫的成虫和卵？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出桃树蚜虫的防治措施，包括物理、生物和化学方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树蚜虫在一年中哪些时候繁殖最快，为害最重？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树上的桃梢和桃果实受到什么样的损害？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述一下桃树上的小卷叶蛾的成虫、卵、幼虫和蛹的形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树上的小卷叶蛾一年发生多少代？请列出不同地区的代数。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释一下桃树上的小卷叶蛾的越冬习性和防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出几种可以用来防治桃树小卷叶蛾的方法，包括摘除虫果、套袋、诱杀雄成虫和使用药剂。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树上的螨虫有哪些特征？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树螨虫的雌成螨和雄成螨有什么区别？请描述它们的体形、大小和颜色。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出桃树螨虫的生命周期各个阶段，包括卵、幼螨、若螨和成螨。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树螨虫的习性是什么？它们如何越冬？何时开始出蛰？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请提供桃树螨虫的防治措施，包括出蛰前、出蛰期和夏季的防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树叶蝉的成虫有哪些特征？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述桃树叶蝉的分布范围，包括国内和国外的地区。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树叶蝉的卵通常产在哪里？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出桃树叶蝉的防治措施，包括成虫出蛰前和越冬代成虫迁入后的措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树叶蝉的若虫在受惊时会有什么行为？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何区分桃树蚜虫的无翅孤雌蚜和有翅孤雌蚜？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树蚜虫的生命周期是怎样的？请描述其各个阶段的特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述桃树上的潜叶蛾的卵的形状和大小。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树上的潜叶蛾一年大约发生多少代？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出桃树潜叶蛾的成虫、幼虫和蛹的主要特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何防治桃树上的潜叶蛾？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释桃树潜叶蛾的越冬习性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树草履蚧的成虫有翅吗？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树草履蚧的卵的形状和颜色。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树草履蚧的若虫喜欢在什么时候、什么地方活动？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出桃树草履蚧的防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树草履蚧的成虫和若虫主要吸食桃树的什么部位？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树上的Marumba gaschkewitschii成虫有哪些特征？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述一下桃树上的Marumba gaschkewitschii幼虫的外观特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树上的Marumba gaschkewitschii在河北、山东、河南一年发生几代？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出几种可以用来防治桃树上的Marumba gaschkewitschii的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树上的Marumba gaschkewitschii的卵期大约持续多长时间？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树上的白色介壳是什麼昆蟲的?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树盾蚧的雄成虫特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树盾蚧的卵在孵化前後的顏色分別是什麼?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树盾蚧的若虫和雌成虫对桃树造成了什么样的危害?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "制定一份桃树盾蚧的防治计划，包括时间和方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树受到什么类型的虫害？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树上发现的成虫的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "什么时候是桃树成虫的发生盛期？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出防治桃树虫害的措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释桃树成虫的‘假死性’是什么意思？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树上的桃蚧虫有几代？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树桃蚧虫的雌成虫和雄成虫的外观特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树桃蚧虫的卵和若虫分别是什么颜色？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何防治桃树桃蚧虫？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树桃蚧虫的蛹有什么特征？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述桃树的主要害虫鞘翅目、天牛科的成虫形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树的主要害虫鞘翅目、天牛科的卵是什么颜色？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出桃树的主要害虫鞘翅目、天牛科的幼虫形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请总结桃树的主要害虫鞘翅目、天牛科的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述桃树上丽金龟科的成虫特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树丽金龟科的卵是什么形状？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出桃树丽金龟科的分布省份",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树丽金龟科的幼虫有多少个胸足节？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请说明桃树丽金龟科的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树上的刺蛾幼虫主要以什么为食？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述桃树刺蛾成虫的翅膀颜色和形状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树刺蛾在江西地区一年发生几代？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治桃树刺蛾的措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树刺蛾的卵通常产在哪里？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述桃树害虫的成虫特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树害虫的幼虫期有多长？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治桃树害虫的措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树害虫的成虫在什么时间段内最活跃？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树上的害虫有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述桃树害虫Halyomorpha halys的卵的形状和颜色。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树害虫的成虫有几种颜色？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出桃树害虫的防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树害虫的若虫在出生后会在哪里静伏？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树上的桃蛾幼虫主要以什么为食？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述桃树桃蛾成虫的外观特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃蛾幼虫在桃树上产卵的位置是哪里？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治桃树桃蛾的措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树桃蛾的成虫对什么有强烈的趋性？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述桃树上的卷叶蛾的卵的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "卷叶蛾在桃树上的为害习性有哪些",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治桃树上卷叶蛾的措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树上的卷叶蛾的成虫有什么特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释卷叶蛾的幼虫在桃树上的活动特点",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

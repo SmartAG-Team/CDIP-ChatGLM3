@@ -1,0 +1,497 @@
+[
+    {
+        "instruction": "请描述小麦黄矮病的典型症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦黄矮病的防治措施有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释小麦黄矮病的防治适期是什么时候",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦黄矮病的症状因哪些因素而不同？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出所有对小麦黄矮病有较好抗性的品种",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦条锈病的田间症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦条锈病的防治适期是什么时候？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举小麦条锈病的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释小麦条锈病的化学防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请说明小麦条锈病的农业措施有哪些",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦全蚀病典型的田间症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "轮作倒茬可以有效控制小麦全蚀病的发生，请问轮作作物有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治小麦全蚀病的化学防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么种植抗(耐)病品种是控制小麦全蚀病的有效措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请问用什么药剂进行种子处理可以有效防治小麦全蚀病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦秆锈病的田间症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦秆锈病的防治适期是什么时候？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出东北春麦区抗小麦秆锈病的品种",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么加强栽培管理可以防治小麦秆锈病",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治小麦秆锈病的化学防治药剂",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦茎基腐病的主要症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦茎基腐病的防治适期是什么时候？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治小麦茎基腐病的主要措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么选用抗病品种是最防治小麦茎基腐病经济有效的办法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述如何使用药剂处理土壤来防治小麦茎基腐病",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出小麦叶锈病的主要症状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦叶锈病的防治适期是什么时候？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出几种推广抗小麦叶锈病的良种",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦叶锈病的药剂防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出几种栽培防病措施来控制小麦叶锈病",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦赤霉病的田间症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦赤霉病的防治适期是什么时候？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出小麦赤霉病的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过农业防治减少小麦赤霉病的初侵染源？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释小麦赤霉病的药剂防治策略",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出小麦根腐病的典型症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦根腐病的防治适期是什么时候？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述一下小麦根腐病的病原体",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过耕作栽培措施来防治小麦根腐病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出几种可以用来防治小麦根腐病的药剂",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦纹枯病的主要症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦纹枯病的防治适期是什么时候？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出小麦纹枯病的农业防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释如何使用种子处理来防治小麦纹枯病",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦纹枯病的药剂防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦网腥黑穗病的典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦网腥黑穗病的防治适期是什么时候？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出三种可以用来防治小麦网腥黑穗病的药剂。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么春麦不宜播种过早，冬麦不宜播种过迟。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦矮腥黑穗病典型症状的特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦矮腥黑穗病的防治适期是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出小麦矮腥黑穗病的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦矮腥黑穗病的抗病品种有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释小麦矮腥黑穗病的成熟期症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦光腥黑穗病的症状表现",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦光腥黑穗病的防治适期是什么时候？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出5种抗小麦光腥黑穗病的品种",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释如何通过种子处理来防治小麦光腥黑穗病",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "结合栽培措施，如何通过播种时间和肥料使用来减少小麦光腥黑穗病的发生",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦叶枯病的田间症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦叶枯病的防治适期是什么时候？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "选用抗小麦叶枯病的品种有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治小麦叶枯病的栽培管理措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "重病区的小麦叶枯病如何进行药剂防治？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦秆枯病的主要症状表现",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦秆枯病主要危害小麦的哪些部位？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出3种防治小麦秆枯病的措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "适期播种和合理施肥对小麦秆枯病的防治有何作用？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么加强栽培管理是防治小麦秆枯病最有效的措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦秆黑粉病的典型症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦秆黑粉病的防治适期是什么时候？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出三种可以用来处理小麦种子的药剂名称",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果想要控制小麦秆黑粉病的传播，应该采取什么样的栽培措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么选用抗病品种和使用无病种子是最有效的控制小麦秆黑粉病的措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦散黑穗病的主要症状表现",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦散黑穗病的防治关键是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "建立无病种子田对控制小麦散黑穗病有何作用？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出几种可用于小麦散黑穗病种子处理的药剂及其使用方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "使用拌种双进行小麦散黑穗病种子处理时应注意什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出适合华北麦区的小麦抗病品种。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "田间小麦白粉病病菌如何进行越冬？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦白粉病的田间症状，包括病部的外观和被害叶片的变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

@@ -1,0 +1,662 @@
+[
+    {
+        "instruction": "番茄叶霉病的主要症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述番茄叶霉病的病原体特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄叶霉病的发生规律是怎样的？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出番茄叶霉病的防治方法，包括种子处理、栽培管理和药剂防治等方面。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄叶霉病的病菌主要通过什么方式传播和越冬？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄斑枯病的主要症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述番茄斑枯病的病原体特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄斑枯病的发生规律是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出番茄斑枯病的防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄斑枯病的药剂防治有哪些选择？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄早疫病的典型症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述番茄早疫病病原体的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄早疫病的发生规律是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过种子处理来预防番茄早疫病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出番茄早疫病的防治方法，包括化学防治和非化学防治",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄晚疫病的主要病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述番茄晚疫病的典型症状，包括叶片、茎秆和果实的变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄晚疫病的发生与哪些环境因素有关？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举几种有效的方法来防治番茄晚疫病，包括栽培环境的改善、菌源的消除和药剂防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "什么是番茄晚疫病的主要传播方式？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄枯萎病的典型症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄枯萎病与番茄青枯病有哪些区别？请列出三点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述番茄枯萎病的病原体尖镰孢的特征，包括其形态和培养特性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄枯萎病的发生规律是什么？请描述病菌的越冬方式、侵染途径和传播方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过合理轮作、改善育苗方式和高温消毒等方法预防番茄枯萎病？请提供具体措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄根结线虫病的主要症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出番茄根结线虫病的病原体，包括南方根结线虫、爪哇根结线虫等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄根结线虫病的发生规律是怎样的？请描述线虫卵孵化、幼虫侵入根部和成虫产卵的过程。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出番茄根结线虫病的防治方法，包括选用抗病品种、合理轮作、加强栽培管理等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄根结线虫病的药剂防治方法有哪些？请列出相关药剂和使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄溃疡病的主要传播途径是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述番茄溃疡病的典型症状，包括叶片和果实上的表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄溃疡病的病原体是什么？请提供详细信息。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出番茄溃疡病的防治方法，包括种子处理、土壤处理和田间管理等方面。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄溃疡病的发病规律是什么？请描述其与气候条件的关系。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄灰叶斑病的主要初侵染源是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述番茄灰叶斑病的症状，包括病斑的形状、颜色和位置。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄灰叶斑病的病原体是哪种真菌？请提供其学名和特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出番茄灰叶斑病的防治方法，包括清除病残体、合理轮作、控制温湿度和药剂防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄灰叶斑病主要发生在哪个季节？请解释为什么在这个季节容易发生。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄灰霉病的主要症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述番茄灰霉病的病原体特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄灰霉病的防治方法有哪些？请列出至少三种方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么控制湿度和温度对防治番茄灰霉病至关重要",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "药剂防治番茄灰霉病时，应采取哪些具体措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄猝倒病的典型症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简要描述一下番茄瓜果腐霉的孢子囊和游动孢子的特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出番茄猝倒病的三个主要诱因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "比较一下不同温度下番茄瓜果腐霉卵孢子的萌发方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄猝倒病发病后应采取什么药剂防治措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄白粉病的主要病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述番茄白粉病的症状，包括叶片、叶柄、茎和果实的变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄白粉病的发病规律是什么？包括越冬方式、传播途径和发病季节。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出番茄白粉病的防治方法，包括选用抗病品种、加强栽培管理和药剂防治等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄白粉病的药剂防治方法中，常用的药剂有哪些？请列出至少三种。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄立枯病的症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述番茄立枯病的病原体特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄立枯病与番茄猝倒病的区别是什么？请列出三点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出番茄立枯病的防治方法，包括播种、苗期管理和药剂防治等方面。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄立枯病的发病规律是什么？请描述其与温度、湿度和土壤条件的关系。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄筋腐病的症状有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述番茄筋腐病白变型的典型症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄筋腐病的病因是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过栽培管理来预防番茄筋腐病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出5个抗番茄筋腐病的品种",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄细菌性斑点病主要通过什么途径传播？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述番茄细菌性斑点病的症状，包括叶片、茎秆、果柄和果实的变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄细菌性斑点病的病原体是什么？请描述其形态和培养特性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出番茄细菌性斑点病的防治方法，包括种子检疫、选用无病种苗、轮作、田间管理和药剂防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄细菌性斑点病的发生规律是什么？请描述其与温度、湿度和雨水的关系。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄细菌性疮痂病的症状有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述番茄细菌性疮痂病病原体的形态特征和生长条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄细菌性疮痂病的发病规律是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出番茄细菌性疮痂病的防治方法，包括农业防治、种子消毒和药剂防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄细菌性疮痂病的药剂防治有哪些生物农药和化学药剂可供选择？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄细菌性髓部坏死病的主要症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述番茄细菌性髓部坏死病的病原体特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄细菌性髓部坏死病的发生规律是什么？请简要描述。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出番茄细菌性髓部坏死病的防治方法，包括轮作、栽培管理、种子处理和药剂防治等方面。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄细菌性髓部坏死病通常在番茄生长的哪个阶段发病最为严重？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄花叶病毒病的典型症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出番茄花叶病毒病的防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄花叶病毒病的发生规律是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述番茄花叶病毒的形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果田间发现番茄花叶病毒病的病株，应该采取什么措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄菌核病的主要病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述番茄菌核病的症状，包括叶片、茎秆和果实的受害情况。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄菌核病的发病规律是什么？请解释病菌的传播方式和影响因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出番茄菌核病的防治方法，包括栽培方式、田间管理和药剂防治等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄菌核病的药剂防治中，常用的药剂有哪些？请列出具体的药剂名称和使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄蕨叶病毒病的主要症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出番茄蕨叶病毒病的防治方法，包括合理轮作、防除蚜虫和药剂防治等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄蕨叶病毒病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述番茄蕨叶病毒病的发病规律，包括环境条件、管理因素等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄蕨叶病毒病的药剂防治方法中，什么时候需要喷药？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄褐斑病的典型症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述番茄褐斑病的病原体特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄褐斑病的发生规律是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过田间管理来预防番茄褐斑病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出可用于防治番茄褐斑病的药剂及其使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄青枯病的主要传播途径是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出5种抗(耐)青枯病的番茄品种。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄青枯病的病原体是什么？请描述其形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述番茄青枯病的典型症状，包括植株和叶片的变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治番茄青枯病的4种方法，并简要描述每种方法的实施步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄黄化曲叶病毒病的主要传播方式是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出5种可引致番茄黄化曲叶病毒病的病毒名称。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "番茄黄化曲叶病毒病的典型症状是什么？请描述发病初期的叶片变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过轮作来控制番茄黄化曲叶病毒病？请提供两种有效的轮作方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请推荐两种化学药剂来防治番茄烟粉虱，并说明使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

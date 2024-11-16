@@ -1,0 +1,442 @@
+[
+    {
+        "instruction": "请描述草莓'V'形褐斑病的典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过农业防治方法预防草莓绿瓣病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治草莓蛇眼病的两种药剂防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓病毒病的主要症状有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释草莓线虫病的危害与诊断。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓细菌性叶斑病的防治方法包括哪些农业防治和药剂防治？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "比较草莓'V'形褐斑病和蛇眼病的区别。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓黏菌病的主要危害是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述草莓黏菌病的典型症状，包括病部表面的变化和孢子囊的特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出防治草莓黏菌病的四种方法，包括栽植选择、灌溉管理、田间管理和药剂防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓栽植时应选择什么样的地块和土壤以减少黏菌病的发生？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么及时清除田间杂草和残体败叶对防治草莓黏菌病至关重要。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "药剂防治中，可以使用哪些药剂来防治草莓黏菌病？请列出三种药剂及其稀释倍数。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在采收前多少天应停止使用药剂，以确保草莓的安全性？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓红中柱根腐病的典型症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述草莓红中柱根腐病的防治方法，包括农业防治和药剂防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓红中柱根腐病的发病类型有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出草莓红中柱根腐病的药剂防治方法中使用的药剂名称和浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓红中柱根腐病的农业防治措施包括哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释草莓红中柱根腐病的根部症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓红中柱根腐病的防治方法中，定植前需要进行什么处理？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓灰霉病的主要危害是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述草莓灰霉病的典型症状，包括叶片、花器和果实的变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过农业防治方法预防草莓灰霉病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出几种可以用于防治草莓灰霉病的药剂，包括其使用方法和剂量。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "比较草莓烟熏和喷雾两种药剂防治方法的优缺点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓灰霉病的防治重点是什么？为什么发病严重后防治效果较差？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请总结草莓灰霉病的防治策略，包括农业防治、药剂防治和轮作等方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓芽枯病的主要危害是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述草莓芽枯病的典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过农业防治方法预防草莓芽枯病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出三种可以用于防治草莓芽枯病的药剂。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓芽枯病的药剂防治方法中，应如何使用百菌清烟剂熏蒸？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么草莓应与禾本科作物实行4年以上的轮作。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果草莓植株已经感染了芽枯病，应该采取什么措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓白粉病的主要危害是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述草莓白粉病的典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过农业防治方法预防草莓白粉病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出几种可以用于草莓白粉病药剂防治的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓白粉病的防治重点是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么草莓白粉病发病严重后防治效果较差。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓白粉病的发病期如何进行熏蒸预防？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓黑霉病的典型症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述草莓黑霉病的发病过程，包括病斑的变化和果实的最终状态。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "黑霉病对草莓果实的商品价值有什么影响？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过农业防治方法预防草莓黑霉病？请列出具体步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出3种药剂防治草莓黑霉病的方法，包括药剂名称和使用浓度。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "采前喷洒0.1%高锰酸钾溶液对预防草莓黑霉病有什么效果？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请总结草莓黑霉病的防治策略，包括农业防治和药剂防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓终极腐霉烂果病的主要侵害部位是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓终极腐霉烂果病的典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出三种农业防治草莓终极腐霉烂果病的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出三种药剂防治草莓终极腐霉烂果病的方法，并包括剂量和使用频率。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "比较草莓终极腐霉烂果病的农业防治和药剂防治方法的优缺点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓终极腐霉烂果病的发病初期应该使用什么药剂进行防治？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简要总结草莓终极腐霉烂果病的防治策略，包括农业防治和药剂防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "炭疽病主要为害草莓的哪些部位？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述草莓炭疽病叶片发病后的典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简要说明草莓炭疽病的防治方法有哪些。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "选择抗病的草莓品种有什么好处？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出三种用于草莓炭疽病药剂防治的药物名称。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓炭疽病的药剂预防应从哪个阶段开始？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么在草莓育苗地应避免重茬。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓的营养价值有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出三种草莓的常见食用方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓与什么水果搭配食用最好？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述一下草莓的生长环境和条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓的保鲜方法有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请比较草莓和蓝莓的营养价值。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓可以用来制作哪些美容产品？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓疫霉果腐病的主要症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果草莓植株出现疫霉果腐病，应该采取什么农业防治措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出3种可以用来防治草莓疫霉果腐病的药剂",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓疫霉果腐病的发病中期，植株会出现什么样的症状？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "比较草莓疫霉果腐病在根部和匍匐茎上的症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓疫霉果腐病的果实发病后会出现什么样的变化？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简要总结草莓疫霉果腐病的防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

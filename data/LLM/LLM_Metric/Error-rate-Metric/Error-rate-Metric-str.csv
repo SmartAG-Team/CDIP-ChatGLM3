@@ -1,0 +1,24 @@
+Model,Error Rate (%)
+ChatGLM3_6B,0.04
+Freeze10,0.24
+Freeze10-MTL(S2.5K+G1.25K),0.36
+Freeze10-MTL(S2.5K+G10K),0.64
+Freeze10-MTL(S2.5K+G2.5K),0.36
+Freeze10-MTL(S2.5K+G20K),1.08
+Freeze10-MTL(S2.5K+G5K),0.2
+Freeze10(S2.5K)-DMT(S2.5K+G2.5K),0.08
+Freeze10(S2.5K)-DMT(S1.25K+G2.5K),0.28
+Freeze10(S2.5K)-DMT(S0.1K+G2.5K),0.08
+Freeze10(S2.5K)-DMT(S0.5K+G2.5K),0.12
+Freeze10(S2.5K)-DMT(S2.5K+G5K),0.56
+Freeze15,0.64
+Freeze20,0.32
+Freeze3,0.76
+Freeze30,0.64
+Freeze5,0.32
+Lora10,1.16
+Lora15,0.4
+Lora20,0.64
+Lora3,3.12
+Lora30,0.6
+Lora5,3

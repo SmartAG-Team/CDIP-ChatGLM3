@@ -1,0 +1,352 @@
+[
+    {
+        "instruction": "请描述马铃薯坏疽病的主要症状表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯坏疽病的病原菌是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出马铃薯坏疽病在叶片和块茎上不同的症状特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯坏疽病的分生孢子器有什么特征？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释马铃薯坏疽病的发病过程。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯癌肿病的主要症状和危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯癌肿病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出马铃薯癌肿病的不同阶段及其特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯癌肿病的休眠孢子囊有什么特点？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释马铃薯癌肿病的传播方式和范围",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯炭疽病的主要症状表现",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯炭疽病主要影响马铃薯的哪些部位？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯炭疽病的分生孢子有什么特征？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举马铃薯炭疽病对马铃薯造成的危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯晚疫病的症状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯晚疫病主要通过哪些途径传播？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出马铃薯晚疫病在叶片、茎秆和块茎上的症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯晚疫病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释马铃薯晚疫病在储藏期间可能发生的变化",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯早疫病的症状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯早疫病与晚疫病的主要区别是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出马铃薯早疫病的病原体特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯早疫病在叶片和块茎上表现出什么样的症状？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请比较马铃薯早疫病和晚疫病的发病时期和症状区别",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯粉痂病的主要症状表现",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯粉痂病与疮痂病的主要区别是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出马铃薯粉痂病可能与哪些其他病症混淆",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯粉痂病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯粉痂病的休眠孢子囊球和游动孢子的特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯干腐病的症状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯干腐病主要在田间还是储藏期危害？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出马铃薯干腐病的病原体有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯干腐病的病原体腐皮镰孢菌在培养基上能产生什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请问马铃薯干腐病的发病块茎上最初会出现什么样的症状？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯黑痣病的主要症状表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯黑痣病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释马铃薯黑痣病的发病机制，包括温度条件和轮作周期的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯黑痣病的症状与其他病害的症状有何区别？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出马铃薯黑痣病的主要危害部位，包括幼芽、茎基部、块茎等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯黄萎病的典型症状表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯黄萎病主要是由哪些病原体引起的？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请比较黑白轮枝菌和大丽轮枝菌所引起的马铃薯黄萎病的症状差异。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯黄萎病的病原体在土壤中可以存活多久？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么马铃薯黑白轮枝菌比大丽轮枝菌更危险。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯枯萎病的主要症状表现",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯枯萎病病原体的学名是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出马铃薯枯萎病病原菌的主要特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯枯萎病除了影响马铃薯，还会影响哪些其他植物？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释马铃薯枯萎病的发病初期症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯灰霉病的主要症状表现",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯灰霉病主要侵染哪些部位？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释马铃薯灰霉病的病原体是什么",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯灰霉病的分生孢子梗有什么特征？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯灰霉病的病部在储藏期会出现什么样的变化？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯白霉病的主要症状表现",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "白霉病主要影响生长在哪些地区的马铃薯？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出白霉病病原体油菜核盘菌的主要特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯白霉病的病原体是如何在土壤中萌发和传播的？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

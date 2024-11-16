@@ -1,0 +1,45 @@
+
+model_name_or_path: D:\student\lzy\LLAM\LLaMA-Factory\chatglm3_6b
+
+### method
+stage: sft
+do_train: true
+finetuning_type: freeze
+freeze_trainable_layers: 8
+freeze_trainable_modules: all
+use_llama_pro: true
+
+### dataset
+dataset: apple,grape
+template: llama3
+cutoff_len: 1024
+max_samples: 100000
+overwrite_cache: true
+preprocessing_num_workers: 16
+
+### output
+output_dir: saves/llama3-8b-pro/freeze/sft
+logging_steps: 10
+save_steps: 100
+warmup_steps: 0
+plot_loss: true
+overwrite_output_dir: true
+
+### train
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 8
+learning_rate: 5e-5
+num_train_epochs: 3.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true
+ddp_timeout: 180000000
+max_grad_norm : 1.0
+logging_steps: 5
+optim: adamw_torch
+freeze_trainable_layers: 2
+### eval
+val_size: 0.1
+per_device_eval_batch_size: 1
+eval_strategy: steps
+eval_steps: 500
