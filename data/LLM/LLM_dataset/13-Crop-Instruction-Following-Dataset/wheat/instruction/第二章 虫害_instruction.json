@@ -1,0 +1,262 @@
+[
+    {
+        "instruction": "请描述一下小麦害虫蝼蛄的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出小麦害虫条沙叶蝉的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释一下小麦害虫金针虫的危害特点",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述一下小麦害虫草地贪夜蛾的幼虫形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出小麦害虫黏虫的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦蚜虫的分类地位",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦蚜虫主要以什么方式危害小麦作物？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出小麦蚜虫的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦蚜虫的防治适期是什么时候？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦蚜虫的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦华北大黑鳃金龟的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "蛴螬对小麦造成的危害主要是什么",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治小麦金龟子的农业防治技术",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请问小麦暗黑鳃金龟的幼虫有哪些形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦铜绿丽金龟成虫的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "麦蜘蛛对小麦的危害特点是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦麦圆蜘蛛的形态特征，包括成螨、卵、幼螨和若螨的特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "比较小麦麦圆蜘蛛和小麦麦长腿蜘蛛的形态特征有哪些不同之处？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过灌水灭虫来防治小麦麦蜘蛛？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出几种药剂防治小麦麦蜘蛛的方法，包括种子处理、药剂喷雾和毒土等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦吸浆虫的主要特征是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦吸浆虫的形态特征，包括成虫、卵、幼虫和蛹的详细描述。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦吸浆虫的防治适期是什么时候？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出小麦吸浆虫的防治措施，包括合理轮作、抗虫品种、物理防治和药剂防治等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦吸浆虫的蛹期防治方法是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦叶蜂的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦麦叶蜂主要发生在哪些地区",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦麦叶蜂的防治适期是什么时候",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出三种小麦麦叶蜂的名称",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释小麦麦叶蜂的危害特点",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦灰翅麦茎蜂的危害特点是什么",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出小麦灰翅麦茎蜂的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "小麦灰翅麦茎蜂的防治适期是什么时候",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出小麦灰翅麦茎蜂的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦秆蝇的分类地位",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "麦秆蝇对小麦造成的主要危害是什么?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出小麦麦秆蝇的形态特征，包括成虫、卵、幼虫和蛹的描述",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何确定小麦麦秆蝇的防治适期？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出小麦麦秆蝇的防治措施，包括农业防治和化学防治",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述小麦白眉野草螟的形态特征，包括成虫、卵、幼虫和蛹的外观特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "白眉野草螟主要危害小麦的哪个生长阶段？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出小麦白眉野草螟的防治措施，包括农业措施、物理防治、毒土法和灌药法等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "白眉野草螟的幼虫在小麦返青期开始危害，主要取食小麦的哪个部位？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

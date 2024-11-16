@@ -1,0 +1,13 @@
+### Note: DO NOT use quantized model or quantization_bit when merging lora adapters
+
+### model
+model_name_or_path: chatglm3_6b
+adapter_name_or_path: saves/lora/lora30/sft
+template: llama3
+finetuning_type: lora
+
+### export
+export_dir: models/lora30
+export_size: 2
+export_device: cuda
+export_legacy_format: false

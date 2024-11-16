@@ -1,0 +1,322 @@
+[
+    {
+        "instruction": "请列出草莓上常见的害虫种类",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述草莓上金龟子的危害特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治草莓上金龟子的方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述草莓上大造桥虫的危害特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治草莓上大造桥虫的方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述草莓上蛞蝓的危害特征和防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出草莓上其他常见害虫的名称和防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓根蚜主要群集在草莓的哪个部位？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓根蚜对草莓植株的危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出5～6月份防治草莓根蚜的方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么要在草莓采收前10天停止用药",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "比较不同药剂对草莓根蚜的防治效果",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓根蚜的危害特征包括哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在温室大棚中如何防治草莓根蚜？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述草莓白粉虱的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓白粉虱和烟粉虱有什么区别？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出草莓白粉虱的防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓白粉虱的成虫和若虫会对草莓造成什么危害？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释草莓白粉虱的传染病毒能力",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "什么时候需要人工释放丽蚜小蜂成虫来控制草莓白粉虱？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出几种可以用来防治草莓白粉虱的药剂及其稀释倍数",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃蚜对草莓造成的危害有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出草莓桃蚜的主要天敌有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓黄板诱捕桃蚜成虫的方法是怎样的？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "哪些药物可以用来防治草莓桃蚜？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓田中发现桃蚜时，应该采取什么措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述草莓桃蚜的防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在草莓采收前多久应该停止使用药物防治桃蚜？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓蓝跳甲的成虫和幼虫主要食害草莓的哪些部位？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述草莓蓝跳甲对草莓生长的影响",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出草莓蓝跳甲的天敌",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "怎样清理田园以预防草莓蓝跳甲的危害？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "推荐一种药物和其稀释倍数来防治草莓蓝跳甲",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "比较草莓蓝跳甲的成虫和幼虫的食害特点",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓蓝跳甲的发生危害期大约有多长？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出三种常见的草莓蝽类昆虫。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "蝽类昆虫的臭腺孔有什么作用？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "茶翅蝽会对草莓造成什么样的危害？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在草莓种植中，如何通过田间管理来防治蝽类昆虫？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "什么时候是喷洒80%敌百虫可溶性粉剂的最佳时期？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "比较2.5%敌杀死乳油和20%灭扫利乳油的防治效果。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓种植中，为什么要清除枯枝落叶和杂草？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述蓟马对草莓的危害特点",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓蓟马喜欢什么样的天气？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出蓟马对草莓造成的主要损害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过肥水管理来防治草莓蓟马？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述使用蓝板诱杀草莓蓟马成虫的方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出两种可以用来防治草莓蓟马的药剂及其使用方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草莓受蓟马侵害后，花瓣和萼片会出现什么样的变化？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "螨类对草莓的危害主要体现在哪些方面？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述草莓二斑叶螨和朱砂叶螨的外观特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过清理田园来防治草莓螨类？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在草莓种植中，什么时候应该使用选择性杀螨剂？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出几种适用于草莓螨类防治的杀螨剂。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "阿维菌素乳油在草莓螨类防治中的优缺点是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "在草莓采果前应该注意哪些事项来确保防治螨类的效果？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

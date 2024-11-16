@@ -1,0 +1,477 @@
+[
+    {
+        "instruction": "请描述辣椒叶片出现黄绿色褪绿斑块的主要原因",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果辣椒受到矮壮素过量使用的伤害，应该如何进行防治？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出两种可以促进辣椒恢复生长的药剂",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "辣椒果实萎缩的主要原因是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治辣椒僵果的三种方法，特别注意温室栽培中的温度和光照条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果辣椒坐果后需要促进植株生长和增加光和产物积累，应该使用什么样的混合液喷施叶面？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒叶片被冷风吹引起的病症特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出预防辣椒叶片被冷风吹的方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么选用耐低温品种可以预防辣椒叶片被冷风吹",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "什么是辣椒露果的典型症状？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出导致辣椒露果的三个可能原因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过温度管理来预防辣椒露果？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出辣椒落花的可能原因",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过肥水管理来防治辣椒落花？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请根据上下文总结出防治辣椒落花的主要措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述辣椒幼苗期和成株期可能出现的共同症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果辣椒植株出现叶片萎蔫和黄化，可能的原因是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出两种方法来防止辣椒根系因过湿而受损",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述辣椒发病时的症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "土壤中钙含量不足会导致辣椒什么样的问题？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出五种防治辣椒脐腐病的方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述辣椒镁缺乏病的典型症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "缺乏镁元素、根系吸收能力差和地温过低哪一个因素对辣椒镁缺乏病的影响最大",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出3种预防和治疗辣椒镁缺乏病的方法，包括定植时的施肥建议和后期的喷施治疗",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "缺铁会导致辣椒出现什么症状？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出导致辣椒缺铁的原因",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过改变土壤肥料来预防辣椒缺铁？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "缺锌会对辣椒造成什么影响？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出导致辣椒缺锌的原因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过施肥来预防辣椒缺锌？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述辣椒发病时的症状表现",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出三种可能引发辣椒病的环境因素",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "辣椒的防治方法中，采用遮阳网覆盖有什么作用？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "当辣椒植株出现节间变短和叶片纵卷畸形时，应该采取什么措施来防治多效唑药害？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出两种方法来减轻多效唑对辣椒植株的药害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果辣椒植株受到多效唑药害，使用1.4%复硝酚钠水剂需要稀释多少倍才能喷洒到叶面？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "辣椒发病的主要原因是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出三种辣椒发病的防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述辣椒叶片发病的典型症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "土壤盐渍化过重时，如何改善土质以减少对辣椒的影响",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治辣椒化肥过多导致的土壤酸化的方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒叶片上形成褐色至黑褐色小点状坏死斑的病因",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "辣椒出现黄褐色至黑色、不规则形或圆形凹陷病斑的果实受害可能是什么原因造成的？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防止辣椒药害的两种方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述一下辣椒果实异常着色的典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果辣椒棚内气温过低，应该采取什么措施来改善光照条件？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出3种可能导致辣椒果实着色不良的原因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述一下辣椒植株缺磷的典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果辣椒出现紫斑病症状，应该采取什么样的补救措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出3种可能导致辣椒植株缺磷的原因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述一下辣椒叶片出现不规则的黄色或褐色坏死斑的症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果辣椒出现烧根现象，应该采取什么样的防治方法？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出化肥使用过多对辣椒可能造成的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "当辣椒温室温度高于30℃时，应该采取什么措施来防止叶片受害？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出三种方法来降低辣椒棚室内的温度，防止高温对叶片造成损害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果辣椒叶片已经出现高温受害的症状，应该如何处理以减轻损害？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述辣椒果实上的病斑形状和颜色。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出导致辣椒病变的三个可能原因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请问如何通过温度控制来预防辣椒病变？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述辣椒‘虎皮病’的症状表现",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "辣椒‘虎皮病’的病因包括哪些方面？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出防治辣椒‘虎皮病’的两种方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒畸形的典型症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出引起辣椒畸形的三个可能原因",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过施肥来预防辣椒畸形？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒激素中毒的典型症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为什么辣椒生产中会发生激素中毒？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出预防和治疗辣椒激素中毒的两种方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述辣椒急性失水的典型症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出可能导致辣椒急性失水的两个常见原因",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "当辣椒出现急性失水时，应该采取哪些措施来防治？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

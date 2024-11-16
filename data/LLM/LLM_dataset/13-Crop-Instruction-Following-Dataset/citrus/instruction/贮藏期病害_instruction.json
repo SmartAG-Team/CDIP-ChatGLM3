@@ -1,0 +1,242 @@
+[
+    {
+        "instruction": "柑橘绿霉病的主要症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述一下柑橘绿霉病菌Penicillium digitatum的形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘绿霉病的发生规律是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘绿霉病的防治方法有哪些？请列出至少三种方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "采果前应该采取什么措施来减少柑橘绿霉病的发生？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "贮藏库如何进行消毒以预防柑橘绿霉病的发生？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘绿霉病的最适生长温度是多少？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘青霉病的典型症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述柑橘青霉病菌的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘青霉病的发生规律是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘青霉病的防治方法是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "比较柑橘青霉病和绿霉病的区别",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘青霉病在田间和贮藏期的发病情况有什么不同？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘青霉病的发病温度和湿度条件是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘褐色蒂腐病的主要症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述柑橘褐色蒂腐病的病原体，并说明其与树脂病的关系。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘褐色蒂腐病的发生规律是什么？请详细说明其传播方式和发病条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出柑橘褐色蒂腐病的防治方法，包括栽培管理和其他预防措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘褐色蒂腐病的最适发病温度是多少？在什么温度范围下发病较慢或不易发病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请比较柑橘褐色蒂腐病与黑色蒂腐病的症状和防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘褐色蒂腐病的病果味道如何？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘黑色蒂腐病的典型症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述一下柑橘黑色蒂腐病的病原体特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘黑色蒂腐病的发生规律是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘黑色蒂腐病的最适发生温度是多少？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出柑橘黑色蒂腐病的防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘黑色蒂腐病的病原菌在干燥环境中能存活多久？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘黑色蒂腐病的病果在潮湿情况下会出现什么现象？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘黑腐病的典型症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘黑腐病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘黑腐病的发生规律是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘黑腐病的防治方法有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘黑腐病的症状类型有哪些？请列出所有类型。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘黑腐病的病原菌喜欢在什么温度下生长？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘黑腐病的病菌可以通过什么方式传播？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘褐斑病的症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出柑橘酸腐病的防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘褐斑病的病因是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述柑橘酸腐病的症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘褐斑病的防治方法有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "柑橘酸腐病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释柑橘酸腐病的发生规律。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

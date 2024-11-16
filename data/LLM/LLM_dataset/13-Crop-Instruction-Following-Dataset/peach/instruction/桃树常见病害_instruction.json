@@ -1,0 +1,332 @@
+[
+    {
+        "instruction": "桃树炭疽病的典型症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述桃树炭疽病病原体的特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出桃树炭疽病发病规律的三个关键因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "比较桃树不同品种对炭疽病的抗病性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举两种可以用于防治桃树炭疽病的化学药剂。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树的主要病害是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述桃树溃疡病的症状，包括叶片、枝条和果实的受害情况。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树溃疡病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出桃树溃疡病的发病规律，包括病原体的越冬方式、传播途径和发病条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请提供桃树溃疡病的防治措施，包括水肥管理、通风透光、修剪和药物防治等方面。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树枝干心材腐朽的主要病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述一下桃树受害部位的特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出桃树枝干心材腐朽的防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树枝干心材腐朽的发病规律是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "锯口或虫伤等伤口如何处理以预防桃树枝干心材腐朽？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树缩叶病的主要症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述桃树缩叶病的发病规律，包括病菌的越冬方式和发病条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何区分桃树缩叶病的不同发病阶段？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治桃树缩叶病的措施，包括选种、摘除病叶、追肥灌水和喷施药剂等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果桃树已经出现了缩叶病的症状，应该采取什么样的紧急措施来控制病情？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树主干和主枝上的暗褐色病斑是由什么病原体引起的?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述一下桃树病部在发病初期和后期的变化",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "结合桃树的发病规律，分析一下雨天对病菌传播的影响",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出几种可以用于桃树病原菌防治的杀菌剂",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过冬剪和施肥来预防桃树的病害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树根癌病的主要发病部位是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述桃树根癌病的症状，包括癌瘤的形状、颜色和变化过程。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树根癌农杆菌如何在土壤中存活和传播？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "比较劈接苗木和芽接苗木的发病率，哪种方法更容易受到桃树根癌病的影响？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治桃树根癌病的措施，包括苗木繁育、病株处理和果树定植后的护理。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树的果实、叶片和枝梢会受到什么样的病害影响?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃树病害的发病规律，包括病菌的越冬方式和传播方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出防治桃树病害的措施，包括清园、排水、夏剪和化学防治等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "比较早熟品种、中熟品种和晚熟品种桃树在病害发生上的差异。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "解释为什么多雨和潮湿天气会有利于桃树病害的流行。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树发病初期的典型症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述一下桃树病原匍枝根霉的特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出桃树发病规律中有利于病害发展的环境条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "怎样通过储藏和运输条件来预防桃树病害的传播？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治桃树病害的措施，包括采收、储藏、运输和肥料使用等方面。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树流胶病的主要症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出桃树流胶病的三种类型，并简要描述每种类型的成因。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果桃树感染了桃干腐病菌（Botryosphaeria dothidea），会出现什么样的流胶症状？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请根据发病规律，列出桃树流胶病发生的有利条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "为了防治桃树流胶病，应该采取哪些措施？请列出至少三项措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树白粉病的主要症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述一下桃树白粉病的病原体特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树白粉病的发病规律是怎样的？请简要描述一下病菌的越冬方式和传播过程。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出桃树白粉病的防治措施，包括清除落叶、摘除病果和喷洒药剂等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果桃树已经感染了白粉病，应该采取什么样的紧急措施来控制病情？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树上的美澳型核果链核盘菌会造成什么样的症状？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述桃树病原美澳型核果链核盘菌的特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树的发病规律是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出桃树病害的防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "桃树病害的发病与哪些环境因素有关？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

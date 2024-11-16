@@ -1,0 +1,139 @@
+Model,Subject,Accuracy
+chatglm3_6b,STEM,41.4
+chatglm3_6b,Humanities,52.55
+chatglm3_6b,Social Science,53.45
+chatglm3_6b,Other,53.04
+chatglm3_6b,China specific,50.94
+chatglm3_6b,Overall,50.12
+freeze10,STEM,40.5
+freeze10,Humanities,52.67
+freeze10,Social Science,52.6
+freeze10,Other,52.53
+freeze10,China specific,50.36
+freeze10,Overall,49.53
+freeze10_1.25K_alpaca,STEM,40.51
+freeze10_1.25K_alpaca,Humanities,52.17
+freeze10_1.25K_alpaca,Social Science,52.4
+freeze10_1.25K_alpaca,Other,52.12
+freeze10_1.25K_alpaca,China specific,50.31
+freeze10_1.25K_alpaca,Overall,49.28
+freeze10_10K_alpaca,STEM,40.89
+freeze10_10K_alpaca,Humanities,49.98
+freeze10_10K_alpaca,Social Science,50.7
+freeze10_10K_alpaca,Other,51.37
+freeze10_10K_alpaca,China specific,49.26
+freeze10_10K_alpaca,Overall,48.22
+freeze10_2.5K_alpaca,STEM,41.2
+freeze10_2.5K_alpaca,Humanities,53.78
+freeze10_2.5K_alpaca,Social Science,54.55
+freeze10_2.5K_alpaca,Other,53.29
+freeze10_2.5K_alpaca,China specific,51.32
+freeze10_2.5K_alpaca,Overall,50.73
+freeze10_20K_alpaca,STEM,41.09
+freeze10_20K_alpaca,Humanities,52.09
+freeze10_20K_alpaca,Social Science,51.91
+freeze10_20K_alpaca,Other,52.19
+freeze10_20K_alpaca,China specific,50.43
+freeze10_20K_alpaca,Overall,49.26
+freeze10_5K_alpaca,STEM,41.34
+freeze10_5K_alpaca,Humanities,50.93
+freeze10_5K_alpaca,Social Science,52.86
+freeze10_5K_alpaca,Other,51.19
+freeze10_5K_alpaca,China specific,50.24
+freeze10_5K_alpaca,Overall,49.19
+freeze10_DMT(1-1),STEM,41.87
+freeze10_DMT(1-1),Humanities,55.68
+freeze10_DMT(1-1),Social Science,55.47
+freeze10_DMT(1-1),Other,53.88
+freeze10_DMT(1-1),China specific,53.62
+freeze10_DMT(1-1),Overall,51.7
+freeze10_DMT(1-1`2),STEM,41.08
+freeze10_DMT(1-1`2),Humanities,54.51
+freeze10_DMT(1-1`2),Social Science,53.59
+freeze10_DMT(1-1`2),Other,53.58
+freeze10_DMT(1-1`2),China specific,50.92
+freeze10_DMT(1-1`2),Overall,50.59
+freeze10_DMT(1-1`25),STEM,41.82
+freeze10_DMT(1-1`25),Humanities,53.41
+freeze10_DMT(1-1`25),Social Science,53.73
+freeze10_DMT(1-1`25),Other,53.36
+freeze10_DMT(1-1`25),China specific,51.12
+freeze10_DMT(1-1`25),Overall,50.56
+freeze10_DMT(1-1`5),STEM,40.09
+freeze10_DMT(1-1`5),Humanities,52.78
+freeze10_DMT(1-1`5),Social Science,52.79
+freeze10_DMT(1-1`5),Other,53.14
+freeze10_DMT(1-1`5),China specific,50.88
+freeze10_DMT(1-1`5),Overall,49.64
+freeze10_DMT(2-1),STEM,39.87
+freeze10_DMT(2-1),Humanities,51.78
+freeze10_DMT(2-1),Social Science,53.54
+freeze10_DMT(2-1),Other,51.6
+freeze10_DMT(2-1),China specific,50.82
+freeze10_DMT(2-1),Overall,49.3
+freeze15,STEM,40.92
+freeze15,Humanities,52.84
+freeze15,Social Science,53.2
+freeze15,Other,51.77
+freeze15,China specific,51.0
+freeze15,Overall,49.7
+freeze20,STEM,40.95
+freeze20,Humanities,52.75
+freeze20,Social Science,51.69
+freeze20,Other,52.28
+freeze20,China specific,50.62
+freeze20,Overall,49.3
+freeze3,STEM,40.57
+freeze3,Humanities,51.98
+freeze3,Social Science,52.59
+freeze3,Other,53.23
+freeze3,China specific,50.67
+freeze3,Overall,49.56
+freeze30,STEM,41.24
+freeze30,Humanities,52.79
+freeze30,Social Science,52.62
+freeze30,Other,52.91
+freeze30,China specific,51.51
+freeze30,Overall,49.83
+freeze5,STEM,40.27
+freeze5,Humanities,52.23
+freeze5,Social Science,52.74
+freeze5,Other,52.42
+freeze5,China specific,51.2
+freeze5,Overall,49.41
+lora10,STEM,40.67
+lora10,Humanities,52.46
+lora10,Social Science,52.08
+lora10,Other,52.48
+lora10,China specific,51.14
+lora10,Overall,49.35
+lora15,STEM,40.14
+lora15,Humanities,52.22
+lora15,Social Science,52.77
+lora15,Other,52.49
+lora15,China specific,50.97
+lora15,Overall,49.4
+lora20,STEM,40.94
+lora20,Humanities,53.91
+lora20,Social Science,53.25
+lora20,Other,52.87
+lora20,China specific,51.17
+lora20,Overall,50.17
+lora3,STEM,40.73
+lora3,Humanities,51.63
+lora3,Social Science,52.67
+lora3,Other,52.97
+lora3,China specific,50.77
+lora3,Overall,49.5
+lora30,STEM,40.6
+lora30,Humanities,53.17
+lora30,Social Science,53.48
+lora30,Other,51.93
+lora30,China specific,50.99
+lora30,Overall,49.81
+lora5,STEM,41.64
+lora5,Humanities,51.9
+lora5,Social Science,52.55
+lora5,Other,51.15
+lora5,China specific,49.51
+lora5,Overall,49.34

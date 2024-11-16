@@ -1,0 +1,572 @@
+[
+    {
+        "instruction": "水稻条纹叶枯病的主要传播途径是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻条纹叶枯病的主要症状，包括发病初期和后期的表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻条纹叶枯病的病原体是什么？请提供详细信息。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻条纹叶枯病的发生规律，包括与气温、降雨和虫口数量的关系。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻条纹叶枯病的综合防治措施包括哪些方面？请分别描述农业防治和化学防治的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻细菌性褐斑病的主要发生地区是哪里？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述水稻细菌性褐斑病的症状，包括叶片和叶鞘的变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻细菌性褐斑病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻抽穗扬花前后，什么样的天气条件容易导致病害的发生和蔓延？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻细菌性褐斑病的防治措施包括哪些方面？请列出其中的三项。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻纹枯病主要通过什么途径传播？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻纹枯病的主要症状，包括叶鞘和叶片的变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简要描述水稻纹枯病的病原体，并说明其分类。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻纹枯病的发生与哪些气象条件有关？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出几种可以用于水稻纹枯病化学防治的药剂名称和使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻烂秧的症状有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻烂秧的传播途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻烂秧的发生规律是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻烂秧的综合防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻烂秧的农业防治措施包括哪些方面？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻黑条矮缩病的主要传播途径是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻黑条矮缩病的症状特征，包括根系、叶片和抽穗期的变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻黑条矮缩病的病原体是什么？请说明其分类和名称。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻黑条矮缩病的综合防治措施，包括农业防治和化学防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果要防止水稻黑条矮缩病的发生，应该如何规划种植和管理水稻田？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻白叶枯病的主要初侵染源是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻白叶枯病的典型症状，包括发病的位置和病斑的特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻白叶枯病的发生与哪些气象条件有关？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻白叶枯病的农业防治措施，包括种子处理、旱育苗技术和农田基本建设等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果水稻白叶枯病已经发生，请描述化学防治的适期和常用的药剂。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻发病后，病粒内部织会被破坏，请问是哪种病菌导致了这种情况？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻稻曲病的主要传播途径，特别是厚垣孢子的作用。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻抽穗晚、枝梗粒数多、抽穗慢、抽穗期长的品种容易发病，请问还有哪些因素会导致水稻稻曲病的发生？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻稻曲病的症状，包括病菌侵入谷粒后内部的变化和孢子座的形成。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻稻曲病的综合防治措施，包括种子处理、农业防治和化学防治等方面。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻细菌性条斑病的主要传播途径是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻细菌性条斑病的主要症状特征，包括叶片上的变化和病斑的特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻细菌性条斑病的病原体是什么？请提供其学名和分类信息。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻细菌性条斑病的发生规律，包括温度、湿度和肥料施用对病害发展的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻细菌性条斑病的综合防治措施包括哪些方面？请分别列出检疫、农业防治和化学防治的具体方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻开花期最容易感染黑粉病，请列出该阶段的天气条件有利于发病的特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请问水稻黑粉病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻黑粉病的传播途径有哪些？请列出。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻黑粉病的综合防治措施包括哪些方面？请分别列出。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻黑粉病的典型症状特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻叶尖枯病的主要症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻叶尖枯病的传播途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻叶尖枯病的发生规律中，哪些因素有利于病害发生？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻叶尖枯病的综合防治措施，包括种子处理、农业防治和化学防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻叶尖枯病的病原体是什么？请描述其特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻叶鞘腐败病的主要传播途径是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻叶鞘腐败病的主要症状，包括幼苗和孕穗期的症状表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻叶鞘腐败病的病原体是什么？请提供详细的名称和分类信息。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "结合水稻叶鞘腐败病的发生规律，哪些气象条件和农业管理措施会促进病情的发展？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请提供水稻叶鞘腐败病的综合防治措施，包括种子处理、农业防治和化学防治等方面的具体方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻赤枯病的主要病因是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻赤枯病的典型症状，包括叶片和根系的变化。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻赤枯病的防治措施包括哪些方面？请列出具体的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果水稻田出现了赤枯病的症状，应该如何进行施肥来改善土壤环境？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请总结水稻赤枯病的发病条件，包括气温、土壤和水分方面的因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻霜霉病的典型症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻霜霉病的传播途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻霜霉病的发生规律是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻霜霉病的综合防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻霜霉病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻叶黑粉病的主要症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻叶黑粉病的传播途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻叶黑粉病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "土壤贫瘠尤其是缺什么元素的田块，水稻叶黑粉病发病更为严重？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻叶黑粉病的综合防治措施，包括农业防治和化学防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻窄条斑病的典型症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻窄条斑病病原体的特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻窄条斑病的传播途径有哪些？请列出所有可能的途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释水稻窄条斑病的发生规律，包括有利于发病的天气条件和土壤因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻窄条斑病的综合防治措施包括哪些农业防治和化学防治方法？请详细描述每种方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻紫鞘病的典型症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻紫鞘病的主要传播途径",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻紫鞘病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻紫鞘病的发生规律，包括时间、气候条件和肥料使用的影响",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻紫鞘病的综合防治措施，包括种子处理、农业防治和化学防治",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻菌核秆腐病的主要病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻菌核秆腐病的症状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻菌核秆腐病的传播途径有哪些？请列出所有可能的途径",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么单季晚稻比早稻更容易受到水稻菌核秆腐病的影响",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出水稻菌核秆腐病的综合防治措施，包括农业防治和化学防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻恶苗病的主要初侵染源是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻恶苗病的三种类型的症状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻恶苗病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻恶苗病的发生规律中，哪些因素会促进病害的发生？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻恶苗病的综合防治措施，包括种子处理、农业防治和化学防治",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻稻瘟病的典型症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "根据水稻稻瘟病的病原，描述其传播途径。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻稻瘟病的发生规律是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻种植中如何进行农业防治以预防稻瘟病？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出水稻稻瘟病的化学防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

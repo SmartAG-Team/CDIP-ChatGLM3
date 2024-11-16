@@ -1,0 +1,332 @@
+[
+    {
+        "instruction": "葡萄霜霉病的主要症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简要描述葡萄霜霉病的防控措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出五种常用的保护性杀菌剂，用于防控葡萄霜霉病。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄霜霉病的发生与哪些气候条件有关？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述霜霉病对葡萄叶片的影响。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄黑腐病的主要病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述葡萄黑腐病在果实上的典型症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "黑腐病的发生与哪些气候条件有关？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防控葡萄黑腐病的常用有效药剂。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果果园中发现葡萄黑腐病，应采取哪些措施进行防控？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "白腐病主要危害果穗，请问白腐病对葡萄的哪些部位造成了影响？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "白腐病的潜育期最短为几天？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄白腐病主要通过伤口侵入，请列出可能导致葡萄白腐病发生的因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "哪些措施可以用来防止白腐病的发生？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简述用于防治葡萄白腐病的药剂名称。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述葡萄花叶病的典型症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄花叶病主要通过什么途径传播？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防控葡萄花叶病的两种有效措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "使用带毒苗木、接穗、插条会导致什么后果？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么培育和利用无病毒苗木是防控葡萄花叶病的最根本措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄黄叶病的主要病因是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防控葡萄黄叶病的三种方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄黄叶病的症状是什么？请描述从初期到严重时的变化过程。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果葡萄树已经出现黄叶病的症状，应该如何处理？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么有机肥和农家肥对防控葡萄黄叶病有帮助。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄穗轴褐枯病的主要症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄穗轴褐枯病的病原体是什么？请提供详细的描述。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出葡萄穗轴褐枯病的防控技术，包括化学防治和农业防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "品种间抗性差异是否会影响葡萄穗轴褐枯病的发生？请解释。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述葡萄穗轴褐枯病的发生特点，包括发病时间、条件和传播方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄炭疽病主要危害果粒，请问还有哪些部位也会受到影响？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简要描述一下葡萄炭疽病在近成熟果实上的典型症状表现。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄炭疽病的病原体是什么？请提供详细的名称和描述。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列举出葡萄炭疽病发生和危害的主要因素，包括环境条件和果园管理方面。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请提供葡萄炭疽病防控的主要方法，包括化学防控和农业防控措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "房枯病主要危害葡萄的哪些部位？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述葡萄房枯病的病原体及其发生特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出葡萄房枯病的防控技术，包括果园管理和药剂防控。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄房枯病的病菌是如何传播的？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请问葡萄房枯病的发生与哪些环境因素有关？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述灰霉病对葡萄花穗和果穗的主要症状特点",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄灰霉病主要通过什么方式传播？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防控葡萄灰霉病的四项主要技术措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么低温潮湿会有利于葡萄灰霉病的发生",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出针对葡萄灰霉病常用有效药剂名称和使用浓度",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述葡萄白粉病的主要症状特点",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "白粉病主要危害葡萄的哪些部位？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防控葡萄白粉病的栽培管理措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出常用的防控葡萄白粉病的药剂名称",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么通风透光不良会利于葡萄白粉病的发生",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "葡萄黑痘病的典型症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出葡萄黑痘病的所有可能受害部位。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简要描述葡萄黑痘病的病原体及其传播方式。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "比较一下不同地区葡萄黑痘病的发病时期和特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出防控葡萄黑痘病的常用药剂名称和使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

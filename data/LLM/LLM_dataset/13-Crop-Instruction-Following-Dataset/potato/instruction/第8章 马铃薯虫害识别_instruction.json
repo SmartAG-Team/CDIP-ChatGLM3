@@ -1,0 +1,242 @@
+[
+    {
+        "instruction": "请描述马铃薯桃蚜的形态特征，包括体长、体宽、颜色和触角等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯田间最常见的蚜虫种类是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述桃蚜对马铃薯的危害，包括直接危害和间接危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释为什么桃蚜对马铃薯种薯繁育造成了更大的危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯豆芫菁的形态特征，包括成虫、卵、幼虫和蛹的外观特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请问豆芫菁成虫在马铃薯田间暴发时，每平方米大约有多少头？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何防治马铃薯虫害豆芫菁？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯瓢虫的典型特点",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯二十八星瓢虫主要分布在哪些地区？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯瓢虫的卵的形状和颜色",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯二十八星瓢虫的危害主要体现在哪些方面？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯块茎蛾的形态特征，包括成虫、卵、幼虫和蛹的外观和大小。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯块茎蛾的危害主要体现在哪些方面？请列举出其对马铃薯和烟草的危害。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请问马铃薯块茎蛾的成虫有哪些明显的识别特征？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯块茎蛾的幼虫如何危害马铃薯？请描述其行为和造成的后果。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯块茎蛾的蛹的外观特征，包括其大小、颜色和形状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯地下害虫的主要类群有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出蛴螬对马铃薯造成的危害有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请问蝼蛄对马铃薯的危害主要体现在哪些方面？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述金针虫对马铃薯造成的危害有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请问地老虎对马铃薯的危害主要体现在哪些方面？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯甲虫的形态特征，包括体长、体宽、鞘翅颜色等",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯甲虫的卵块通常有多少粒卵？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释马铃薯甲虫的危害状态，包括对马铃薯产量的影响和传播的疾病",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "将马铃薯甲虫的生命周期阶段按顺序排列，包括卵、幼虫、蛹和成虫",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果马铃薯甲虫的幼虫数量为20头/株，会导致马铃薯产量损失多少？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯叶蝉的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯条沙叶蝉和大青叶蝉的主要区别是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出马铃薯叶蝉可能造成的危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大青叶蝉的卵和若虫分别是什么颜色？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释马铃薯叶蝉如何传播病毒病",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述马铃薯草地螟的形态特征，包括成虫、卵、幼虫和蛹的外观特点",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释草地螟的卵产选择性是如何受到气温的影响",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "草地螟的幼虫共有几龄？各龄幼虫的外观特点有何不同",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述草地螟危害马铃薯时的主要症状和特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述潜叶蝇的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "马铃薯潜叶蝇的危害主要体现在哪些方面？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请问潜叶蝇的成虫头部是什么颜色？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述潜叶蝇幼虫的外观特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]
