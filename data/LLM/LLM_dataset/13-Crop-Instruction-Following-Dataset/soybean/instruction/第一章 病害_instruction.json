@@ -1,0 +1,272 @@
+[
+    {
+        "instruction": "请描述大豆菌核病的症状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆菌核病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出大豆菌核病的防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释大豆菌核病的发病条件",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述大豆菌核病的侵染循环",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述大豆根腐病的主要症状表现",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆根腐病的病原体有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出大豆根腐病发病的有利条件",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述大豆根腐病的防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆根腐病的病原菌可以通过什么方式在土壤中传播？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述大豆褐斑病的典型病状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆褐斑病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出大豆褐斑病的防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆褐斑病的子囊孢子有什么特征？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请比较大豆褐斑病与灰星病的区别",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述大豆褐纹病的症状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆褐纹病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出大豆褐纹病的防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆褐纹病的发病条件有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释大豆褐纹病的侵染循环过程",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述大豆霜霉病的症状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆霜霉病主要通过什么方式传播？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆霜霉病的发病条件有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举几种防治大豆霜霉病的方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "选用抗病品种和药剂防治在大豆霜霉病防治中占据怎样的地位？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆轮纹病主要影响哪些地区？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述大豆轮纹病的症状特征，包括病斑形状、颜色和位置。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆轮纹病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出大豆轮纹病的防治方法，包括农业措施和化学防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆轮纹病的发病条件有哪些？包括气候、土壤和作物因素。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述大豆茎枯病的主要症状表现",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆茎枯病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举大豆茎枯病的防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆茎枯病的分生孢子器有什么特征？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释大豆茎枯病的侵染循环过程",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述大豆灰星病的主要症状表现",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆灰星病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出大豆灰星病的防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆灰星病的发病条件是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释大豆灰星病的侵染循环过程",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述大豆灰斑病的症状特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆灰斑病的病原体是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出大豆灰斑病的发病条件",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过农业防治措施减少大豆灰斑病的发生？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出几种可以用于大豆灰斑病化学防治的药剂",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

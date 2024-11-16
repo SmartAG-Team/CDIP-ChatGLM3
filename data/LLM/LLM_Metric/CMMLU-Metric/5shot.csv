@@ -1,0 +1,415 @@
+Model,Subject,Accuracy,Shot,Test
+ChatGLM3_6B,STEM,41.11,5,Test1
+ChatGLM3_6B,Humanities,52.67,5,Test1
+ChatGLM3_6B,Social Science,54.33,5,Test1
+ChatGLM3_6B,Other,53.55,5,Test1
+ChatGLM3_6B,China specific,51.63,5,Test1
+ChatGLM3_6B,Overall,50.48,5,Test1
+Freeze10(S2.5K)-DMT(S0.1K+G2.5K),STEM,40.86,5,Test1
+Freeze10(S2.5K)-DMT(S0.1K+G2.5K),Humanities,53.21,5,Test1
+Freeze10(S2.5K)-DMT(S0.1K+G2.5K),Social Science,53.63,5,Test1
+Freeze10(S2.5K)-DMT(S0.1K+G2.5K),Other,53.74,5,Test1
+Freeze10(S2.5K)-DMT(S0.1K+G2.5K),China specific,50.87,5,Test1
+Freeze10(S2.5K)-DMT(S0.1K+G2.5K),Overall,50.33,5,Test1
+Freeze10(S2.5K)-DMT(S0.5K+G2.5K),STEM,40.52,5,Test1
+Freeze10(S2.5K)-DMT(S0.5K+G2.5K),Humanities,53.11,5,Test1
+Freeze10(S2.5K)-DMT(S0.5K+G2.5K),Social Science,53.42,5,Test1
+Freeze10(S2.5K)-DMT(S0.5K+G2.5K),Other,53.45,5,Test1
+Freeze10(S2.5K)-DMT(S0.5K+G2.5K),China specific,51.84,5,Test1
+Freeze10(S2.5K)-DMT(S0.5K+G2.5K),Overall,50.09,5,Test1
+Freeze10(S2.5K)-DMT(S1.25K+G2.5K),STEM,40.22,5,Test1
+Freeze10(S2.5K)-DMT(S1.25K+G2.5K),Humanities,53.87,5,Test1
+Freeze10(S2.5K)-DMT(S1.25K+G2.5K),Social Science,53.76,5,Test1
+Freeze10(S2.5K)-DMT(S1.25K+G2.5K),Other,54.19,5,Test1
+Freeze10(S2.5K)-DMT(S1.25K+G2.5K),China specific,52.4,5,Test1
+Freeze10(S2.5K)-DMT(S1.25K+G2.5K),Overall,50.44,5,Test1
+Freeze10(S2.5K)-DMT(S2.5K+G2.5K),STEM,41.43,5,Test1
+Freeze10(S2.5K)-DMT(S2.5K+G2.5K),Humanities,54.37,5,Test1
+Freeze10(S2.5K)-DMT(S2.5K+G2.5K),Social Science,55.81,5,Test1
+Freeze10(S2.5K)-DMT(S2.5K+G2.5K),Other,54.12,5,Test1
+Freeze10(S2.5K)-DMT(S2.5K+G2.5K),China specific,52.75,5,Test1
+Freeze10(S2.5K)-DMT(S2.5K+G2.5K),Overall,51.5,5,Test1
+Freeze10(S2.5K)-DMT(S2.5K+G5K),STEM,40.34,5,Test1
+Freeze10(S2.5K)-DMT(S2.5K+G5K),Humanities,52.68,5,Test1
+Freeze10(S2.5K)-DMT(S2.5K+G5K),Social Science,53.07,5,Test1
+Freeze10(S2.5K)-DMT(S2.5K+G5K),Other,52.28,5,Test1
+Freeze10(S2.5K)-DMT(S2.5K+G5K),China specific,50.99,5,Test1
+Freeze10(S2.5K)-DMT(S2.5K+G5K),Overall,49.59,5,Test1
+Freeze10-MTL(S2.5K+G1.25K),STEM,40.49,5,Test1
+Freeze10-MTL(S2.5K+G1.25K),Humanities,51.21,5,Test1
+Freeze10-MTL(S2.5K+G1.25K),Social Science,52.62,5,Test1
+Freeze10-MTL(S2.5K+G1.25K),Other,51.91,5,Test1
+Freeze10-MTL(S2.5K+G1.25K),China specific,50.74,5,Test1
+Freeze10-MTL(S2.5K+G1.25K),Overall,49.11,5,Test1
+Freeze10-MTL(S2.5K+G10K),STEM,40.8,5,Test1
+Freeze10-MTL(S2.5K+G10K),Humanities,50.37,5,Test1
+Freeze10-MTL(S2.5K+G10K),Social Science,50.88,5,Test1
+Freeze10-MTL(S2.5K+G10K),Other,51.12,5,Test1
+Freeze10-MTL(S2.5K+G10K),China specific,50.0,5,Test1
+Freeze10-MTL(S2.5K+G10K),Overall,48.28,5,Test1
+Freeze10-MTL(S2.5K+G2.5K),STEM,41.8,5,Test1
+Freeze10-MTL(S2.5K+G2.5K),Humanities,53.54,5,Test1
+Freeze10-MTL(S2.5K+G2.5K),Social Science,54.36,5,Test1
+Freeze10-MTL(S2.5K+G2.5K),Other,53.78,5,Test1
+Freeze10-MTL(S2.5K+G2.5K),China specific,52.35,5,Test1
+Freeze10-MTL(S2.5K+G2.5K),Overall,50.88,5,Test1
+Freeze10-MTL(S2.5K+G20K),STEM,39.71,5,Test1
+Freeze10-MTL(S2.5K+G20K),Humanities,51.58,5,Test1
+Freeze10-MTL(S2.5K+G20K),Social Science,51.88,5,Test1
+Freeze10-MTL(S2.5K+G20K),Other,51.74,5,Test1
+Freeze10-MTL(S2.5K+G20K),China specific,50.15,5,Test1
+Freeze10-MTL(S2.5K+G20K),Overall,48.7,5,Test1
+Freeze10-MTL(S2.5K+G5K),STEM,40.73,5,Test1
+Freeze10-MTL(S2.5K+G5K),Humanities,51.73,5,Test1
+Freeze10-MTL(S2.5K+G5K),Social Science,52.3,5,Test1
+Freeze10-MTL(S2.5K+G5K),Other,51.8,5,Test1
+Freeze10-MTL(S2.5K+G5K),China specific,50.71,5,Test1
+Freeze10-MTL(S2.5K+G5K),Overall,49.14,5,Test1
+Freeze10,STEM,41.05,5,Test1
+Freeze10,Humanities,52.08,5,Test1
+Freeze10,Social Science,52.06,5,Test1
+Freeze10,Other,53.23,5,Test1
+Freeze10,China specific,50.89,5,Test1
+Freeze10,Overall,49.53,5,Test1
+Freeze15,STEM,41.66,5,Test1
+Freeze15,Humanities,52.33,5,Test1
+Freeze15,Social Science,52.11,5,Test1
+Freeze15,Other,52.69,5,Test1
+Freeze15,China specific,50.73,5,Test1
+Freeze15,Overall,49.63,5,Test1
+Freeze20,STEM,40.49,5,Test1
+Freeze20,Humanities,51.67,5,Test1
+Freeze20,Social Science,52.33,5,Test1
+Freeze20,Other,52.93,5,Test1
+Freeze20,China specific,51.34,5,Test1
+Freeze20,Overall,49.33,5,Test1
+Freeze3,STEM,41.04,5,Test1
+Freeze3,Humanities,51.63,5,Test1
+Freeze3,Social Science,52.29,5,Test1
+Freeze3,Other,52.58,5,Test1
+Freeze3,China specific,50.4,5,Test1
+Freeze3,Overall,49.37,5,Test1
+Freeze30,STEM,41.54,5,Test1
+Freeze30,Humanities,53.12,5,Test1
+Freeze30,Social Science,52.6,5,Test1
+Freeze30,Other,52.1,5,Test1
+Freeze30,China specific,50.45,5,Test1
+Freeze30,Overall,49.78,5,Test1
+Freeze5,STEM,40.51,5,Test1
+Freeze5,Humanities,51.74,5,Test1
+Freeze5,Social Science,52.32,5,Test1
+Freeze5,Other,52.18,5,Test1
+Freeze5,China specific,50.23,5,Test1
+Freeze5,Overall,49.18,5,Test1
+Lora10,STEM,39.78,5,Test1
+Lora10,Humanities,52.68,5,Test1
+Lora10,Social Science,53.11,5,Test1
+Lora10,Other,52.23,5,Test1
+Lora10,China specific,51.22,5,Test1
+Lora10,Overall,49.45,5,Test1
+Lora15,STEM,40.07,5,Test1
+Lora15,Humanities,53.76,5,Test1
+Lora15,Social Science,53.35,5,Test1
+Lora15,Other,53.17,5,Test1
+Lora15,China specific,51.64,5,Test1
+Lora15,Overall,50.02,5,Test1
+Lora20,STEM,40.22,5,Test1
+Lora20,Humanities,53.49,5,Test1
+Lora20,Social Science,52.64,5,Test1
+Lora20,Other,53.04,5,Test1
+Lora20,China specific,51.52,5,Test1
+Lora20,Overall,49.74,5,Test1
+Lora3,STEM,40.16,5,Test1
+Lora3,Humanities,51.92,5,Test1
+Lora3,Social Science,52.18,5,Test1
+Lora3,Other,51.59,5,Test1
+Lora3,China specific,50.13,5,Test1
+Lora3,Overall,48.95,5,Test1
+Lora30,STEM,39.92,5,Test1
+Lora30,Humanities,52.24,5,Test1
+Lora30,Social Science,53.26,5,Test1
+Lora30,Other,52.43,5,Test1
+Lora30,China specific,51.22,5,Test1
+Lora30,Overall,49.49,5,Test1
+Lora5,STEM,39.84,5,Test1
+Lora5,Humanities,51.59,5,Test1
+Lora5,Social Science,52.3,5,Test1
+Lora5,Other,51.47,5,Test1
+Lora5,China specific,50.04,5,Test1
+Lora5,Overall,48.82,5,Test1
+ChatGLM3_6B,STEM,41.26,5,Test2
+ChatGLM3_6B,Humanities,54.43,5,Test2
+ChatGLM3_6B,Social Science,53.58,5,Test2
+ChatGLM3_6B,Other,53.18,5,Test2
+ChatGLM3_6B,China specific,51.86,5,Test2
+ChatGLM3_6B,Overall,50.53,5,Test2
+Freeze10(S2.5K)-DMT(S0.1K+G2.5K),STEM,41.29,5,Test2
+Freeze10(S2.5K)-DMT(S0.1K+G2.5K),Humanities,52.69,5,Test2
+Freeze10(S2.5K)-DMT(S0.1K+G2.5K),Social Science,53.33,5,Test2
+Freeze10(S2.5K)-DMT(S0.1K+G2.5K),Other,53.44,5,Test2
+Freeze10(S2.5K)-DMT(S0.1K+G2.5K),China specific,51.5,5,Test2
+Freeze10(S2.5K)-DMT(S0.1K+G2.5K),Overall,50.18,5,Test2
+Freeze10(S2.5K)-DMT(S0.5K+G2.5K),STEM,41.05,5,Test2
+Freeze10(S2.5K)-DMT(S0.5K+G2.5K),Humanities,53.9,5,Test2
+Freeze10(S2.5K)-DMT(S0.5K+G2.5K),Social Science,53.08,5,Test2
+Freeze10(S2.5K)-DMT(S0.5K+G2.5K),Other,53.27,5,Test2
+Freeze10(S2.5K)-DMT(S0.5K+G2.5K),China specific,51.6,5,Test2
+Freeze10(S2.5K)-DMT(S0.5K+G2.5K),Overall,50.23,5,Test2
+Freeze10(S2.5K)-DMT(S1.25K+G2.5K),STEM,40.76,5,Test2
+Freeze10(S2.5K)-DMT(S1.25K+G2.5K),Humanities,53.66,5,Test2
+Freeze10(S2.5K)-DMT(S1.25K+G2.5K),Social Science,54.92,5,Test2
+Freeze10(S2.5K)-DMT(S1.25K+G2.5K),Other,53.41,5,Test2
+Freeze10(S2.5K)-DMT(S1.25K+G2.5K),China specific,52.12,5,Test2
+Freeze10(S2.5K)-DMT(S1.25K+G2.5K),Overall,50.74,5,Test2
+Freeze10(S2.5K)-DMT(S2.5K+G2.5K),STEM,42.79,5,Test2
+Freeze10(S2.5K)-DMT(S2.5K+G2.5K),Humanities,54.91,5,Test2
+Freeze10(S2.5K)-DMT(S2.5K+G2.5K),Social Science,54.63,5,Test2
+Freeze10(S2.5K)-DMT(S2.5K+G2.5K),Other,54.88,5,Test2
+Freeze10(S2.5K)-DMT(S2.5K+G2.5K),China specific,53.2,5,Test2
+Freeze10(S2.5K)-DMT(S2.5K+G2.5K),Overall,51.73,5,Test2
+Freeze10(S2.5K)-DMT(S2.5K+G5K),STEM,40.96,5,Test2
+Freeze10(S2.5K)-DMT(S2.5K+G5K),Humanities,51.48,5,Test2
+Freeze10(S2.5K)-DMT(S2.5K+G5K),Social Science,53.03,5,Test2
+Freeze10(S2.5K)-DMT(S2.5K+G5K),Other,52.34,5,Test2
+Freeze10(S2.5K)-DMT(S2.5K+G5K),China specific,51.17,5,Test2
+Freeze10(S2.5K)-DMT(S2.5K+G5K),Overall,49.51,5,Test2
+Freeze10-MTL(S2.5K+G1.25K),STEM,41.1,5,Test2
+Freeze10-MTL(S2.5K+G1.25K),Humanities,52.02,5,Test2
+Freeze10-MTL(S2.5K+G1.25K),Social Science,52.28,5,Test2
+Freeze10-MTL(S2.5K+G1.25K),Other,52.57,5,Test2
+Freeze10-MTL(S2.5K+G1.25K),China specific,49.95,5,Test2
+Freeze10-MTL(S2.5K+G1.25K),Overall,49.46,5,Test2
+Freeze10-MTL(S2.5K+G10K),STEM,40.21,5,Test2
+Freeze10-MTL(S2.5K+G10K),Humanities,50.72,5,Test2
+Freeze10-MTL(S2.5K+G10K),Social Science,50.96,5,Test2
+Freeze10-MTL(S2.5K+G10K),Other,50.6,5,Test2
+Freeze10-MTL(S2.5K+G10K),China specific,49.05,5,Test2
+Freeze10-MTL(S2.5K+G10K),Overall,48.11,5,Test2
+Freeze10-MTL(S2.5K+G2.5K),STEM,42.39,5,Test2
+Freeze10-MTL(S2.5K+G2.5K),Humanities,53.84,5,Test2
+Freeze10-MTL(S2.5K+G2.5K),Social Science,54.55,5,Test2
+Freeze10-MTL(S2.5K+G2.5K),Other,53.79,5,Test2
+Freeze10-MTL(S2.5K+G2.5K),China specific,52.61,5,Test2
+Freeze10-MTL(S2.5K+G2.5K),Overall,51.16,5,Test2
+Freeze10-MTL(S2.5K+G20K),STEM,40.04,5,Test2
+Freeze10-MTL(S2.5K+G20K),Humanities,52.59,5,Test2
+Freeze10-MTL(S2.5K+G20K),Social Science,52.1,5,Test2
+Freeze10-MTL(S2.5K+G20K),Other,52.11,5,Test2
+Freeze10-MTL(S2.5K+G20K),China specific,49.99,5,Test2
+Freeze10-MTL(S2.5K+G20K),Overall,49.14,5,Test2
+Freeze10-MTL(S2.5K+G5K),STEM,41.23,5,Test2
+Freeze10-MTL(S2.5K+G5K),Humanities,51.77,5,Test2
+Freeze10-MTL(S2.5K+G5K),Social Science,53.08,5,Test2
+Freeze10-MTL(S2.5K+G5K),Other,51.94,5,Test2
+Freeze10-MTL(S2.5K+G5K),China specific,51.4,5,Test2
+Freeze10-MTL(S2.5K+G5K),Overall,49.56,5,Test2
+Freeze10,STEM,42.07,5,Test2
+Freeze10,Humanities,53.93,5,Test2
+Freeze10,Social Science,53.3,5,Test2
+Freeze10,Other,53.66,5,Test2
+Freeze10,China specific,51.39,5,Test2
+Freeze10,Overall,50.65,5,Test2
+Freeze15,STEM,41.37,5,Test2
+Freeze15,Humanities,53.07,5,Test2
+Freeze15,Social Science,52.56,5,Test2
+Freeze15,Other,52.88,5,Test2
+Freeze15,China specific,51.77,5,Test2
+Freeze15,Overall,49.89,5,Test2
+Freeze20,STEM,40.1,5,Test2
+Freeze20,Humanities,52.44,5,Test2
+Freeze20,Social Science,52.45,5,Test2
+Freeze20,Other,52.07,5,Test2
+Freeze20,China specific,51.06,5,Test2
+Freeze20,Overall,49.23,5,Test2
+Freeze3,STEM,40.24,5,Test2
+Freeze3,Humanities,52.02,5,Test2
+Freeze3,Social Science,52.82,5,Test2
+Freeze3,Other,52.58,5,Test2
+Freeze3,China specific,50.82,5,Test2
+Freeze3,Overall,49.42,5,Test2
+Freeze30,STEM,40.28,5,Test2
+Freeze30,Humanities,52.28,5,Test2
+Freeze30,Social Science,53.48,5,Test2
+Freeze30,Other,53.23,5,Test2
+Freeze30,China specific,52.31,5,Test2
+Freeze30,Overall,49.84,5,Test2
+Freeze5,STEM,40.35,5,Test2
+Freeze5,Humanities,52.19,5,Test2
+Freeze5,Social Science,53.14,5,Test2
+Freeze5,Other,52.57,5,Test2
+Freeze5,China specific,51.1,5,Test2
+Freeze5,Overall,49.59,5,Test2
+Lora10,STEM,40.7,5,Test2
+Lora10,Humanities,52.5,5,Test2
+Lora10,Social Science,53.0,5,Test2
+Lora10,Other,52.45,5,Test2
+Lora10,China specific,51.45,5,Test2
+Lora10,Overall,49.66,5,Test2
+Lora15,STEM,39.66,5,Test2
+Lora15,Humanities,50.79,5,Test2
+Lora15,Social Science,52.9,5,Test2
+Lora15,Other,52.77,5,Test2
+Lora15,China specific,51.41,5,Test2
+Lora15,Overall,49.1,5,Test2
+Lora20,STEM,39.72,5,Test2
+Lora20,Humanities,51.67,5,Test2
+Lora20,Social Science,52.57,5,Test2
+Lora20,Other,52.39,5,Test2
+Lora20,China specific,50.12,5,Test2
+Lora20,Overall,49.09,5,Test2
+Lora3,STEM,39.51,5,Test2
+Lora3,Humanities,51.97,5,Test2
+Lora3,Social Science,51.57,5,Test2
+Lora3,Other,51.73,5,Test2
+Lora3,China specific,50.4,5,Test2
+Lora3,Overall,48.62,5,Test2
+Lora30,STEM,40.7,5,Test2
+Lora30,Humanities,53.03,5,Test2
+Lora30,Social Science,53.7,5,Test2
+Lora30,Other,53.37,5,Test2
+Lora30,China specific,52.05,5,Test2
+Lora30,Overall,50.19,5,Test2
+Lora5,STEM,40.09,5,Test2
+Lora5,Humanities,52.75,5,Test2
+Lora5,Social Science,52.84,5,Test2
+Lora5,Other,51.59,5,Test2
+Lora5,China specific,50.84,5,Test2
+Lora5,Overall,49.31,5,Test2
+ChatGLM3_6B,STEM,41.4,5,Test3
+ChatGLM3_6B,Humanities,52.55,5,Test3
+ChatGLM3_6B,Social Science,53.45,5,Test3
+ChatGLM3_6B,Other,53.04,5,Test3
+ChatGLM3_6B,China specific,50.94,5,Test3
+ChatGLM3_6B,Overall,50.12,5,Test3
+Freeze10(S2.5K)-DMT(S0.1K+G2.5K),STEM,41.82,5,Test3
+Freeze10(S2.5K)-DMT(S0.1K+G2.5K),Humanities,53.41,5,Test3
+Freeze10(S2.5K)-DMT(S0.1K+G2.5K),Social Science,53.73,5,Test3
+Freeze10(S2.5K)-DMT(S0.1K+G2.5K),Other,53.36,5,Test3
+Freeze10(S2.5K)-DMT(S0.1K+G2.5K),China specific,51.12,5,Test3
+Freeze10(S2.5K)-DMT(S0.1K+G2.5K),Overall,50.56,5,Test3
+Freeze10(S2.5K)-DMT(S0.5K+G2.5K),STEM,40.09,5,Test3
+Freeze10(S2.5K)-DMT(S0.5K+G2.5K),Humanities,52.78,5,Test3
+Freeze10(S2.5K)-DMT(S0.5K+G2.5K),Social Science,52.79,5,Test3
+Freeze10(S2.5K)-DMT(S0.5K+G2.5K),Other,53.14,5,Test3
+Freeze10(S2.5K)-DMT(S0.5K+G2.5K),China specific,50.88,5,Test3
+Freeze10(S2.5K)-DMT(S0.5K+G2.5K),Overall,49.64,5,Test3
+Freeze10(S2.5K)-DMT(S1.25K+G2.5K),STEM,41.08,5,Test3
+Freeze10(S2.5K)-DMT(S1.25K+G2.5K),Humanities,54.51,5,Test3
+Freeze10(S2.5K)-DMT(S1.25K+G2.5K),Social Science,53.59,5,Test3
+Freeze10(S2.5K)-DMT(S1.25K+G2.5K),Other,53.58,5,Test3
+Freeze10(S2.5K)-DMT(S1.25K+G2.5K),China specific,50.92,5,Test3
+Freeze10(S2.5K)-DMT(S1.25K+G2.5K),Overall,50.59,5,Test3
+Freeze10(S2.5K)-DMT(S2.5K+G2.5K),STEM,41.87,5,Test3
+Freeze10(S2.5K)-DMT(S2.5K+G2.5K),Humanities,55.68,5,Test3
+Freeze10(S2.5K)-DMT(S2.5K+G2.5K),Social Science,55.47,5,Test3
+Freeze10(S2.5K)-DMT(S2.5K+G2.5K),Other,53.88,5,Test3
+Freeze10(S2.5K)-DMT(S2.5K+G2.5K),China specific,53.62,5,Test3
+Freeze10(S2.5K)-DMT(S2.5K+G2.5K),Overall,51.7,5,Test3
+Freeze10(S2.5K)-DMT(S2.5K+G5K),STEM,39.87,5,Test3
+Freeze10(S2.5K)-DMT(S2.5K+G5K),Humanities,51.78,5,Test3
+Freeze10(S2.5K)-DMT(S2.5K+G5K),Social Science,53.54,5,Test3
+Freeze10(S2.5K)-DMT(S2.5K+G5K),Other,51.6,5,Test3
+Freeze10(S2.5K)-DMT(S2.5K+G5K),China specific,50.82,5,Test3
+Freeze10(S2.5K)-DMT(S2.5K+G5K),Overall,49.3,5,Test3
+Freeze10-MTL(S2.5K+G1.25K),STEM,40.51,5,Test3
+Freeze10-MTL(S2.5K+G1.25K),Humanities,52.17,5,Test3
+Freeze10-MTL(S2.5K+G1.25K),Social Science,52.4,5,Test3
+Freeze10-MTL(S2.5K+G1.25K),Other,52.12,5,Test3
+Freeze10-MTL(S2.5K+G1.25K),China specific,50.31,5,Test3
+Freeze10-MTL(S2.5K+G1.25K),Overall,49.28,5,Test3
+Freeze10-MTL(S2.5K+G10K),STEM,40.89,5,Test3
+Freeze10-MTL(S2.5K+G10K),Humanities,49.98,5,Test3
+Freeze10-MTL(S2.5K+G10K),Social Science,50.7,5,Test3
+Freeze10-MTL(S2.5K+G10K),Other,51.37,5,Test3
+Freeze10-MTL(S2.5K+G10K),China specific,49.26,5,Test3
+Freeze10-MTL(S2.5K+G10K),Overall,48.22,5,Test3
+Freeze10-MTL(S2.5K+G2.5K),STEM,41.2,5,Test3
+Freeze10-MTL(S2.5K+G2.5K),Humanities,53.78,5,Test3
+Freeze10-MTL(S2.5K+G2.5K),Social Science,54.55,5,Test3
+Freeze10-MTL(S2.5K+G2.5K),Other,53.29,5,Test3
+Freeze10-MTL(S2.5K+G2.5K),China specific,51.32,5,Test3
+Freeze10-MTL(S2.5K+G2.5K),Overall,50.73,5,Test3
+Freeze10-MTL(S2.5K+G20K),STEM,41.09,5,Test3
+Freeze10-MTL(S2.5K+G20K),Humanities,52.09,5,Test3
+Freeze10-MTL(S2.5K+G20K),Social Science,51.91,5,Test3
+Freeze10-MTL(S2.5K+G20K),Other,52.19,5,Test3
+Freeze10-MTL(S2.5K+G20K),China specific,50.43,5,Test3
+Freeze10-MTL(S2.5K+G20K),Overall,49.26,5,Test3
+Freeze10-MTL(S2.5K+G5K),STEM,41.34,5,Test3
+Freeze10-MTL(S2.5K+G5K),Humanities,50.93,5,Test3
+Freeze10-MTL(S2.5K+G5K),Social Science,52.86,5,Test3
+Freeze10-MTL(S2.5K+G5K),Other,51.19,5,Test3
+Freeze10-MTL(S2.5K+G5K),China specific,50.24,5,Test3
+Freeze10-MTL(S2.5K+G5K),Overall,49.19,5,Test3
+freeze10,STEM,40.5,5,Test3
+freeze10,Humanities,52.67,5,Test3
+freeze10,Social Science,52.6,5,Test3
+freeze10,Other,52.53,5,Test3
+freeze10,China specific,50.36,5,Test3
+freeze10,Overall,49.53,5,Test3
+freeze15,STEM,40.92,5,Test3
+freeze15,Humanities,52.84,5,Test3
+freeze15,Social Science,53.2,5,Test3
+freeze15,Other,51.77,5,Test3
+freeze15,China specific,51.0,5,Test3
+freeze15,Overall,49.7,5,Test3
+Freeze20,STEM,40.95,5,Test3
+Freeze20,Humanities,52.75,5,Test3
+Freeze20,Social Science,51.69,5,Test3
+Freeze20,Other,52.28,5,Test3
+Freeze20,China specific,50.62,5,Test3
+Freeze20,Overall,49.3,5,Test3
+Freeze3,STEM,40.57,5,Test3
+Freeze3,Humanities,51.98,5,Test3
+Freeze3,Social Science,52.59,5,Test3
+Freeze3,Other,53.23,5,Test3
+Freeze3,China specific,50.67,5,Test3
+Freeze3,Overall,49.56,5,Test3
+Freeze30,STEM,41.24,5,Test3
+Freeze30,Humanities,52.79,5,Test3
+Freeze30,Social Science,52.62,5,Test3
+Freeze30,Other,52.91,5,Test3
+Freeze30,China specific,51.51,5,Test3
+Freeze30,Overall,49.83,5,Test3
+Freeze5,STEM,40.27,5,Test3
+Freeze5,Humanities,52.23,5,Test3
+Freeze5,Social Science,52.74,5,Test3
+Freeze5,Other,52.42,5,Test3
+Freeze5,China specific,51.2,5,Test3
+Freeze5,Overall,49.41,5,Test3
+Lora10,STEM,40.67,5,Test3
+Lora10,Humanities,52.46,5,Test3
+Lora10,Social Science,52.08,5,Test3
+Lora10,Other,52.48,5,Test3
+Lora10,China specific,51.14,5,Test3
+Lora10,Overall,49.35,5,Test3
+Lora15,STEM,40.14,5,Test3
+Lora15,Humanities,52.22,5,Test3
+Lora15,Social Science,52.77,5,Test3
+Lora15,Other,52.49,5,Test3
+Lora15,China specific,50.97,5,Test3
+Lora15,Overall,49.4,5,Test3
+Lora20,STEM,40.94,5,Test3
+Lora20,Humanities,53.91,5,Test3
+Lora20,Social Science,53.25,5,Test3
+Lora20,Other,52.87,5,Test3
+Lora20,China specific,51.17,5,Test3
+Lora20,Overall,50.17,5,Test3
+Lora3,STEM,40.73,5,Test3
+Lora3,Humanities,51.63,5,Test3
+Lora3,Social Science,52.67,5,Test3
+Lora3,Other,52.97,5,Test3
+Lora3,China specific,50.77,5,Test3
+Lora3,Overall,49.5,5,Test3
+Lora30,STEM,40.6,5,Test3
+Lora30,Humanities,53.17,5,Test3
+Lora30,Social Science,53.48,5,Test3
+Lora30,Other,51.93,5,Test3
+Lora30,China specific,50.99,5,Test3
+Lora30,Overall,49.81,5,Test3
+Lora5,STEM,41.64,5,Test3
+Lora5,Humanities,51.9,5,Test3
+Lora5,Social Science,52.55,5,Test3
+Lora5,Other,51.15,5,Test3
+Lora5,China specific,49.51,5,Test3
+Lora5,Overall,49.34,5,Test3

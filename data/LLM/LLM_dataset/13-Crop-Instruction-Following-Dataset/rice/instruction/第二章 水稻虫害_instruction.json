@@ -1,0 +1,572 @@
+[
+    {
+        "instruction": "请描述水稻褐飞虱成虫的形态特征，包括体长、体色和翅型。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻褐飞虱的发生特点是什么？请描述其迁入期、繁殖代数和气候条件。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻褐飞虱的农业防治措施，包括田间肥水管理和品种选择。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻褐飞虱的化学防治措施有哪些？请列出推荐的药剂和使用方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻褐飞虱的主要危害是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻三化螟的形态特征，包括成虫、卵、幼虫和蛹的外观特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻三化螟的发生特点是什么？请描述其发生规律、习性和对水稻的危害症状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列举水稻三化螟的防治方法，包括农业防治、物理防治和化学防治，并描述每种方法的具体措施和效果。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻三化螟的发生与水稻的生育阶段有何关系？请描述其侵入率与水稻生育阶段的关系。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻三化螟的分布范围和发生代数，包括其在国内的分布区域和每年发生的代数。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻白背飞虱的形态特征，包括成虫、卵和若虫的外观特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻白背飞虱主要危害水稻的哪个生长阶段？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻白背飞虱发生的主要地区及其每年的发生世代数。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻白背飞虱的迁入和迁出期与哪些因素有关？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻白背飞虱的习性，包括其趋光性、趋绿性和迁飞特性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻蓟马的主要危害阶段是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻蓟马的形态特征，包括成虫、卵和若虫的特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻蓟马的发生特点是什么？包括其生活周期、世代重叠和田间发生世代的划分。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻蓟马的综合防治措施有哪些？包括农业防治和化学防治的具体方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释水稻蓟马的习性，包括其活动时间、迁飞能力和产卵习性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "灰飞虱对水稻的危害症状有哪些?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻灰飞虱的形态特征，包括成虫、卵和若虫的外观。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请总结水稻灰飞虱的发生特点，包括其越冬习性、迁入时间和危害时期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻灰飞虱的综合防治措施有哪些？包括农业防治和化学防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻灰飞虱在不同地区的发生代数有哪些差异？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻二化螟的危害症状有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻二化螟的形态特征，包括成虫、卵、幼虫和蛹的详细描述。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻二化螟的发生特点是什么？请包括其发生代数、越冬习性和发育条件等方面。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻二化螟的农业防治措施有哪些？请列出具体的方法和步骤。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请比较水稻二化螟在籼稻和粳稻上的危害情况，哪种类型的水稻更容易受到损害？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "中华稻蝗的主要危害植物是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "中华稻蝗的发生特点是什么？请包括其发生的时间、地点和习性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出中华稻蝗的综合防治措施，包括农业防治、生物防治和化学防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如果水稻田中发现中华稻蝗，每平方米有30头以上的若虫，应该采取什么样的防治措施？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述中华稻蝗的形态特征，包括成虫、卵和若虫的外观。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻上大螟的主要危害症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻大螟的形态特征，包括成虫、卵、幼虫和蛹的特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻大螟的发生特点是什么？包括其发生的地区、代数、危害时间等信息。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻大螟的综合防治措施有哪些？包括农业防治和化学防治的具体方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请总结水稻大螟的习性，包括其飞翔力、趋光性、产卵习性等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "电光叶蝉的成虫有哪些形态特征？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出电光叶蝉发生特点中提到的所有时间点",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻田中如何使用物理防治方法来控制电光叶蝉？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出电光叶蝉综合防治中农业防治的措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述电光叶蝉对水稻的危害症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻上直纹稻弄蝶的发生代数与哪些因素有关？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻直纹稻弄蝶的形态特征，包括成虫、卵、幼虫和蛹的外观。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻受到直纹稻弄蝶的危害后会出现什么症状？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出综合防治水稻直纹稻弄蝶的方法，包括农业防治、生物防治和化学防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "直纹稻弄蝶的幼虫在水稻上的哪些部位取食？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻上稻棘缘蝽的危害特征是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻稻棘缘蝽的形态特征，包括成虫、卵和幼虫的外观。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻稻棘缘蝽的发生特点是什么？包括其生命周期和在不同地区的发生情况。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请总结水稻稻棘缘蝽的综合防治措施，包括农业防治和化学防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻稻棘缘蝽在中国的分布范围是什么？包括其主要分布省份和地区。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻福寿螺的形态特征，包括其贝壳、头部和腹足的特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻田中发现大量福寿螺，请提出两种防治方法，包括农业防治和化学防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请问福寿螺的繁殖力如何？它们每年可以繁殖多少代？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请编辑一段话，描述福寿螺对水稻的危害，包括其危害症状和受害株率。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出福寿螺的分布地区，包括省份和地级市。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻稻绿蝽的形态特征，包括成虫、卵和幼虫的特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻稻绿蝽的发生特点是什么？包括发生代数、越冬习性和世代重叠等方面。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻稻绿蝽的综合防治措施，包括农业防治和化学防治方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻稻绿蝽的化学防治适期是什么时候？应该使用哪些药剂进行防治？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻上稻绿蝽的危害症状有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻象甲的主要危害症状有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻象甲的发生特点是什么？包括其生命周期、越冬方式和活动习性。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻象甲的综合防治措施，包括农业防治、物理防治和化学防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻象甲的化学防治通常使用哪些药物？请提供具体的使用方法和剂量。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻象甲的形态特征，包括成虫、卵和幼虫的外观。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻上直纹稻弄蝶的发生代数与哪些因素有关",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述水稻直纹稻弄蝶的成虫形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻直纹稻弄蝶的幼虫有几龄，各龄幼虫的形态特征是怎样的",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻直纹稻弄蝶的防治方法有哪些",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻直纹稻弄蝶的发生特点有哪些",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻红棕灰夜蛾幼虫的形态特征，包括体色、毛片和足的形状。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻红棕灰夜蛾的蛹是什么形状？蛹体的颜色和特征是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻红棕灰夜蛾的发生特点是什么？请描述其成虫、幼虫和蛹的行为特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻红棕灰夜蛾的综合防治方法，包括物理防治和化学防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻红棕灰夜蛾的成虫有哪些特征？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻上稻眼蝶的危害症状有哪些?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "描述一下稻眼蝶的形态特征，包括成虫、卵、幼虫和蛹的外观。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻稻眼蝶的发生特点是什么？包括发生代数、越冬习性等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "如何通过农业防治和化学防治来综合防治水稻稻眼蝶？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻稻眼蝶的天敌，包括捕食幼虫和成虫的动物。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述黑尾叶蝉对水稻的危害症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "黑尾叶蝉的成虫和若虫在水稻上的主要危害部位是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出黑尾叶蝉在水稻上的综合防治措施",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "黑尾叶蝉在水稻上的发生特点包括哪些方面？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述黑尾叶蝉的形态特征，包括成虫、卵和若虫的特点",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述水稻纵卷叶螟的成虫形态特征，包括体长、翅展、翅色等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻纵卷叶螟的幼虫有几个龄期？请分别描述每个龄期的形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻纵卷叶螟的发生特点是什么？包括世代重叠、迁飞过程等。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出水稻纵卷叶螟的综合防治措施，包括农业防治、生物防治和化学防治。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "水稻纵卷叶螟的主要危害症状是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]

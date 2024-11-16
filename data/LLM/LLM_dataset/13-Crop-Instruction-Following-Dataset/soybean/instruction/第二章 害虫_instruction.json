@@ -1,0 +1,242 @@
+[
+    {
+        "instruction": "请描述大豆红蜘蛛的危害特点",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简要说明大豆黄条跳甲的发生规律",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出大豆草地螟的主要天敌",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述大豆毒蛾类的危害状识别",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释大豆灯蛾类的防治方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述大豆潜根蝇的危害特点和被害状识别方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆潜根蝇的成虫有哪些特征？它们的习性是什么？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释大豆潜根蝇的发生规律，包括其羽化期、产卵期和幼虫危害期。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆潜根蝇的防治方法有哪些？请列出至少三种有效的防治措施。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述大豆潜根蝇的生物学特性，包括其体长、翅色和幼虫的形态特征。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述大豆二条叶甲的危害症状",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆二条叶甲的幼虫主要危害大豆的哪些部位？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释大豆二条叶甲的发生规律，包括越冬、产卵和化蛹等阶段",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆二条叶甲的成虫和幼虫分别有哪些习性？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治大豆二条叶甲的方法，包括农事措施和药剂防治",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述大豆食心虫的主要发生地区和分布范围",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆食心虫的幼虫主要以什么为食？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出大豆食心虫的成虫活动规律，包括活动时间和特点",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆食心虫的幼虫在入土深度方面有什么特点？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述大豆食心虫的防治方法，包括农业防治、化学药剂防治和生物防治",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述蛴螬对大豆的危害情况",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "蛴螬的成虫和幼虫分别危害大豆的哪些部位",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出大豆蛴螬的生活习性，包括夜出性、危害性、补充营养和产卵选择性",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释土壤温、湿度和土质如何影响大豆蛴螬的发生与危害",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治大豆蛴螬的方法，包括秋季深翻和重耙、合理轮作和药剂拌种",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述大豆蚜虫的形态特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆蚜虫主要危害大豆的哪些部位？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请解释大豆蚜虫的发生规律",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆蚜虫的繁殖率是多少？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治大豆蚜虫的方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出所有可能危害大豆的夜蛾科害虫种类。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆焰夜蛾、豆卜馍夜蛾、红棕灰夜蛾和苜蓿夜蛾的老熟幼虫分别有什么特征？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "简要描述大豆上常见的四种夜蛾科害虫的危害特点。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请问在黑龙江省，大豆上常见的夜蛾科害虫有哪些？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出防治大豆夜蛾科害虫的方法。",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "列出几个大豆椿象类害虫的名称",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆上的斑须蝽主要吸食大豆的哪些部位？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请描述大豆广腹同缘蝽的体型特征",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "大豆稻绿蝽的若虫有几个龄期？",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "请列出防治大豆椿象类害虫的两种方法",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "分隔符",
+        "input": "",
+        "output": ""
+    }
+]
