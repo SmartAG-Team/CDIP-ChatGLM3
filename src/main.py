@@ -1,11 +1,11 @@
 import os
 from transformers import AutoTokenizer, AutoModel
 
-MODEL_PATH = r"./model/LLM_models/freeze/freeze10_DMT(1-1)/sft"
-TOKENIZER_PATH = r"./model/LLM_models/freeze/freeze10_DMT(1-1)/sft"
+MODEL_PATH = r"./model/LLM_models/Freeze/Freeze10(S2.5K)-DMT(S2.5K+G2.5K)/sft"
+TOKENIZER_PATH = r"./model/LLM_models/Freeze/Freeze10(S2.5K)-DMT(S2.5K+G2.5K)/sft"
 
-# MODEL_PATH = r"./model/LLM_models/chatglm3_6b"
-# TOKENIZER_PATH = r"./model/LLM_models/chatglm3_6b"
+# MODEL_PATH = r"./model/LLM_models/ChatGLM3_6B"
+# TOKENIZER_PATH = r"./model/LLM_models/ChatGLM3_6B"
 DEVICE = 'cuda'
 
 

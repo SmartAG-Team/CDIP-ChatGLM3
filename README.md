@@ -45,8 +45,6 @@ If you plan to create the instruction-following dataset yourself, you need to cr
 3. For GPT Model
    - Add `OpenAI_API_KEY` and `OpenAI_API_base_url`.
 
-
-
 ## Model
 
 ### CV Models
@@ -68,7 +66,7 @@ All pretrained and trained model link：[All cv models](https://pan.baidu.com/s/
 | ResNet-50             | 95.42%   | 93.63%    | 93.48% | 92.98%   | 23.63      | 265.75 | 3.76         | [resnet50-pre.pth](https://pan.baidu.com/s/15vEomtAJWu1JBaMk0YX7GQ?pwd=mm6e) | [resnet50.pth](https://pan.baidu.com/s/1Z-F9ppa3-gv3Y0oekvOLGw?pwd=0egv) |
 | Swin-transformer-Tiny | 95.77%   | 94.85%    | 93.69% | 93.77%   | 27.57      | 97.81  | 10.22        | [swin_tiny_patch4.pth](https://pan.baidu.com/s/1-hrBCnrN9TaPMy1i8-pxJQ?pwd=zb2x) | [swin-transformer.pth](https://pan.baidu.com/s/1T7HTz7dj-PquMF9EtUTtGQ?pwd=5r81) |
 
-### LLM Model
+### LLM Models
 
 The metrics and resource links for the LLM model we trained:
 
@@ -122,7 +120,7 @@ Alternatively, you can create the dataset as follows:
 
 - **Constructing the 13-Crop Instruction-Following Dataset Using Llama3.1-405B-Instruct API**:
 
-  To generate the corresponding instruction-following datasets for each crop's partitioned text information folder, use the script `./src/Fine-tuning/Create-dataset/create_dataset.py`. Specifically, the following parameters should be modified in the file:
+  To generate the corresponding instruction-following datasets for each crop's partitioned text information folder, use the script `./src/LLM/Fine-tuning/Create-dataset/create_dataset.py`. Specifically, the following parameters should be modified in the file:
 
   - `--folder_path`: The folder containing the partitioned chapter information.
   - `--prompt{1,2,3}_dir`: The folders containing the corresponding prompts for each crop. (Note: In `prompt1`, the crop name should be updated for each crop.)
@@ -157,7 +155,7 @@ Alternatively, you can create the dataset as follows:
 - **Extract 200 Disease Prevention and Control Issues** from specialized datasets using the following command:
 
   ```
-  python ./src/Specialized-Abilities-Test/Dateset-create/Dataset_extraction.py
+  python ./src/LLM/Specialized-Abilities-Test/Dateset-create/Dataset_extraction.py
   ```
 
   This will extract and save 200 disease control test cases to `./data/LLM/LLM_dataset/Specialized-Abilities-Test-Dataset/Crop-Disease-200.json`.
@@ -165,7 +163,7 @@ Alternatively, you can create the dataset as follows:
 - **Generate Change Questions for the Specialized Abilities Test Dataset** using the Llama3.1-405B-Instruct API:
 
   ```
-  python ./src/Specialized-Abilities-Test/Dateset-create/Generate-Specialised-Abilities-Test-Dataset.py
+  python ./src/LLM/Specialized-Abilities-Test/Dateset-create/Generate-Specialised-Abilities-Test-Dataset.py
   ```
 
 ## Training
@@ -280,7 +278,7 @@ The results of our fine-tuning experiments consist of three main components:
 - To regenerate responses using the fine-tuned model, run:
 
   ```
-  python ./src/Fine-tuning/Generate_LLM_Response.py
+  python ./src/LLM/Fine-tuning/Generate_LLM_Response.py
   ```
 
   This command uses the fine-tuned LLM to generate answers based on the dataset's questions.
@@ -288,7 +286,7 @@ The results of our fine-tuning experiments consist of three main components:
 - Since different fine-tuned models may respond to prompts in different ways, some responses may not adhere to the standard output format specified in the prompt. To ensure standardized formatting, run:
 
   ```
-  python ./src/Fine-tuning/Trimming_LLM_Reply.py
+  python ./src/LLM/Fine-tuning/Trimming_LLM_Reply.py
   ```
 
   Ensure to manually adjust any paths as needed.
@@ -300,7 +298,7 @@ The results of our fine-tuning experiments consist of three main components:
 - To re-evaluate the fine-tuning experiment, ensure the fine-tuned responses are saved in `./data/LLM/LLM_Model_Response`, then run:
 
   ```
-  python ./src/Fine-tuning/Calculate_score.py
+  python ./src/LLM/Fine-tuning/Calculate_score.py
   ```
 
 #### **Error Rate**
@@ -310,7 +308,7 @@ The results of our fine-tuning experiments consist of three main components:
 - To re-evaluate the error rate, ensure the fine-tuned responses are saved in `./data/LLM/LLM_Model_Response`, then run:
 
   ```
-  python ./src/Fine-tuning/Error_Rate/Error_Rate_Token.py
+  python ./src/LLM/Fine-tuning/Error_Rate/Error_Rate_Token.py
   ```
 
 ### CMMLU Benchmark Test
@@ -322,7 +320,7 @@ Our CMMLU experiment results are stored in `./data/LLM/LLM_Metric/CMMLU-Metric`,
 To generate evaluation metrics for CMMLU based on the experiment results, run:
 
 ```
-python ./src/CMMLU/CMMLU_Get_Metrics.py
+python ./src/LLM/CMMLU/CMMLU_Get_Metrics.py
 ```
 
 This script aggregates the CMMLU benchmark results and saves them to `./data/LLM/LLM_Metric/CMMLU-Metric/CMMLU_Metric.csv`.
@@ -332,7 +330,7 @@ This script aggregates the CMMLU benchmark results and saves them to `./data/LLM
 To re-evaluate CMMLU using the model, run:
 
 ```
-python ./src/CMMLU/chatglm.py
+python ./src/LLM/CMMLU/chatglm.py
 ```
 
 Make sure to manually adjust the model path, shot count, and perform multiple experiments as needed.
@@ -346,7 +344,7 @@ The results of our Specialized Abilities Test are stored in `./data/LLM/LLM_Metr
 To generate evaluation metrics for the Specialized Abilities Test based on the experiment results, run:
 
 ```
-python ./src/Specialized-Abilities-Test/Specialized-Abilities-Test-Get-Metric.py
+python ./src/LLM/Specialized-Abilities-Test/Specialized-Abilities-Test-Get-Metric.py
 ```
 
 This script calculates the average BLEU and ROUGE scores for each model's responses and saves them to `./data/LLM/LLM_Metric/Specialized-Abilities-Test-Metric/Specialized-Abilities-Test-Metric.csv`.
@@ -358,37 +356,37 @@ To re-evaluate the specialized abilities in disease prevention and control for d
 - **ChatGLM3-6B**:
 
   ```
-  python ./src/Specialized-Abilities-Test/Test/ChatGLM3-6B.py
+  python ./src/LLM/Specialized-Abilities-Test/Test/ChatGLM3-6B.py
   ```
 
 - **Qwen-Max**:
 
   ```
-  python ./src/Specialized-Abilities-Test/Test/qwen-max.py
+  python ./src/LLM/Specialized-Abilities-Test/Test/qwen-max.py
   ```
 
 - **Llama-3.1-405B-Instruct**:
 
   ```
-  python ./src/Specialized-Abilities-Test/Test/llama3.1-405b-instruct.py
+  python ./src/LLM/Specialized-Abilities-Test/Test/llama3.1-405b-instruct.py
   ```
 
 - **GPT-4o**:
 
   ```
-  python ./src/Specialized-Abilities-Test/Test/gpt4o.py
+  python ./src/LLM/Specialized-Abilities-Test/Test/gpt4o.py
   ```
 
 - **CDIP-ChatGLM3**:
 
   ```
-  python ./src/Specialized-Abilities-Test/Test/CDIP-ChatGLM3.py
+  python ./src/LLM/Specialized-Abilities-Test/Test/CDIP-ChatGLM3.py
   ```
 
 After generating results for each model, run:
 
 ```
-python ./src/Specialized-Abilities-Test/Specialized-Abilities-Test-Metric.py
+python ./src/LLM/Specialized-Abilities-Test/Specialized-Abilities-Test-Metric.py
 ```
 
 This will update the metrics in `./data/LLM/LLM_Metric/Specialized-Abilities-Test-Metric/Specialized-Abilities-Test-Metric.csv`.

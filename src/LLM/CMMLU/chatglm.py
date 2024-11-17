@@ -44,13 +44,13 @@ def eval_chat(model, tokenizer, subject, dev_df, test_df, num_few_shot, max_leng
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--model_name_or_path", type=str, default=r"./model/LLM_models/freeze/freeze10_DMT(1-1)/sft")
+    parser.add_argument("--model_name_or_path", type=str, default="./model/LLM_models/Freeze/Freeze10(S2.5K)-DMT(S2.5K+G2.5K)/sft")
     parser.add_argument("--lora_weights", type=str, default="")
     parser.add_argument("--data_dir", type=str, default="./data/LLM/LLM_dataset/CMMLU-Benchmark-Dataset")
-    parser.add_argument("--save_dir", type=str, default="./data/LLM/LLM_Metric/CMMLU-Metric/CMMLU-Test1/results/freeze10_DMT(1-1)")
-    parser.add_argument("--accuracy_dir", type=str, default="./data/LLM/LLM_Metric/CMMLU-Metric/CMMLU-Test1/accuracy/freeze10_DMT(1-1)")
-    parser.add_argument("--csv_dir", type=str, default="./data/LLM/LLM_Metric/CMMLU-Metric/CMMLU-Test1/accuracy/freeze10_DMT(1-1)/freeze10_DMT(1-1)_0shot.csv")
-    parser.add_argument("--sum_csv_dir", type=str, default="./data/LLM/LLM_Metric/CMMLU-Metric/CMMLU-Test1/accuracy/summary/0shot/freeze10_DMT(1-1).csv")
+    parser.add_argument("--save_dir", type=str, default="./data/LLM/LLM_Metric/CMMLU-Metric/CMMLU-Test1/results/Freeze10(S2.5K)-DMT(S2.5K+G2.5K)")
+    parser.add_argument("--accuracy_dir", type=str, default="./data/LLM/LLM_Metric/CMMLU-Metric/CMMLU-Test1/accuracy/Freeze10(S2.5K)-DMT(S2.5K+G2.5K)")
+    parser.add_argument("--csv_dir", type=str, default="./data/LLM/LLM_Metric/CMMLU-Metric/CMMLU-Test1/accuracy/Freeze10(S2.5K)-DMT(S2.5K+G2.5K)/Freeze10(S2.5K)-DMT(S2.5K+G2.5K)_0shot.csv")
+    parser.add_argument("--sum_csv_dir", type=str, default="./data/LLM/LLM_Metric/CMMLU-Metric/CMMLU-Test1/accuracy/summary/0shot/Freeze10(S2.5K)-DMT(S2.5K+G2.5K).csv")
     parser.add_argument("--num_few_shot", type=int, default=0)
     parser.add_argument("--max_length", type=int, default=2048)
     parser.add_argument("--load_in_8bit", action='store_true')

@@ -16,7 +16,7 @@ directory = './data/LLM/LLM_Model_Response'
 
 # 初始化tokenizer
 tokenizer = AutoTokenizer.from_pretrained(
-    r"./model/LLM_models/ChatGLM3_6B", 
+    "./model/LLM_models/ChatGLM3_6B", 
     trust_remote_code=True
 )
 

@@ -10,8 +10,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 parser = argparse.ArgumentParser(description="Argument parser example")
-parser.add_argument('--prompt_dir', type=str, default='./src/Fine-tuning/Create-dataset/prompt.txt', help='Instruction generation prompt')
-parser.add_argument('--prompt3_dir', type=str, default='./src/Fine-tuning/Create-dataset/prompt3.txt', help='Instruction generation prompt3')
+parser.add_argument('--prompt_dir', type=str, default='./src/LLM/Fine-tuning/Create-dataset/prompt.txt', help='Instruction generation prompt')
+parser.add_argument('--prompt3_dir', type=str, default='./src/LLM/Fine-tuning/Create-dataset/prompt3.txt', help='Instruction generation prompt3')
 
 parser.add_argument('--api_key', type=str, default=os.getenv('Llama_API_KEY'), help='api key') 
 parser.add_argument('--folder_path', type=str, default='./data/LLM/LLM_books/文字数据集/葡萄文字分段/葡萄霜霉病智慧预警与绿色综合防控 技术规程', help='Path to the folder to process')

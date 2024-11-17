@@ -4,11 +4,11 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 
 def generate_responses(data_source,output_file_path):
     tokenizer = AutoTokenizer.from_pretrained(
-        r"./model/LLM_models/Freeze/Freeze10(S2.5K)-DMT(S2.5K+G2.5K)/sft", 
+        "./model/LLM_models/Freeze/Freeze10(S2.5K)-DMT(S2.5K+G2.5K)/sft", 
         trust_remote_code=True
     )
     gpt_model = AutoModelForCausalLM.from_pretrained(
-        r"./model/LLM_models/Freeze/Freeze10(S2.5K)-DMT(S2.5K+G2.5K)/sft", 
+        "./model/LLM_models/Freeze/Freeze10(S2.5K)-DMT(S2.5K+G2.5K)/sft", 
         trust_remote_code=True, 
         device='cuda'
     )
