@@ -410,4 +410,4 @@ python ./src/All_fig.py
 
 Alternatively, if you wish to generate specific images, you can modify the `fig{num}()` function in the script to specify which image you would like to generate.
 
-Please ensure that all the required data files are available before running the image generation code. All generated images, including those created using Vision, will be stored in the `./fig` directory for easy access and further use.
+Please ensure that all the required data files are available before running the image generation code. All generated images, including those created using Visio, will be stored in the `./fig` directory for easy access and further use.
