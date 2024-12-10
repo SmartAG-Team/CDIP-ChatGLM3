@@ -1527,8 +1527,8 @@ def sfig6():
     ax0.set_position([ax0.get_position().x0, ax0.get_position().y0 - 0.04, ax0.get_position().width, ax0.get_position().height])  # 上移 ax0
 
     output_combined_path = r'fig/SFig6.png'
-    plt.show()
     plt.savefig(output_combined_path, dpi=500, bbox_inches='tight', pad_inches=0.1)
+    plt.show()
 
 if __name__ == "__main__":
     # fig5()
