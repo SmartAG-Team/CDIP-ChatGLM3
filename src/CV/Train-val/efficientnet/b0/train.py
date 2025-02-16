@@ -138,7 +138,7 @@ if __name__ == '__main__':
     parser.add_argument('--num_classes', type=int, default=61)
     parser.add_argument('--epochs', type=int, default=50)
     parser.add_argument('--batch-size', type=int, default=8)
-    parser.add_argument('--lr', type=float, default=0.01)
+    parser.add_argument('--lr', type=float, default=0.0001)
     parser.add_argument('--lrf', type=float, default=0.01)
     parser.add_argument('--data-path', type=str, default="./data/CV/CV_dataset/train-val")
     parser.add_argument('--weights', type=str, default='./model/CV_Models/pretrain_model/efficientnetb0.pth', help='initial weights path')
