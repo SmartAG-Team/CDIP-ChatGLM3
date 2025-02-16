@@ -112,7 +112,7 @@ if __name__ == '__main__':
     parser.add_argument('--lr', type=float, default=0.01)
     parser.add_argument('--lrf', type=float, default=0.01)
     parser.add_argument('--data-path', type=str, default="./data/CV/CV_dataset/train-val")
-    parser.add_argument('--weights', type=str, default='./model/CV_Models/pretrain_model/resnet34-pre.pth', help='initial weights path')
+    parser.add_argument('--weights', type=str, default='./model/CV_Models/pretrain_model/resnet50-pre.pth', help='initial weights path')
     parser.add_argument('--freeze-layers', type=bool, default=False)
     parser.add_argument('--device', default='cuda:0', help='device id (i.e. 0 or 0,1 or cpu)')
 
