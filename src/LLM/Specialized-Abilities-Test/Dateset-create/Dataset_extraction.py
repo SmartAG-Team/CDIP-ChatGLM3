@@ -34,11 +34,17 @@ with open("./data/LLM/LLM_dataset/13-Crop-Instruction-Following-Dataset/13crop.j
 
 # 使用集合来跟踪已处理的 instruction，避免重复
 seen_instructions = set()
-unique_extracted_data = [
-    item for item in data
-    if any(disease in item.get("instruction", "") for disease in diseases)
-    and not (item.get("instruction") in seen_instructions or seen_instructions.add(item.get("instruction")))
-]
+seen_diseases = set()  # 用于存储已提取的病害种类
+
+unique_extracted_data = []
+for item in data:
+    instruction = item.get("instruction", "")
+    for disease in diseases:
+        if disease in instruction and instruction not in seen_instructions:
+            seen_instructions.add(instruction)
+            seen_diseases.add(disease)
+            unique_extracted_data.append(item)
+            break
 
 # 只保留前200条记录
 unique_extracted_data = unique_extracted_data[:200]
@@ -53,6 +59,8 @@ with open(output_file, 'w', encoding='utf-8') as file:
     json.dump(unique_extracted_data, file, ensure_ascii=False, indent=4)
 
 print(f"数据已保存到 {output_file}")
+print(f"提取了 {len(seen_diseases)} 种病害")
+print(f"病害种类: {sorted(seen_diseases)}")
 
 # 读取 JSON 数据
 with open(output_file, 'r', encoding='utf-8') as f:

@@ -31,3 +31,5 @@ fastapi
 sse-starlette
 fire
 packaging
+zhipuai
+argparse

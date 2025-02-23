@@ -52,11 +52,17 @@ def fig5():
     plt.show()   
 
 def fig7():
+    from scipy import stats
     plt.rcParams['font.family'] = 'Times New Roman'
     plt.rcParams['font.size'] = 12
 
-    # 读取 CSV 数据
-    data = pd.read_csv('./data/CV/CV_Metric/CV_results.csv')
+    # 读取三个 CSV 文件
+    data1 = pd.read_csv('./data/CV/CV_Metric/CV_results_1.csv')
+    data2 = pd.read_csv('./data/CV/CV_Metric/CV_results_2.csv')
+    data3 = pd.read_csv('./data/CV/CV_Metric/CV_results_3.csv')
+
+    # 合并三个表格
+    combined_data = pd.concat([data1, data2, data3])
 
     # 确保 CSV 中的模型名称与指定顺序一致
     model_order = [
@@ -67,28 +73,41 @@ def fig7():
     ]
     
     # 检查数据中是否包含所有模型
-    if not all(model in data['Model'].values for model in model_order):
+    if not all(model in combined_data['Model'].values for model in model_order):
         print("Error: Not all models are present in the dataset!")
         return
     
     # 将数值从小数转为百分比
-    data[['Accuracy', 'Precision', 'Recall', 'F1-Score']] *= 100
+    combined_data[['Accuracy', 'Precision', 'Recall', 'F1-Score']] *= 100
 
     # 整理数据格式
-    melted_data = data.melt(id_vars='Model', 
-                            value_vars=['Accuracy', 'Precision', 'Recall', 'F1-Score'],
-                            var_name='Metric', value_name='Value')
+    melted_data = combined_data.melt(id_vars='Model', 
+                                     value_vars=['Accuracy', 'Precision', 'Recall', 'F1-Score'],
+                                     var_name='Metric', value_name='Value')
 
     # 设置模型的顺序
     melted_data['Model'] = pd.Categorical(melted_data['Model'], categories=model_order, ordered=True)
     melted_data = melted_data.sort_values('Model')
 
+    # 计算每个模型和指标的平均值和标准差
+    summary_data = melted_data.groupby(['Model', 'Metric']).agg(
+        Mean=('Value', 'mean'),
+        Std=('Value', 'std')
+    ).reset_index()
+    summary_data['CI'] = summary_data.apply(
+        lambda row: stats.t.interval(0.95, df=len(melted_data[melted_data['Model'] == row['Model']]) - 1, 
+                                    loc=row['Mean'], 
+                                    scale=row['Std'] / np.sqrt(len(melted_data[melted_data['Model'] == row['Model']])))
+        if len(melted_data[melted_data['Model'] == row['Model']]) > 1 else (row['Mean'], row['Mean']), axis=1)
+
+    # 计算误差棒（上限 - 均值）
+    summary_data['CI_err'] = summary_data['CI'].apply(lambda ci: ci[1] - ci[0])
     # 创建柱状图，调整宽度和间距
     plt.figure(figsize=(7, 5))
 
     # 计算柱子的位置，设置间隔
     bar_width = 0.18  # 增大柱子的宽度
-    models = melted_data['Model'].unique()
+    models = summary_data['Model'].unique()
     
     # 确保模型数量是 10
     if len(models) != 10:
@@ -103,29 +122,28 @@ def fig7():
 
     # 绘制柱状图
     for i, metric in enumerate(['Accuracy', 'Precision', 'Recall', 'F1-Score']):
-        subset = melted_data[melted_data['Metric'] == metric]
+        subset = summary_data[summary_data['Metric'] == metric]
 
-        # 确保 subset['Value'] 的长度与 x_indices 匹配
         if len(subset) != len(x_indices):
             print(f"Error: Mismatch between number of models ({len(x_indices)}) and data for {metric} ({len(subset)})")
             return
 
-        # 绘制每个指标的柱状图
-        plt.bar(x_indices + offset[i], subset['Value'], width=bar_width, label=metric, color=palette[i], zorder=2)
+        plt.bar(x_indices + offset[i], subset['Mean'], width=bar_width, label=metric, color=palette[i], zorder=2)
 
-    # 设置 y 轴范围为 85-100
+    # 设置 y 轴范围为 80-100
     plt.ylim(85, 100)
 
     # 添加标题和标签
     plt.xlabel('')
-    plt.ylabel('Value (%)')
+    plt.ylabel('Mean Value (%)')
     plt.xticks(x_indices, models, rotation=45)  # 设置 x 轴标签
 
     # 设置 y 轴的刻度标签，每隔 2.5 增加一个刻度
-    plt.yticks([i * 2.5 for i in range(34, 41)])  # 85 到 100 的刻度
+    plt.yticks([85 + i * 2.5 for i in range(7)])  # 85 到 100 的刻度
+
 
     # 添加网格线和坐标轴，设置更高的 zorder 和透明度
-    plt.grid(axis='both', linestyle='-', alpha=0.2, zorder=3)  # 将网格线的 zorder 设置为 3
+    plt.grid(axis='both', linestyle='-', alpha=0.2, zorder=1)  # 将网格线的 zorder 设置为 1
 
     # 将 x 和 y 坐标轴设置为 zorder 更高，使其覆盖在柱子上
     plt.gca().spines['left'].set_zorder(4)
@@ -133,9 +151,9 @@ def fig7():
 
     # 在每个指标的最大值上绘制红色五角星
     for i, metric in enumerate(['Accuracy', 'Precision', 'Recall', 'F1-Score']):
-        metric_data = melted_data[melted_data['Metric'] == metric]
-        max_value = metric_data['Value'].max()
-        max_row = metric_data[metric_data['Value'] == max_value]
+        metric_data = summary_data[summary_data['Metric'] == metric]
+        max_value = metric_data['Mean'].max()
+        max_row = metric_data[metric_data['Mean'] == max_value]
 
         # 获取当前指标的最大值的 x 坐标
         for idx, row in max_row.iterrows():
@@ -148,7 +166,7 @@ def fig7():
             ax = plt.gca()  # 获取当前轴
             
             # 绘制五角星
-            ax.plot(bar_x, max_value + 0.42, '*', color='black', markersize=6, zorder=5)
+            ax.plot(bar_x, max_value + 0.6, '*', color='black', markersize=6, zorder=5)
 
     # 设置图例位置和格式
     plt.legend(title='', bbox_to_anchor=(0.5, 1.2), loc='upper center', ncol=4)
@@ -159,7 +177,7 @@ def fig7():
 
     # 保存图形，设置 DPI 为 300
     plt.tight_layout()
-    plt.savefig(r'fig/Fig7.png', dpi=300, bbox_inches='tight')  # 保存为 PNG 文件
+    plt.savefig('./fig/Fig7.png', dpi=300, bbox_inches='tight')  # 保存为 PNG 文件
     plt.show()
 
 

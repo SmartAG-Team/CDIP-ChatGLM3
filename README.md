@@ -1,4 +1,4 @@
-# CDIP-ChatGLM3: A Streamlined Model for Precise Crop Disease Identification and Prescription
+# CDIP-ChatGLM3: A Dual-Model Approach Integrating  Computer Vision and Language Modeling for Crop Disease  Identification and Prescription
 
 ![logo](./fig/logo.png)
 
@@ -45,26 +45,38 @@ If you plan to create the instruction-following dataset yourself, you need to cr
 3. For GPT Model
    - Add `OpenAI_API_KEY` and `OpenAI_API_base_url`.
 
+If you plan to use a multimodal model, you also need to add the following configuration:
+
+1. For DeepSeek Model, we use a third-party [SiliconFlow](https://siliconflow.cn/zh-cn/) API to request the DeepSeek-VL2 model.
+   - Add `Deepseek_API_Key`  and `Deepseek_API_base_url`.
+2. For GLM Model
+   - Add `GLM_API_Key`.
+3. For InternVL Model, we use a third-party [giteeAI](https://ai.gitee.com/) API to request the InternVL2.5 model.
+   - Add `InternVL_API_Key` and `InternVL_API_base_url`.
+4. For Llama-3.2-11B-Vision-Instruct, MiniCPM-V-2.6, and LLaVA-v1.6-7B models, we are using the open source framework ollama to build them locally. Please visit the [ollama website](https://ollama.com) to download these models for local invocation.
+
 ## Model
 
 ### CV Models
 
 The metrics and resource links for the CV model we trained:
 
-All pretrained and trained model link：[All cv models](https://pan.baidu.com/s/1aCelW_Jf83OradM24sVecA?pwd=ssw6 ) 
+All pretrained and one of our trained models link：[CV models](https://pan.baidu.com/s/1aCelW_Jf83OradM24sVecA?pwd=ssw6 ) 
 
-| Model                 | Accuracy | Precision | Recall | F1-Score | Params (M) | FPS    | Latency (ms) | Pretrained model source                                      | Trained model soucrce                                        |
-| --------------------- | -------- | --------- | ------ | -------- | ---------- | ------ | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| EfficientNet-B0       | 97.88%   | 96.81%    | 97.22% | 97.00%   | 4.09       | 227.29 | 4.4          | [efficientnetb0.pth](https://pan.baidu.com/s/1xfkebnTcxqlfKfDsDQMGIQ?pwd=vp1r ) | [efficientnetb0.pth](https://pan.baidu.com/s/1YtHDJNv_KCQb0yLV9Ye9pQ?pwd=ktt2) |
-| EfficientNet-B1       | 97.86%   | 96.68%    | 96.90% | 96.74%   | 6.59       | 141.61 | 7.06         | [efficientnetb1.pth](https://pan.baidu.com/s/17vahH7sfBavx1LalnLxp2g?pwd=qvos ) | [efficientnetb1.pth](https://pan.baidu.com/s/1okKbkIgD-lKK_t4KxrzN6w?pwd=5ti5) |
-| EfficientNet-B2       | 98.04%   | 97.01%    | 97.35% | 97.17%   | 7.79       | 146.22 | 6.84         | [efficientnetb2.pth](https://pan.baidu.com/s/1kkBeaH695q20sNIXAEy44g?pwd=32ip) | [efficientnetb2.pth](https://pan.baidu.com/s/1CJYC9XNDWVHg5k02iFPrVA?pwd=tj70) |
-| EfficientNetV2-S      | 86.84%   | 88.56%    | 86.84% | 86.78%   | 20.26      | 104.17 | 9.6          | [pre_efficientnetv2-s.pth](https://pan.baidu.com/s/1ea7iSXEyDtpP7Ae5eulyrg?pwd=fn77) | [efficientnetv2s.pth](https://pan.baidu.com/s/11aEVqQtt-qvAp3ebuVj6eQ?pwd=p6nq) |
-| FasterNet-T0          | 97.14%   | 95.99%    | 95.57% | 95.64%   | 2.7        | 388.47 | 2.57         | [fasternet_t0.pth](https://pan.baidu.com/s/1_mCz89djzGmYUyzq9xGLAw?pwd=txm8) | [fasternett0.pth](https://pan.baidu.com/s/1ejkmvmAXlr_mlMY719FcpQ?pwd=gx3g) |
-| FasterNet-T1          | 97.40%   | 96.45%    | 95.78% | 95.95%   | 6.39       | 348.38 | 2.87         | [fasternet_t1.pth](https://pan.baidu.com/s/1i64AKVZRFJdg381AvB16pg?pwd=t8w9) | [fasternett1.pth](https://pan.baidu.com/s/1j4Mb-5PESKwChnbrj_z9AA?pwd=xoj6) |
-| MobileNetV3-Small     | 95.24%   | 95.23%    | 93.55% | 94.04%   | 1.58       | 273.42 | 3.66         | [mobilenet_v3.pth](https://pan.baidu.com/s/1nlUmOFWFEd0OD0BQTfKc1g?pwd=q1wq) | [mobilenet.pth](https://pan.baidu.com/s/1HI3h97JZMRx65NtDulBeaA?pwd=41jz) |
-| ResNet-34             | 95.65%   | 93.95%    | 93.56% | 93.22%   | 21.32      | 354.38 | 2.82         | [resnet34-pre.pth](https://pan.baidu.com/s/1Ruj_HyFCuM9YiSF56daCWw?pwd=ml6s) | [resnet32.pth](https://pan.baidu.com/s/1-WTE3YQdqueILxiUu56fZQ?pwd=gtky ) |
-| ResNet-50             | 95.42%   | 93.63%    | 93.48% | 92.98%   | 23.63      | 265.75 | 3.76         | [resnet50-pre.pth](https://pan.baidu.com/s/15vEomtAJWu1JBaMk0YX7GQ?pwd=mm6e) | [resnet50.pth](https://pan.baidu.com/s/1Z-F9ppa3-gv3Y0oekvOLGw?pwd=0egv) |
-| Swin-transformer-Tiny | 95.77%   | 94.85%    | 93.69% | 93.77%   | 27.57      | 97.81  | 10.22        | [swin_tiny_patch4.pth](https://pan.baidu.com/s/1-hrBCnrN9TaPMy1i8-pxJQ?pwd=zb2x) | [swin-transformer.pth](https://pan.baidu.com/s/1T7HTz7dj-PquMF9EtUTtGQ?pwd=5r81) |
+Below are the test results of ten vision models, along with their corresponding 95% confidence intervals (CIs).
+
+| Model                 | Acc(%)     | Pre(%)     | Recall(%)  | F1(%)      | Params (M) | Pretrained model source                                      | Trained model source                                         |
+| --------------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| EfficientNet-B0       | 97.18±1.54 | 95.87±2.09 | 95.79±3.12 | 95.64±3.04 | 4.09       | [efficientnetb0.pth](https://pan.baidu.com/s/1xfkebnTcxqlfKfDsDQMGIQ?pwd=vp1r ) | [efficientnetb0.pth](https://pan.baidu.com/s/1YtHDJNv_KCQb0yLV9Ye9pQ?pwd=ktt2) |
+| EfficientNet-B1       | 97.13±1.75 | 96.15±1.13 | 95.32±4.12 | 95.49±3.21 | 6.59       | [efficientnetb1.pth](https://pan.baidu.com/s/17vahH7sfBavx1LalnLxp2g?pwd=qvos ) | [efficientnetb1.pth](https://pan.baidu.com/s/1okKbkIgD-lKK_t4KxrzN6w?pwd=5ti5) |
+| EfficientNet-B2       | 97.97±0.16 | 97.18±0.59 | 97.17±0.46 | 97.12±0.10 | 7.79       | [efficientnetb2.pth](https://pan.baidu.com/s/1kkBeaH695q20sNIXAEy44g?pwd=32ip) | [efficientnetb2.pth](https://pan.baidu.com/s/1CJYC9XNDWVHg5k02iFPrVA?pwd=tj70) |
+| EfficientNetV2-S      | 88.70±4.07 | 90.05±3.28 | 88.70±4.07 | 88.52±3.86 | 20.26      | [pre_efficientnetv2-s.pth](https://pan.baidu.com/s/1ea7iSXEyDtpP7Ae5eulyrg?pwd=fn77) | [efficientnetv2s.pth](https://pan.baidu.com/s/11aEVqQtt-qvAp3ebuVj6eQ?pwd=p6nq) |
+| FasterNet-T0          | 97.58±0.94 | 96.61±1.34 | 96.17±1.28 | 96.26±1.33 | 2.7        | [fasternet_t0.pth](https://pan.baidu.com/s/1_mCz89djzGmYUyzq9xGLAw?pwd=txm8) | [fasternett0.pth](https://pan.baidu.com/s/1ejkmvmAXlr_mlMY719FcpQ?pwd=gx3g) |
+| FasterNet-T1          | 97.35±1.57 | 96.26±2.38 | 95.67±2.42 | 95.74±2.67 | 6.39       | [fasternet_t1.pth](https://pan.baidu.com/s/1i64AKVZRFJdg381AvB16pg?pwd=t8w9) | [fasternett1.pth](https://pan.baidu.com/s/1j4Mb-5PESKwChnbrj_z9AA?pwd=xoj6) |
+| MobileNetV3-Small     | 95.65±0.92 | 95.59±0.97 | 93.82±0.98 | 94.30±0.91 | 1.58       | [mobilenet_v3.pth](https://pan.baidu.com/s/1nlUmOFWFEd0OD0BQTfKc1g?pwd=q1wq) | [mobilenet.pth](https://pan.baidu.com/s/1HI3h97JZMRx65NtDulBeaA?pwd=41jz) |
+| ResNet-34             | 96.35±3.10 | 95.34±3.48 | 95.20±4.15 | 95.01±4.42 | 21.32      | [resnet34-pre.pth](https://pan.baidu.com/s/1Ruj_HyFCuM9YiSF56daCWw?pwd=ml6s) | [resnet32.pth](https://pan.baidu.com/s/1-WTE3YQdqueILxiUu56fZQ?pwd=gtky ) |
+| ResNet-50             | 96.52±3.51 | 95.19±4.51 | 95.33±4.73 | 95.00±5.29 | 23.63      | [resnet50-pre.pth](https://pan.baidu.com/s/15vEomtAJWu1JBaMk0YX7GQ?pwd=mm6e) | [resnet50.pth](https://pan.baidu.com/s/1Z-F9ppa3-gv3Y0oekvOLGw?pwd=0egv) |
+| Swin-transformer-Tiny | 97.21±3.11 | 96.52±3.59 | 95.59±4.15 | 95.78±4.36 | 27.57      | [swin_tiny_patch4.pth](https://pan.baidu.com/s/1-hrBCnrN9TaPMy1i8-pxJQ?pwd=zb2x) | [swin-transformer.pth](https://pan.baidu.com/s/1T7HTz7dj-PquMF9EtUTtGQ?pwd=5r81) |
 
 ### LLM Models
 
@@ -166,6 +178,18 @@ Alternatively, you can create the dataset as follows:
   python ./src/LLM/Specialized-Abilities-Test/Dateset-create/Generate-Specialised-Abilities-Test-Dataset.py
   ```
 
+### Image Understanding Test Dataset
+
+To evaluate the visual classification and comprehension capabilities of our dual-stage model and common multimodal models on disease images, we have constructed an image understanding test dataset. This dataset is built by extracting 10 images from each category of the CV dataset.
+
+You can download the dataset directly from this [link](https://pan.baidu.com/s/1yvaJO364zmgpbx5pjGmezw?pwd=jm5e):
+
+Alternatively, you can extract and build the dataset from the CV dataset by running the following command:
+
+```
+python ./src/LLM/Image-Understanding-Test/VLM-Image-Understanding-Test/Dateset-create/Dataset_extraction.py
+```
+
 ## Training
 
 ### CV Training
@@ -250,8 +274,6 @@ Replace `{model}` with the specific model you are testing. Available options are
 - `resnet/34`
 - `resnet/50`
 - `swin-transformer`
-
-The test results will be saved in the file `./data/CV/CV_Metric/CV_results.csv`.
 
 #### **Disease Identification Accuracy**
 
@@ -391,11 +413,41 @@ python ./src/LLM/Specialized-Abilities-Test/Specialized-Abilities-Test-Metric.py
 
 This will update the metrics in `./data/LLM/LLM_Metric/Specialized-Abilities-Test-Metric/Specialized-Abilities-Test-Metric.csv`.
 
+### Image Understanding Test
+
+#### Vison Test
+
+Our Image Understanding Test visual results are stored in `./data/CV/CV_Metric/VLM-Test-Metric`.
+
+Alternatively, you can re-evaluate the image understanding capabilities of the multimodal models by running the following command:
+
+```
+python ./src/LLM/Image-Understanding-Test/VLM-Image-Understanding-Test/{model}.py
+```
+
+Replace `{model}` with the specific model you are testing. Available options are:
+
+- `deepseekvl2`
+- `glm4v-plus-0111`
+- `InternVL2.5`
+- `llama3.2-vision-11b`
+- `llava1.6-7b`
+- `minicpm-v-8b`
+- `Qwen2.5-VL-72B`
+
+#### LLM Test
+
+The test results of the multimodal models on the Specialized-Abilities-Test-Dataset are saved in `./data/LLM/LLM_Metric/Specialized-Abilities-VLM-Test-Metric`
+
+To re-evaluate, please refer to the files under the `./src/LLM/Image-Understanding-Test/VLM-LLM-Response`
+
 ### Figs Generation
 
 After collecting the following six data files
 
-- `./data/CV/CV_Metric/CV_results.csv`
+- `./data/CV/CV_Metric/CV_results_1.csv`
+- `./data/CV/CV_Metric/CV_results_2.csv`
+- `./data/CV/CV_Metric/CV_results_3.csv`
 - `./data/CV/CV_Metric/CV_confusion_matrix.csv`
 - `./data/LLM/LLM_Metric/CMMLU-Metric/CMMLU_Metric.csv`
 - `./data/LLM/LLM_Metric/Error-rate-Metric/Error-rate-Metric-token.csv`

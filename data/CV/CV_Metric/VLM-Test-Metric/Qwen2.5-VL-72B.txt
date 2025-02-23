@@ -1,0 +1,675 @@
+Apple alternaria boltch/001287.jpg --> Predicted: Apple brown spot | Correct: False
+Apple alternaria boltch/001573.jpg --> Predicted: Apple brown spot | Correct: False
+Apple alternaria boltch/001768.jpg --> Predicted: Apple powdery mildew | Correct: False
+Apple alternaria boltch/002067.jpg --> Predicted: Apple alternaria boltch | Correct: True
+Apple alternaria boltch/002652.jpg --> Predicted: Apple brown spot | Correct: False
+Apple alternaria boltch/002782.jpg --> Predicted: Apple brown spot | Correct: False
+Apple alternaria boltch/002795.jpg --> Predicted: Apple healthy | Correct: False
+Apple alternaria boltch/004394.jpg --> Predicted: Apple alternaria boltch | Correct: True
+Apple alternaria boltch/004537.jpg --> Predicted: Apple brown spot | Correct: False
+Apple alternaria boltch/005317.jpg --> Predicted: Apple brown spot | Correct: False
+Apple black rot/04e74a0c-bda4-4e06-aeab-ec24b1007994___JR_FrgE.S 8782_new30degFlipLR.JPG --> Predicted: Apple brown spot | Correct: False
+Apple black rot/05fd8037-fd27-4d26-9e5d-9a47856ab134___JR_FrgE.S 8770_new30degFlipLR.JPG --> Predicted: Apple brown spot | Correct: False
+Apple black rot/0e84adc9-3e97-48e2-b1fd-7d04f9e92cb0___JR_FrgE.S 2949.JPG --> Predicted: Cherry powdery mildew | Correct: False
+Apple black rot/1a9f6dfb-fdf4-43b4-9fb4-b7a809b49b9d___JR_FrgE.S 2765.JPG --> Predicted: Apple brown spot | Correct: False
+Apple black rot/1aa28af5-8270-467c-b496-ff415f0b58df___JR_FrgE.S 3010.JPG --> Predicted: Apple brown spot | Correct: False
+Apple black rot/1bb4d1d5-ca06-49b6-8f89-ed0d6c1d68af___JR_FrgE.S 8777_new30degFlipLR.JPG --> Predicted: Apple brown spot | Correct: False
+Apple black rot/1cf5102a-468b-4410-80bf-af6aeadc780c___JR_FrgE.S 2924_270deg.JPG --> Predicted: Apple brown spot | Correct: False
+Apple black rot/3b364e42-9120-4ece-b0ea-2c39ce883cbb___JR_FrgE.S 2774_new30degFlipLR.JPG --> Predicted: Cherry healthy | Correct: False
+Apple black rot/4b5683c4-ef68-4439-b346-f76ea2c651da___JR_FrgE.S 8639_new30degFlipLR.JPG --> Predicted: Cherry healthy | Correct: False
+Apple black rot/4f71c078-e0f6-4b05-a421-1b644f0e99a1___JR_FrgE.S 3016.JPG --> Predicted: Apple brown spot | Correct: False
+Apple brown spot/007389.jpg --> Predicted: Apple brown spot | Correct: True
+Apple brown spot/007482.jpg --> Predicted: Apple alternaria boltch | Correct: False
+Apple brown spot/007545.jpg --> Predicted: Apple alternaria boltch | Correct: False
+Apple brown spot/007698.jpg --> Predicted: Apple alternaria boltch | Correct: False
+Apple brown spot/008052.jpg --> Predicted: Apple brown spot | Correct: True
+Apple brown spot/008697.jpg --> Predicted: Apple black rot | Correct: False
+Apple brown spot/009524.jpg --> Predicted: Apple alternaria boltch | Correct: False
+Apple brown spot/010381.jpg --> Predicted: Apple alternaria boltch | Correct: False
+Apple brown spot/010674.jpg --> Predicted: Apple alternaria boltch | Correct: False
+Apple brown spot/010965.jpg --> Predicted: Apple brown spot | Correct: True
+Apple grey spot/016159.jpg --> Predicted: Apple powdery mildew | Correct: False
+Apple grey spot/016211.jpg --> Predicted: Apple alternaria boltch | Correct: False
+Apple grey spot/017758.jpg --> Predicted: Apple alternaria boltch | Correct: False
+Apple grey spot/018070.jpg --> Predicted: Apple alternaria boltch | Correct: False
+Apple grey spot/018109.jpg --> Predicted: Apple brown spot | Correct: False
+Apple grey spot/018434.jpg --> Predicted: Apple healthy | Correct: False
+Apple grey spot/018811.jpg --> Predicted: Apple brown spot | Correct: False
+Apple grey spot/020137.jpg --> Predicted: Apple alternaria boltch | Correct: False
+Apple grey spot/020319.jpg --> Predicted: Apple healthy | Correct: False
+Apple grey spot/020540.jpg --> Predicted: Apple brown spot | Correct: False
+Apple healthy/324263bcf4424725873ed19ec0230574.jpg --> Predicted: Grape heathy | Correct: False
+Apple healthy/468c07f3-8ac1-4b0f-8e10-f97a7b41f4f9___RS_HL 7661.JPG --> Predicted: Apple healthy | Correct: True
+Apple healthy/5857071f-208a-40a0-85f2-6bc9f5a98fea___RS_HL 6026.JPG --> Predicted: Apple healthy | Correct: True
+Apple healthy/9cfb97eb-0e0a-4e55-b25d-d6121ceded58___RS_HL 6146.JPG --> Predicted: Cherry healthy | Correct: False
+Apple healthy/Test_1028.jpg --> Predicted: Apple healthy | Correct: True
+Apple healthy/Test_758.jpg --> Predicted: Cherry healthy | Correct: False
+Apple healthy/Train_1424.jpg --> Predicted: Apple healthy | Correct: True
+Apple healthy/Train_1776.jpg --> Predicted: Cherry healthy | Correct: False
+Apple healthy/Train_366.jpg --> Predicted: Cherry healthy | Correct: False
+Apple healthy/Train_776.jpg --> Predicted: Apple healthy | Correct: True
+Apple mosaic virus/013729.jpg --> Predicted: Apple alternaria boltch | Correct: False
+Apple mosaic virus/013768.jpg --> Predicted: Apple powdery mildew | Correct: False
+Apple mosaic virus/014028.jpg --> Predicted: Apple alternaria boltch | Correct: False
+Apple mosaic virus/014248.jpg --> Predicted: Apple brown spot | Correct: False
+Apple mosaic virus/014326.jpg --> Predicted: Apple mosaic virus | Correct: True
+Apple mosaic virus/014651.jpg --> Predicted: Apple alternaria boltch | Correct: False
+Apple mosaic virus/014911.jpg --> Predicted: Apple powdery mildew | Correct: False
+Apple mosaic virus/014924.jpg --> Predicted: Apple powdery mildew | Correct: False
+Apple mosaic virus/015002.jpg --> Predicted: Apple powdery mildew | Correct: False
+Apple mosaic virus/015821.jpg --> Predicted: Apple mosaic virus | Correct: True
+Apple powdery mildew/831a34829dce73f3.jpg --> Predicted: Apple powdery mildew | Correct: True
+Apple powdery mildew/85f562b5613a317c.jpg --> Predicted: Apple powdery mildew | Correct: True
+Apple powdery mildew/93831b7db531c0e5.jpg --> Predicted: Apple powdery mildew | Correct: True
+Apple powdery mildew/9b6a318cc5721d73.jpg --> Predicted: Apple powdery mildew | Correct: True
+Apple powdery mildew/bae44a17ce0438bf.jpg --> Predicted: Apple healthy | Correct: False
+Apple powdery mildew/c0d193afd90bca1e.jpg --> Predicted: Apple powdery mildew | Correct: True
+Apple powdery mildew/cdc13091db39ce39.jpg --> Predicted: Apple powdery mildew | Correct: True
+Apple powdery mildew/f016ace0f9d910f9.jpg --> Predicted: Apple powdery mildew | Correct: True
+Apple powdery mildew/f3cc9379c98b8a03.jpg --> Predicted: Apple powdery mildew | Correct: True
+Apple powdery mildew/fc070f831ef0653c.jpg --> Predicted: Tomato healthy | Correct: False
+Apple rust/022683.jpg --> Predicted: Apple alternaria boltch | Correct: False
+Apple rust/022759.jpg --> Predicted: Apple black rot | Correct: False
+Apple rust/023443.jpg --> Predicted: Apple brown spot | Correct: False
+Apple rust/024992.jpg --> Predicted: Apple black rot | Correct: False
+Apple rust/025075.jpg --> Predicted: Grape black rot | Correct: False
+Apple rust/1a67f47d-d35d-4c47-a336-af8ec6141113___FREC_C.Rust 4404.JPG --> Predicted: Apple brown spot | Correct: False
+Apple rust/Test_1535.jpg --> Predicted: Apple brown spot | Correct: False
+Apple rust/Test_997.jpg --> Predicted: Apple brown spot | Correct: False
+Apple rust/Train_1332.jpg --> Predicted: Apple brown spot | Correct: False
+Apple rust/Train_98.jpg --> Predicted: Apple rust | Correct: True
+Cherry healthy/09a7a44966ff8abcd2c17a3215f9b45a.jpg --> Predicted: Tomato healthy | Correct: False
+Cherry healthy/0fc5691a43584794a59a08852acdb634.jpg --> Predicted: Cherry healthy | Correct: True
+Cherry healthy/18dd1c4b-ea49-49b7-9334-ad61763babd4___JR_HL 4297_flipTB.JPG --> Predicted: Apple healthy | Correct: False
+Cherry healthy/344ccdfc-3269-4b18-aeb8-a57fbd8b5de3___JR_HL 9541_flipTB.JPG --> Predicted: Cherry healthy | Correct: True
+Cherry healthy/41f5385e-d509-4178-80f2-730cb5ec4871___JR_HL 9552_180deg.JPG --> Predicted: Citrus healthy | Correct: False
+Cherry healthy/53e48eeb-608e-4660-9297-a5ff6f193e48___JR_HL 9792_flipTB.JPG --> Predicted: Soybean healthy | Correct: False
+Cherry healthy/92f51e03-8792-42ea-a709-0b6fb115e1be___JR_HL 9807_180deg.JPG --> Predicted: Cherry healthy | Correct: True
+Cherry healthy/d259c188-0c17-4199-aac1-5399903f74a3___JR_HL 4100_180deg.JPG --> Predicted: Cherry healthy | Correct: True
+Cherry healthy/d488e8a6-948b-4805-9852-1a1825890e04___JR_HL 9554.JPG --> Predicted: Cherry healthy | Correct: True
+Cherry healthy/eaf17e05-c2b7-4017-8553-1b11f0ba3941___JR_HL 4226.JPG --> Predicted: Cherry healthy | Correct: True
+Cherry powdery mildew/053340db-a887-46bf-99d3-367b8175efd3___FREC_Pwd.M 4938.JPG --> Predicted: Grape powdery mildew | Correct: False
+Cherry powdery mildew/3947085c-910c-4251-bd9f-90c25fddcb3a___FREC_Pwd.M 0576.JPG --> Predicted: Apple brown spot | Correct: False
+Cherry powdery mildew/59ba7560-f218-44c0-bf46-2019757ec591___FREC_Pwd.M 4923.JPG --> Predicted: Apple powdery mildew | Correct: False
+Cherry powdery mildew/6144ff3e-3899-4577-b9a8-cb342a106afb___FREC_Pwd.M 4980.JPG --> Predicted: Grape powdery mildew | Correct: False
+Cherry powdery mildew/7e4fa114-22d5-45b5-8ebf-5981ede12875___FREC_Pwd.M 5045.JPG --> Predicted: Tomato mosaic virus | Correct: False
+Cherry powdery mildew/a84e8ae1-cd86-43a2-b014-86ed8fbc0ad6___FREC_Pwd.M 5136.JPG --> Predicted: Apple powdery mildew | Correct: False
+Cherry powdery mildew/bec20378-8230-4b53-8dc4-942bc878a592___FREC_Pwd.M 4495.JPG --> Predicted: Apple healthy | Correct: False
+Cherry powdery mildew/dbc6fcd8-790e-47fd-816f-4113a1754166___FREC_Pwd.M 4809.JPG --> Predicted: Apple powdery mildew | Correct: False
+Cherry powdery mildew/e57a51c0-d0c0-46a1-a298-4c9cfd0337e2___FREC_Pwd.M 4778.JPG --> Predicted: Cherry healthy | Correct: False
+Cherry powdery mildew/e85d24e4-9a7b-42cb-95fe-d76ca9d86180___FREC_Pwd.M 4930.JPG --> Predicted: Grape powdery mildew | Correct: False
+Citrus healthy/IMG_20180623_181001(1).jpg --> Predicted: Citrus huanglongbing | Correct: False
+Citrus healthy/IMG_20180623_181151_1(1).jpg --> Predicted: Citrus healthy | Correct: True
+Citrus healthy/IMG_20180623_181151_1.jpg --> Predicted: Citrus healthy | Correct: True
+Citrus healthy/IMG_20180623_181254.jpg --> Predicted: Citrus huanglongbing | Correct: False
+Citrus healthy/IMG_20180623_181338_1(1).jpg --> Predicted: Citrus healthy | Correct: True
+Citrus healthy/IMG_20180623_181420(1).jpg --> Predicted: Citrus huanglongbing | Correct: False
+Citrus healthy/IMG_20180623_181444.jpg --> Predicted: Citrus healthy | Correct: True
+Citrus healthy/IMG_20180623_181758.jpg --> Predicted: Citrus huanglongbing | Correct: False
+Citrus healthy/IMG_20180623_181810.jpg --> Predicted: Citrus huanglongbing | Correct: False
+Citrus healthy/IMG_20180623_181934_1.jpg --> Predicted: Citrus healthy | Correct: True
+Citrus huanglongbing/2ef91c02-c7fb-4045-94ea-0f0772a9d525___CREC_HLB 5239.JPG --> Predicted: Citrus healthy | Correct: False
+Citrus huanglongbing/2f96d5fa46f10cecc8b86d60ea94448b.jpg --> Predicted: Citrus healthy | Correct: False
+Citrus huanglongbing/3731181f-6445-4c8b-ba6b-22823cc56947___CREC_HLB 7713.JPG --> Predicted: Apple healthy | Correct: False
+Citrus huanglongbing/3a8ae985f8a900554793c151403fad12.jpg --> Predicted: Citrus healthy | Correct: False
+Citrus huanglongbing/77175c6e-61c3-4f06-88cf-c68cc2f06a69___CREC_HLB 4303.JPG --> Predicted: Apple healthy | Correct: False
+Citrus huanglongbing/b69d7656-3ad0-44d3-98ec-c356297c4d58___CREC_HLB 6596.JPG --> Predicted: Citrus huanglongbing | Correct: True
+Citrus huanglongbing/ba68fa55-b46e-4326-900e-12693f7200e3___UF.Citrus_HLB_Lab 1031.JPG --> Predicted: Citrus healthy | Correct: False
+Citrus huanglongbing/cedc2e00a0830ba21b069ef543e2d4a4.jpg --> Predicted: Apple alternaria boltch | Correct: False
+Citrus huanglongbing/d781a3ce-86ef-4f8b-bf21-8a035b2791c3___UF.Citrus_HLB_Lab 9815.JPG --> Predicted: Apple healthy | Correct: False
+Citrus huanglongbing/f160e583-f8ed-4f0c-8379-92c04f62e40c___UF.Citrus_HLB_Lab 0287.JPG --> Predicted: Citrus huanglongbing | Correct: True
+Corn gray leaf spot/0c5973d2-b9e1-473c-a5d6-8e9854b918b9___RS_GLSp 9340_270deg.JPG --> Predicted: Corn northern leaf blight | Correct: False
+Corn gray leaf spot/3bc19f2c-2ab4-4a1c-bd0f-e0a322058b8b___RS_GLSp 4423_270deg.JPG --> Predicted: Corn northern leaf blight | Correct: False
+Corn gray leaf spot/42423e5e-790d-4839-a683-abb2d9dce89a___RS_GLSp 7296_270deg.JPG --> Predicted: Corn northern leaf blight | Correct: False
+Corn gray leaf spot/5dcd9141-4aaf-41c7-94a5-0af587f0a58c___RS_GLSp 4391.JPG --> Predicted: Soybean angular leaf spot | Correct: False
+Corn gray leaf spot/be07b9de-4629-49c1-bde7-e4c9b79c55ef___RS_GLSp 4495_new30degFlipLR.JPG --> Predicted: Apple brown spot | Correct: False
+Corn gray leaf spot/c15dae11-38d1-47c3-99e0-c579ddeb3fb3___RS_GLSp 9269_270deg.JPG --> Predicted: Corn northern leaf blight | Correct: False
+Corn gray leaf spot/d1f96a7c-c108-45a4-82f6-ffe84b0d081f___RS_GLSp 9304_90deg.JPG --> Predicted: Corn gray leaf spot | Correct: True
+Corn gray leaf spot/d58e8f58-8a71-4d49-a183-5026f861be1b___RS_GLSp 4563.JPG --> Predicted: Tomato early blight | Correct: False
+Corn gray leaf spot/da87ef8d-d7ac-409e-9482-a85173ed8922___RS_GLSp 4454_270deg.JPG --> Predicted: Corn northern leaf blight | Correct: False
+Corn gray leaf spot/ef36729c-29b1-4f29-b100-d2490a238842___RS_GLSp 4415_90deg.JPG --> Predicted: Corn northern leaf blight | Correct: False
+Corn healthy/20200610_065348.jpg --> Predicted: Corn healthy | Correct: True
+Corn healthy/20200612_104652(0).jpg --> Predicted: Corn healthy | Correct: True
+Corn healthy/20200612_104707.jpg --> Predicted: Corn healthy | Correct: True
+Corn healthy/20200724_082635.jpg --> Predicted: Corn healthy | Correct: True
+Corn healthy/20200727_084322.jpg --> Predicted: Corn healthy | Correct: True
+Corn healthy/20200727_091959.jpg --> Predicted: Corn healthy | Correct: True
+Corn healthy/20200727_093313.jpg --> Predicted: Corn healthy | Correct: True
+Corn healthy/20200727_094402(0).jpg --> Predicted: Corn healthy | Correct: True
+Corn healthy/20200727_094807.jpg --> Predicted: Corn healthy | Correct: True
+Corn healthy/20200727_095036.jpg --> Predicted: Corn healthy | Correct: True
+Corn northern leaf blight/1a6b22db-27fe-4c78-b014-64f1879976dc___RS_NLB 4062 copy.jpg --> Predicted: Corn northern leaf blight | Correct: True
+Corn northern leaf blight/34c5e998-0704-44f3-9427-f49687dab175___RS_NLB  4508 copy 2_flipTB.jpg --> Predicted: Corn gray leaf spot | Correct: False
+Corn northern leaf blight/79d78748-a6b6-489f-813d-5bceb0e9988b___RS_NLB 3666_flipTB.JPG --> Predicted: Apple brown spot | Correct: False
+Corn northern leaf blight/7d55a6f5-5101-4103-b34c-5e3d764d2757___RS_NLB 3592.JPG --> Predicted: Corn gray leaf spot | Correct: False
+Corn northern leaf blight/a523ac3f-ae53-4da7-a3e1-7cce38714f75___RS_NLB 3812_180deg.JPG --> Predicted: Corn northern leaf blight | Correct: True
+Corn northern leaf blight/aba00298-7a74-47e3-a5b3-9dc6db347265___RS_NLB 3591_flipTB.JPG --> Predicted: Corn northern leaf blight | Correct: True
+Corn northern leaf blight/c3b2b118-3ee2-46cf-8c21-4d93523f4ccb___RS_NLB 3671_flipTB.JPG --> Predicted: Corn northern leaf blight | Correct: True
+Corn northern leaf blight/c7d6c84a-13a2-447d-a8db-58054f9bae0e___RS_NLB 3962.JPG --> Predicted: Corn northern leaf blight | Correct: True
+Corn northern leaf blight/d36dfeef-82b0-4bfc-b202-0abe50242a21___RS_NLB 3928_180deg.JPG --> Predicted: Corn northern leaf blight | Correct: True
+Corn northern leaf blight/d5ecb0c7-cdd5-46f4-bced-94f35423a245___RS_NLB 4194_180deg.JPG --> Predicted: Corn northern leaf blight | Correct: True
+Corn rust/RS_Rust 1671.JPG --> Predicted: Apple alternaria boltch | Correct: False
+Corn rust/RS_Rust 1721.JPG --> Predicted: Grape black rot | Correct: False
+Corn rust/RS_Rust 1773_flipLR.JPG --> Predicted: Grape powdery mildew | Correct: False
+Corn rust/RS_Rust 1914_flipLR.JPG --> Predicted: Corn northern leaf blight | Correct: False
+Corn rust/RS_Rust 1972_flipLR.JPG --> Predicted: Grape black rot | Correct: False
+Corn rust/RS_Rust 2048_flipLR.JPG --> Predicted: Apple brown spot | Correct: False
+Corn rust/RS_Rust 2050.JPG --> Predicted: Apple brown spot | Correct: False
+Corn rust/RS_Rust 2254.JPG --> Predicted: Apple alternaria boltch | Correct: False
+Corn rust/RS_Rust 2403.JPG --> Predicted: Rice brown spot | Correct: False
+Corn rust/RS_Rust 2528_flipLR.JPG --> Predicted: Apple brown spot | Correct: False
+Grape black measles/1ab73b8a-ab8f-499b-a38a-ba59c21f8802___FAM_B.Msls 3871.JPG --> Predicted: Grape black rot | Correct: False
+Grape black measles/1f63e823-9232-43bd-8e06-70db7d8bb468___FAM_B.Msls 1166.JPG --> Predicted: Grape black rot | Correct: False
+Grape black measles/613a1888-69c1-4f3a-82fa-ace896ecae1c___FAM_B.Msls 1211.JPG --> Predicted: Grape black rot | Correct: False
+Grape black measles/923dc9f8-a74e-4540-b52c-ec53bdbad7d9___FAM_B.Msls 0978.JPG --> Predicted: Grape black rot | Correct: False
+Grape black measles/b426f12a-0969-4e1d-ab1a-59224ef28b17___FAM_B.Msls 1750.JPG --> Predicted: Grape black rot | Correct: False
+Grape black measles/dce37f12-02c9-4bbd-a140-3410df07724b___FAM_B.Msls 1354.JPG --> Predicted: Grape powdery mildew | Correct: False
+Grape black measles/esca_140_cam1.jpg --> Predicted: Grape powdery mildew | Correct: False
+Grape black measles/esca_207_cam2.jpg --> Predicted: Grape black measles | Correct: True
+Grape black measles/esca_437_cam1.jpg --> Predicted: Grape black measles | Correct: True
+Grape black measles/esca_495_cam1.jpg --> Predicted: Grape heathy | Correct: False
+Grape black rot/168249fa-71cb-4da7-b1c7-8c14605159ac___FAM_B.Rot 0504_flipLR.JPG --> Predicted: Grape black rot | Correct: True
+Grape black rot/1c2b4d6c-dc3d-4913-b98f-2da54c4f6614___FAM_B.Rot 3602.JPG --> Predicted: Grape black rot | Correct: True
+Grape black rot/204c54ed-d895-4fb5-a2ba-4164ea1b19d3___FAM_B.Rot 3163.JPG --> Predicted: Grape black rot | Correct: True
+Grape black rot/21008a79-e393-498c-b9f8-7c579b911b3e___FAM_B.Rot 0661.JPG --> Predicted: Grape black rot | Correct: True
+Grape black rot/3588f6c1-e117-4f85-b9e5-b2082d6dcf52___FAM_B.Rot 3419.JPG --> Predicted: Grape black rot | Correct: True
+Grape black rot/70121004-1287-4ebb-89f0-fb15219eec96___FAM_B.Rot 0490.JPG --> Predicted: Grape black rot | Correct: True
+Grape black rot/9d4dc3fb-dc73-48be-8f60-2de399dc3df5___FAM_B.Rot 3441.JPG --> Predicted: Grape heathy | Correct: False
+Grape black rot/9ea48ca6-ee2e-4c24-97af-5c6a0054f252___FAM_B.Rot 3154.JPG --> Predicted: Grape black rot | Correct: True
+Grape black rot/eb651328-cf60-4e40-b61d-0a624cdc21aa___FAM_B.Rot 0366.JPG --> Predicted: Grape black rot | Correct: True
+Grape black rot/ec735567-6db2-4d2e-ab35-d416a6ff0f25___FAM_B.Rot 3183.JPG --> Predicted: Grape black rot | Correct: True
+Grape downy mildew/20240503都安-不打-5 (18).jpg --> Predicted: Grape powdery mildew | Correct: False
+Grape downy mildew/20240503都安-通知-3 (24)_20240511_182648.jpg --> Predicted: Grape powdery mildew | Correct: False
+Grape downy mildew/460.jpg --> Predicted: Grape heathy | Correct: False
+Grape downy mildew/HLDSC_2996.JPG --> Predicted: Grape powdery mildew | Correct: False
+Grape downy mildew/HLDSC_3144.JPG --> Predicted: Grape downy mildew | Correct: True
+Grape downy mildew/IMG_E0700.jpg --> Predicted: Grape heathy | Correct: False
+Grape downy mildew/IMG_E1354.jpg --> Predicted: Grape heathy | Correct: False
+Grape downy mildew/IMG_E6559.jpg --> Predicted: Grape powdery mildew | Correct: False
+Grape downy mildew/IMG_E7943.jpg --> Predicted: Grape leaf blight | Correct: False
+Grape downy mildew/IMG_E7997.jpg --> Predicted: Grape heathy | Correct: False
+Grape heathy/05cff9d7-0f63-4b6e-9aa3-199cf9ffa64c___Mt.N.V_HL 9111_90deg.JPG --> Predicted: Grape heathy | Correct: True
+Grape heathy/0c1667a2-61d7-4dee-b4d9-0d141a1ceb20___Mt.N.V_HL 9127.JPG --> Predicted: Grape heathy | Correct: True
+Grape heathy/18fd5d50-f80c-426c-bfdb-5ca325065f24___Mt.N.V_HL 6024_180deg.JPG --> Predicted: Grape heathy | Correct: True
+Grape heathy/28c615fe-bb32-4003-9178-1f130c84c0a3___Mt.N.V_HL 9129_90deg.JPG --> Predicted: Grape heathy | Correct: True
+Grape heathy/31a167ba-d110-4fd4-ba34-f9afd27d0f21___Mt.N.V_HL 6140_270deg.JPG --> Predicted: Grape heathy | Correct: True
+Grape heathy/4b837c0f-15e7-4896-9a4c-2f5ea9fbb5de___Mt.N.V_HL 6195.JPG --> Predicted: Grape heathy | Correct: True
+Grape heathy/629195e5-85c1-444f-bd02-0fb635586d8e___Mt.N.V_HL 6079.JPG --> Predicted: Grape heathy | Correct: True
+Grape heathy/b80580f7-8e3e-4a81-ae32-df854d6ae3a8___Mt.N.V_HL 8978_180deg.JPG --> Predicted: Grape heathy | Correct: True
+Grape heathy/c24fe968-c13f-46ca-add1-c03828f54cd3___Mt.N.V_HL 9103.JPG --> Predicted: Grape heathy | Correct: True
+Grape heathy/fed74aa9-511b-4958-824b-41066b2e5406___Mt.N.V_HL 8918_270deg.JPG --> Predicted: Grape heathy | Correct: True
+Grape leaf blight/0cd6d9f4-ffa6-49a6-aa21-a7955d1bef56___FAM_L.Blight 1641_flipLR.JPG --> Predicted: Grape black rot | Correct: False
+Grape leaf blight/1a1a0f9a-6f5b-4821-8d4b-36aced0d988d___FAM_L.Blight 4982.JPG --> Predicted: Grape black rot | Correct: False
+Grape leaf blight/2314ed1d-b09e-444c-9cb6-350128203850___FAM_L.Blight 4852.JPG --> Predicted: Grape black rot | Correct: False
+Grape leaf blight/3580241f-2a73-45cb-9f96-866189380c6c___FAM_L.Blight 4547.JPG --> Predicted: Grape black rot | Correct: False
+Grape leaf blight/3765ad24-832a-44c6-8155-58a0f20b1b2c___FAM_L.Blight 3782.JPG --> Predicted: Grape black rot | Correct: False
+Grape leaf blight/414de643-cc27-4a3a-9cc6-a1134b451619___FAM_L.Blight 1542.JPG --> Predicted: Grape black rot | Correct: False
+Grape leaf blight/618b4cfe-a7c1-4f24-909d-7bb9ce3c677b___FAM_L.Blight 4686.JPG --> Predicted: Grape black rot | Correct: False
+Grape leaf blight/8ef47bf0-a5e6-417b-aeee-8258c743b892___FAM_L.Blight 4938.JPG --> Predicted: Grape heathy | Correct: False
+Grape leaf blight/caa24bc6-c55d-4730-856f-a397108a7887___FAM_L.Blight 4756.JPG --> Predicted: Grape black rot | Correct: False
+Grape leaf blight/f27e2b74-aa0c-4152-b28e-ff5b6e54cfa7___FAM_L.Blight 1520.JPG --> Predicted: Grape black rot | Correct: False
+Grape mosaic virus/DSC18_07654.JPG --> Predicted: Grape heathy | Correct: False
+Grape mosaic virus/DSC18_07659 (1).JPG --> Predicted: Grape heathy | Correct: False
+Grape mosaic virus/DSC18_07666.JPG --> Predicted: Grape heathy | Correct: False
+Grape mosaic virus/DSC18_07908.JPG --> Predicted: Grape heathy | Correct: False
+Grape mosaic virus/IMG18_6743.JPG --> Predicted: Grape heathy | Correct: False
+Grape mosaic virus/IMG18_6751.JPG --> Predicted: Grape heathy | Correct: False
+Grape mosaic virus/IMG18_6870.JPG --> Predicted: Grape heathy | Correct: False
+Grape mosaic virus/IMG18_6926.JPG --> Predicted: Grape heathy | Correct: False
+Grape mosaic virus/IMG18_6928.JPG --> Predicted: Grape heathy | Correct: False
+Grape mosaic virus/IMG18_6964.JPG --> Predicted: Grape heathy | Correct: False
+Grape powdery mildew/gaussian_noise_1_IMG2007_5852.JPG --> Predicted: Grape powdery mildew | Correct: True
+Grape powdery mildew/IMG2006_9474 (1).JPG --> Predicted: Grape heathy | Correct: False
+Grape powdery mildew/IMG2006_9501.JPG --> Predicted: Grape heathy | Correct: False
+Grape powdery mildew/rotated_1_IMG2006_9492.JPG --> Predicted: Grape heathy | Correct: False
+Grape powdery mildew/rotated_1_IMG2006_9773.JPG --> Predicted: Grape heathy | Correct: False
+Grape powdery mildew/rotated_1_IMG2006_9805.JPG --> Predicted: Grape powdery mildew | Correct: True
+Grape powdery mildew/salt_and_pepper_1_IMG2006_9408 (1).JPG --> Predicted: Grape heathy | Correct: False
+Grape powdery mildew/translated_1_IMG2006_4272.JPG --> Predicted: Grape heathy | Correct: False
+Grape powdery mildew/translated_1_IMG2006_9398.JPG --> Predicted: Grape heathy | Correct: False
+Grape powdery mildew/translated_1_IMG2006_9406.JPG --> Predicted: Grape heathy | Correct: False
+Grape yellows/image-1246.jpg --> Predicted: Grape heathy | Correct: False
+Grape yellows/image-1263.jpg --> Predicted: Grape heathy | Correct: False
+Grape yellows/image-1279.jpg --> Predicted: Grape black rot | Correct: False
+Grape yellows/image-1664.jpg --> Predicted: Grape black rot | Correct: False
+Grape yellows/image-1994.jpg --> Predicted: Grape black rot | Correct: False
+Grape yellows/image-2071.jpg --> Predicted: Grape black rot | Correct: False
+Grape yellows/image-2194.jpg --> Predicted: Grape heathy | Correct: False
+Grape yellows/image-2225.jpg --> Predicted: Grape heathy | Correct: False
+Grape yellows/image-2376.jpg --> Predicted: Grape heathy | Correct: False
+Grape yellows/image-43.jpg --> Predicted: Grape heathy | Correct: False
+Peach bacterial spot/272513fb-2710-4b4f-97ff-e399d762aba0___Rutg._Bact.S 1239.JPG --> Predicted: Apple black rot | Correct: False
+Peach bacterial spot/2e57328a-0e59-4dea-90cf-7991d3be64c1___Rut._Bact.S 1292.JPG --> Predicted: Apple brown spot | Correct: False
+Peach bacterial spot/43525a6f-142b-4df6-b74e-a2e6e467fb1d___Rutg._Bact.S 1151.JPG --> Predicted: Apple brown spot | Correct: False
+Peach bacterial spot/5287308f-5b21-4077-819a-e7b7f095868f___Rutg._Bact.S 1934.JPG --> Predicted: Rice leaf blast | Correct: False
+Peach bacterial spot/83b4d03f-69bd-432a-80d8-066bf664a4d3___Rut._Bact.S 3387.JPG --> Predicted: Apple brown spot | Correct: False
+Peach bacterial spot/a6999beb-7c47-4130-a543-8f362614c053___Rut._Bact.S 1040.JPG --> Predicted: Grape black rot | Correct: False
+Peach bacterial spot/a6f937b8-260a-4a8b-80ff-219c212e6ee1___Rutg._Bact.S 1183.JPG --> Predicted: Apple alternaria boltch | Correct: False
+Peach bacterial spot/b553d499-0e00-4d08-8502-8986fa12096e___Rutg._Bact.S 1328.JPG --> Predicted: Apple alternaria boltch | Correct: False
+Peach bacterial spot/e19f5bb9-bcab-4317-b789-84c5d60e6e75___Rut._Bact.S 1108.JPG --> Predicted: Apple brown spot | Correct: False
+Peach bacterial spot/f0e7bfec-bdfa-440d-83b7-94897376e623___Rutg._Bact.S 2164.JPG --> Predicted: Apple brown spot | Correct: False
+Peach healthy/027b10e5-2d2e-4eb4-9457-7cb45ab2fd17___Rutg._HL 3710_newPixel25.JPG --> Predicted: Apple alternaria boltch | Correct: False
+Peach healthy/202f241b-d4cd-4030-8579-7c4991f67cd5___Rutg._HL 3728_90deg.JPG --> Predicted: Apple brown spot | Correct: False
+Peach healthy/58a3efd5-5792-49a9-bb55-ae683ceee1fd___Rutg._HL 3639_270deg.JPG --> Predicted: Citrus huanglongbing | Correct: False
+Peach healthy/682e8658-0a23-48fb-a3d6-6c920d0943da___Rutg._HL 3547_newPixel25.JPG --> Predicted: Apple healthy | Correct: False
+Peach healthy/6b9b800c-f98f-49e6-8f65-b70067b0133a___Rutg._HL 3507_newPixel25.JPG --> Predicted: Citrus huanglongbing | Correct: False
+Peach healthy/96a1d0ec-4c18-4ec3-bb7e-7105be6839eb___Rutg._HL 3750_new30degFlipLR.JPG --> Predicted: Grape heathy | Correct: False
+Peach healthy/98365918-af55-417f-bff4-91b93d0e257a___Rutg._HL 3659_new30degFlipLR.JPG --> Predicted: Citrus healthy | Correct: False
+Peach healthy/a2f68cd8-68fc-41f9-a5e8-c1eea81a69ad___Rutg._HL 3557.JPG --> Predicted: Citrus healthy | Correct: False
+Peach healthy/ac2d8133-2f14-4970-9fab-317113de0dc6___Rutg._HL 3584_newPixel25.JPG --> Predicted: Apple grey spot | Correct: False
+Peach healthy/db647285-3411-49b3-b8d7-3670cf216e52___Rutg._HL 2418_270deg.JPG --> Predicted: Grape heathy | Correct: False
+Pepper bell bacterial spot/0719e8e8-c1ae-4d5a-b29c-dbadc36d13f3___NREC_B.Spot 1947_180deg.JPG --> Predicted: Tomato early blight | Correct: False
+Pepper bell bacterial spot/184221a3-0f0e-4acc-b5be-7b853349cd0d___JR_B.Spot 3286.JPG --> Predicted: Tomato early blight | Correct: False
+Pepper bell bacterial spot/3233e1db-99e9-4107-8711-c8b28a8bfda1___JR_B.Spot 3165_flipTB.JPG --> Predicted: Apple brown spot | Correct: False
+Pepper bell bacterial spot/380d0458-2f1e-432c-8adf-614143cba968___JR_B.Spot 8980_180deg.JPG --> Predicted: Tomato early blight | Correct: False
+Pepper bell bacterial spot/4434e395-4f3d-435d-9101-ece6be005fd6___JR_B.Spot 8928_flipTB.JPG --> Predicted: Tomato early blight | Correct: False
+Pepper bell bacterial spot/64c23fb9-51a0-4690-bed5-47ab3af8c294___JR_B.Spot 9072.JPG --> Predicted: Tomato early blight | Correct: False
+Pepper bell bacterial spot/7972395e-d2f0-4cf8-a4b5-ac4ca91d4a6e___JR_B.Spot 9075_180deg.JPG --> Predicted: Grape black measles | Correct: False
+Pepper bell bacterial spot/9f36da2c-ab51-4fff-b394-ad22b15508eb___JR_B.Spot 9032.JPG --> Predicted: Tomato early blight | Correct: False
+Pepper bell bacterial spot/b48a8fc2-be1c-4116-9336-7335a341c512___JR_B.Spot 9020.JPG --> Predicted: Tomato early blight | Correct: False
+Pepper bell bacterial spot/f92689ca-b5db-4a0a-b865-a69ba215922f___JR_B.Spot 9040_180deg.JPG --> Predicted: Grape black rot | Correct: False
+Pepper healthy/0d4f19fe-9e85-4689-9c99-0b01a58db9f4___JR_HL 8032.JPG --> Predicted: Pepper scab | Correct: False
+Pepper healthy/0e1942a4-91d7-460a-8189-1a4e693cfc84___JR_HL 8896.JPG --> Predicted: Tomato healthy | Correct: False
+Pepper healthy/17b82b623867bdcb9b870ed4147f4c40.jpg --> Predicted: Apple healthy | Correct: False
+Pepper healthy/2629a372ea571d8f976eb1224ff13340.jpg --> Predicted: Cherry healthy | Correct: False
+Pepper healthy/39a9b2a4-a7c6-4735-b605-5ac7600444ea___JR_HL 8641.JPG --> Predicted: Apple healthy | Correct: False
+Pepper healthy/53572873-8205-48a9-81c0-6a60022c76ce___JR_HL 8550.JPG --> Predicted: Tomato healthy | Correct: False
+Pepper healthy/59d51855-3e02-4082-817a-b62184efadc3___JR_HL 8849.JPG --> Predicted: Pepper healthy | Correct: True
+Pepper healthy/800754f1-f625-4a1e-9302-a7db5b5869a8___JR_HL 7895.JPG --> Predicted: Tomato healthy | Correct: False
+Pepper healthy/d2e09fdd-8ee6-4cd1-8bd4-16124dc16962___JR_HL 7918.JPG --> Predicted: Apple healthy | Correct: False
+Pepper healthy/f822e8d5-6cb7-40ad-a6ce-b92105e7ce03___JR_HL 7905.JPG --> Predicted: Pepper healthy | Correct: True
+Pepper scab/0d933720bad9bc8f49ee725c144c0c88.jpg --> Predicted: Apple brown spot | Correct: False
+Pepper scab/11f0316d61f186bc38c4328cbd9c690e.jpg --> Predicted: Grape black rot | Correct: False
+Pepper scab/38caf650-d4c8-483d-a75d-b20f12629563___JR_B.Spot 3161.JPG --> Predicted: Tomato early blight | Correct: False
+Pepper scab/5509347127e4fce4eec7652ce667a834.jpg --> Predicted: Apple brown spot | Correct: False
+Pepper scab/5c532630-a204-4e10-8fb4-5a0d09f9a1eb___JR_B.Spot 3214.JPG --> Predicted: Apple brown spot | Correct: False
+Pepper scab/a3fad4a2-1e15-4bfd-9293-56f57540b44f___JR_B.Spot 9018.JPG --> Predicted: Apple brown spot | Correct: False
+Pepper scab/a43692b606890d70bb934adea4fd7cbe.jpg --> Predicted: Tomato early blight | Correct: False
+Pepper scab/dd1be385-6753-4a84-ab24-bf4b9ede3950___NREC_B.Spot 9198.JPG --> Predicted: Tomato early blight | Correct: False
+Pepper scab/f3a192cdcf04db4a7783262bc24b7b81.jpg --> Predicted: Tomato early blight | Correct: False
+Pepper scab/f990c20538fe9d7112759f613c02df6a.jpg --> Predicted: Tomato early blight | Correct: False
+Potato healthy/08e8d2fa-6aff-4a9d-bdcc-b3c73682ed6a___RS_HL 4672.JPG --> Predicted: Apple healthy | Correct: False
+Potato healthy/2c8d77dd-0173-41d0-9e95-9e11092af9a8___JR_HL 8737_flipTB.JPG --> Predicted: Pepper healthy | Correct: False
+Potato healthy/2fb934df-b92d-4ede-8700-72a4c5a40f04___JR_HL 8839_180deg.JPG --> Predicted: Potato healthy | Correct: True
+Potato healthy/84c6f01e-993d-45ad-803c-dbf300b1c0f9___RS_HL 5643 1.JPG --> Predicted: Potato healthy | Correct: True
+Potato healthy/8b220614-a58f-4d24-b515-0a0c65330abe___RS_HL 4323.JPG --> Predicted: Soybean healthy | Correct: False
+Potato healthy/b62a16da-835b-44f2-9fa1-004ba508985c___RS_HL 5551 1.JPG --> Predicted: Pepper healthy | Correct: False
+Potato healthy/c7d54891-36f1-46f3-9b49-4cfc419f5568___RS_HL 2698.JPG --> Predicted: Apple healthy | Correct: False
+Potato healthy/cd7f0b3e-02e3-4097-bed4-69ad6bacec82___RS_HL 3932.JPG --> Predicted: Pepper healthy | Correct: False
+Potato healthy/ea17eb4d4c60a41ef2fca9b9f5458ad4.jpg --> Predicted: Tomato healthy | Correct: False
+Potato healthy/fe488ccbceae9858d6dfe91c69035ff9.jpg --> Predicted: Tomato healthy | Correct: False
+Potato late blight/028f9b73-142f-499a-9c7b-d7c1ed5e5506___RS_Early.B 8546.JPG --> Predicted: Tomato early blight | Correct: False
+Potato late blight/1a31e01d22fcf0f118c97c7910818b01.jpg --> Predicted: Grape black rot | Correct: False
+Potato late blight/1dc41475-aa79-43f1-8648-0c8733d246ca___RS_LB 3319.JPG --> Predicted: Tomato healthy | Correct: False
+Potato late blight/20880dc9-069c-40e5-81be-6d6e33f9519c___RS_LB 4098.JPG --> Predicted: Grape black rot | Correct: False
+Potato late blight/426bd7183e70f59c5ecb6aeb1c28fbf4.jpg --> Predicted: Potato late blight | Correct: True
+Potato late blight/475beb97c035d8f42ad4f2a00d60be40.jpg --> Predicted: Tomato early blight | Correct: False
+Potato late blight/969aa93b-46d1-478c-a398-dcb4ed7d27bd___RS_LB 2870.JPG --> Predicted: Tomato early blight | Correct: False
+Potato late blight/b7c36efa9667c22db05bba9343d7c1ec.jpg --> Predicted: Tomato late blight | Correct: False
+Potato late blight/c5dc57d8-9a0d-4046-9eb4-b9db2f720a47___RS_Early.B 7047.JPG --> Predicted: Tomato early blight | Correct: False
+Potato late blight/d973ef979288a6dc773443638dcd4870.jpg --> Predicted: Tomato early blight | Correct: False
+Rice bacterial blight/BACTERAILBLIGHT3_062.jpg --> Predicted: Rice leaf blast | Correct: False
+Rice bacterial blight/BACTERAILBLIGHT3_106.jpg --> Predicted: Corn gray leaf spot | Correct: False
+Rice bacterial blight/BACTERAILBLIGHT3_179.JPG --> Predicted: Corn gray leaf spot | Correct: False
+Rice bacterial blight/BACTERAILBLIGHT4_005.jpg --> Predicted: Corn gray leaf spot | Correct: False
+Rice bacterial blight/BACTERAILBLIGHT4_077.jpg --> Predicted: Corn northern leaf blight | Correct: False
+Rice bacterial blight/BACTERAILBLIGHT4_254.jpg --> Predicted: Corn northern leaf blight | Correct: False
+Rice bacterial blight/BACTERAILBLIGHT5_054.jpg --> Predicted: Corn northern leaf blight | Correct: False
+Rice bacterial blight/BACTERAILBLIGHT5_146.JPG --> Predicted: Rice tungro | Correct: False
+Rice bacterial blight/BACTERIALBLIGHT1_011.jpg --> Predicted: Corn healthy | Correct: False
+Rice bacterial blight/BACTERIALBLIGHT2_049.jpg --> Predicted: Rice leaf blast | Correct: False
+Rice brown spot/BROWNSPOT2_007.jpg --> Predicted: Corn healthy | Correct: False
+Rice brown spot/BROWNSPOT3_021.jpg --> Predicted: Rice brown spot | Correct: True
+Rice brown spot/BROWNSPOT3_193.jpg --> Predicted: Corn northern leaf blight | Correct: False
+Rice brown spot/BROWNSPOT4_122.jpg --> Predicted: Rice brown spot | Correct: True
+Rice brown spot/brownspot_orig_013.jpg --> Predicted: Rice brown spot | Correct: True
+Rice brown spot/brownspot_rotated_036.jpg --> Predicted: Rice brown spot | Correct: True
+Rice brown spot/brownspot_rotated_072.jpg --> Predicted: Rice brown spot | Correct: True
+Rice brown spot/Brown_Spot1_2edc39a1-110d-4019-86a9-ecd48b4a5288.jpeg --> Predicted: Rice leaf blast | Correct: False
+Rice brown spot/IMG_20190420_194810.jpg --> Predicted: Rice brown spot | Correct: True
+Rice brown spot/IMG_20190424_133956.jpg --> Predicted: Wheat yellow rust | Correct: False
+Rice healthy/IMG_20190419_095504.jpg --> Predicted: Wheat healthy | Correct: False
+Rice healthy/IMG_20190419_095755.jpg --> Predicted: Wheat healthy | Correct: False
+Rice healthy/IMG_20190419_134349.jpg --> Predicted: Wheat healthy | Correct: False
+Rice healthy/IMG_20190419_141315.jpg --> Predicted: Wheat healthy | Correct: False
+Rice healthy/IMG_20190419_161833.jpg --> Predicted: Apple healthy | Correct: False
+Rice healthy/IMG_20190419_174512.jpg --> Predicted: Rice healthy | Correct: True
+Rice healthy/IMG_20190420_193501.jpg --> Predicted: Wheat healthy | Correct: False
+Rice healthy/IMG_20190424_130903.jpg --> Predicted: Wheat healthy | Correct: False
+Rice healthy/IMG_20190424_132059.jpg --> Predicted: Wheat healthy | Correct: False
+Rice healthy/IMG_3234.jpg --> Predicted: Wheat healthy | Correct: False
+Rice hispa/IMG_20190419_100047.jpg --> Predicted: Wheat healthy | Correct: False
+Rice hispa/IMG_20190419_100347.jpg --> Predicted: Corn healthy | Correct: False
+Rice hispa/IMG_20190419_110457.jpg --> Predicted: Wheat healthy | Correct: False
+Rice hispa/IMG_20190419_114834.jpg --> Predicted: Wheat healthy | Correct: False
+Rice hispa/IMG_20190419_140054.jpg --> Predicted: Rice brown spot | Correct: False
+Rice hispa/IMG_20190419_144226.jpg --> Predicted: Rice brown spot | Correct: False
+Rice hispa/IMG_20190419_144252.jpg --> Predicted: Rice healthy | Correct: False
+Rice hispa/IMG_20190419_162044.jpg --> Predicted: Rice healthy | Correct: False
+Rice hispa/IMG_20190419_163046.jpg --> Predicted: Wheat healthy | Correct: False
+Rice hispa/IMG_20190419_173244.jpg --> Predicted: Rice healthy | Correct: False
+Rice leaf blast/BLAST1_072.jpg --> Predicted: Corn gray leaf spot | Correct: False
+Rice leaf blast/BLAST2_046.jpg --> Predicted: Rice brown spot | Correct: False
+Rice leaf blast/BLAST4_048.JPG --> Predicted: Corn northern leaf blight | Correct: False
+Rice leaf blast/BLAST4_085.jpg --> Predicted: Corn northern leaf blight | Correct: False
+Rice leaf blast/BLAST6_117.JPG --> Predicted: Corn northern leaf blight | Correct: False
+Rice leaf blast/BLAST8_112.jpg --> Predicted: Apple alternaria boltch | Correct: False
+Rice leaf blast/IMG_20190419_105830.jpg --> Predicted: Wheat healthy | Correct: False
+Rice leaf blast/IMG_20190419_134920.jpg --> Predicted: Rice brown spot | Correct: False
+Rice leaf blast/IMG_20190419_170530.jpg --> Predicted: Rice brown spot | Correct: False
+Rice leaf blast/IMG_4770.jpg --> Predicted: Rice brown spot | Correct: False
+Rice tungro/TUNGRO2_074.jpg --> Predicted: Rice leaf blast | Correct: False
+Rice tungro/TUNGRO2_087.jpg --> Predicted: Rice leaf blast | Correct: False
+Rice tungro/TUNGRO2_092.JPG --> Predicted: Rice leaf blast | Correct: False
+Rice tungro/TUNGRO3_092.JPG --> Predicted: Rice leaf blast | Correct: False
+Rice tungro/TUNGRO3_213.JPG --> Predicted: Rice tungro | Correct: True
+Rice tungro/TUNGRO3_259.JPG --> Predicted: Rice tungro | Correct: True
+Rice tungro/TUNGRO4_124.JPG --> Predicted: Corn gray leaf spot | Correct: False
+Rice tungro/TUNGRO4_180.JPG --> Predicted: Corn gray leaf spot | Correct: False
+Rice tungro/TUNGRO4_249.JPG --> Predicted: Rice leaf blast | Correct: False
+Rice tungro/TUNGRO5_86.JPG --> Predicted: Corn gray leaf spot | Correct: False
+Soybean angular leaf spot/angular_leaf_spot_train.107.jpg --> Predicted: Soybean angular leaf spot | Correct: True
+Soybean angular leaf spot/angular_leaf_spot_train.151.jpg --> Predicted: Soybean angular leaf spot | Correct: True
+Soybean angular leaf spot/angular_leaf_spot_train.170.jpg --> Predicted: Soybean angular leaf spot | Correct: True
+Soybean angular leaf spot/angular_leaf_spot_train.207.jpg --> Predicted: Soybean angular leaf spot | Correct: True
+Soybean angular leaf spot/angular_leaf_spot_train.230.jpg --> Predicted: Soybean angular leaf spot | Correct: True
+Soybean angular leaf spot/angular_leaf_spot_train.238.jpg --> Predicted: Soybean angular leaf spot | Correct: True
+Soybean angular leaf spot/angular_leaf_spot_train.315.jpg --> Predicted: Soybean angular leaf spot | Correct: True
+Soybean angular leaf spot/angular_leaf_spot_train.341.jpg --> Predicted: Tomato early blight | Correct: False
+Soybean angular leaf spot/angular_leaf_spot_train.54.jpg --> Predicted: Tomato early blight | Correct: False
+Soybean angular leaf spot/angular_leaf_spot_train.98.jpg --> Predicted: Tomato early blight | Correct: False
+Soybean bacterial blight/bacterial_blight_103.jpg --> Predicted: Tomato early blight | Correct: False
+Soybean bacterial blight/bacterial_blight_12.jpg --> Predicted: Tomato early blight | Correct: False
+Soybean bacterial blight/bacterial_blight_150.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean bacterial blight/bacterial_blight_223.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean bacterial blight/bacterial_blight_234.jpg --> Predicted: Apple brown spot | Correct: False
+Soybean bacterial blight/bacterial_blight_258.jpg --> Predicted: Tomato early blight | Correct: False
+Soybean bacterial blight/bacterial_blight_35.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean bacterial blight/bacterial_blight_383.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean bacterial blight/bacterial_blight_395.jpg --> Predicted: Tomato early blight | Correct: False
+Soybean bacterial blight/bacterial_blight_64.jpg --> Predicted: Tomato early blight | Correct: False
+Soybean cercospora leaf blight/cercospora_leaf_blight_132.JPG --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean cercospora leaf blight/cercospora_leaf_blight_344.jpg --> Predicted: Tomato early blight | Correct: False
+Soybean cercospora leaf blight/cercospora_leaf_blight_447.jpg --> Predicted: Tomato early blight | Correct: False
+Soybean cercospora leaf blight/cercospora_leaf_blight_455.jpg --> Predicted: Grape black rot | Correct: False
+Soybean cercospora leaf blight/cercospora_leaf_blight_521.jpg --> Predicted: Pepper scab | Correct: False
+Soybean cercospora leaf blight/cercospora_leaf_blight_584.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean cercospora leaf blight/cercospora_leaf_blight_598.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean cercospora leaf blight/cercospora_leaf_blight_740.jpg --> Predicted: Tomato bacterial spot | Correct: False
+Soybean cercospora leaf blight/cercospora_leaf_blight_79.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean cercospora leaf blight/cercospora_leaf_blight_985.jpg --> Predicted: Potato late blight | Correct: False
+Soybean downy mildew/downey_mildew_100.jpg --> Predicted: Soybean healthy | Correct: False
+Soybean downy mildew/downey_mildew_110.jpg --> Predicted: Tomato healthy | Correct: False
+Soybean downy mildew/downey_mildew_122.jpg --> Predicted: Apple healthy | Correct: False
+Soybean downy mildew/downey_mildew_21.jpg --> Predicted: Soybean healthy | Correct: False
+Soybean downy mildew/downey_mildew_308.jpg --> Predicted: Apple brown spot | Correct: False
+Soybean downy mildew/downey_mildew_328.jpg --> Predicted: Tomato bacterial spot | Correct: False
+Soybean downy mildew/downey_mildew_424.jpg --> Predicted: Potato healthy | Correct: False
+Soybean downy mildew/downey_mildew_562.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean downy mildew/downey_mildew_613.jpg --> Predicted: Soybean healthy | Correct: False
+Soybean downy mildew/downey_mildew_89.jpg --> Predicted: Tomato healthy | Correct: False
+Soybean frogeye/frogeye_1243.JPG --> Predicted: Tomato early blight | Correct: False
+Soybean frogeye/frogeye_1395.JPG --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean frogeye/frogeye_1487.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean frogeye/frogeye_162.jpg --> Predicted: Tomato early blight | Correct: False
+Soybean frogeye/frogeye_22.jpg --> Predicted: Tomato early blight | Correct: False
+Soybean frogeye/frogeye_703.JPG --> Predicted: Apple brown spot | Correct: False
+Soybean frogeye/frogeye_72.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean frogeye/frogeye_732.JPG --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean frogeye/frogeye_832.JPG --> Predicted: Tomato early blight | Correct: False
+Soybean frogeye/frogeye_94.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean healthy/93165a85-e2db-4cf1-9754-55a7a5c76f92___RS_HL 6624.JPG --> Predicted: Soybean healthy | Correct: True
+Soybean healthy/a860eed5-9939-4a96-a9f0-701f3d1dbbd4___RS_HL 5419.JPG --> Predicted: Pepper healthy | Correct: False
+Soybean healthy/a8e49f7b-fd02-4620-a80d-035b239f811e___RS_HL 4663.JPG --> Predicted: Grape heathy | Correct: False
+Soybean healthy/b2eb78f7-5a84-4bfe-b3a8-81bf1b63c66d___RS_HL 5365.JPG --> Predicted: Soybean healthy | Correct: True
+Soybean healthy/b32e4516-9cd7-4226-be52-26f413c97834___RS_HL 3512.JPG --> Predicted: Apple powdery mildew | Correct: False
+Soybean healthy/be29f0ce-6988-41fe-a3cb-800ca2523cb2___RS_HL 5664 1.JPG --> Predicted: Apple healthy | Correct: False
+Soybean healthy/c4bcc598-9b6f-4b8d-9582-77a8568b0a3a___RS_HL 5527.JPG --> Predicted: Soybean healthy | Correct: True
+Soybean healthy/d8ceae82-87bd-4248-a069-b0a9a36b7d87___RS_HL 3345.JPG --> Predicted: Apple healthy | Correct: False
+Soybean healthy/e6ca9b52-a553-44ae-85b2-20c0cd3e6413___RS_HL 6257.JPG --> Predicted: Apple healthy | Correct: False
+Soybean healthy/ff28dce9-f806-4777-854d-b9bb6101e69f___RS_HL 7547.JPG --> Predicted: Pepper healthy | Correct: False
+Soybean potassium deficiency/potassium_deficiency_164.JPG --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean potassium deficiency/potassium_deficiency_290.JPG --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean potassium deficiency/potassium_deficiency_364.JPG --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean potassium deficiency/potassium_deficiency_388.jpg --> Predicted: Soybean potassium deficiency | Correct: True
+Soybean potassium deficiency/potassium_deficiency_52.jpg --> Predicted: Soybean potassium deficiency | Correct: True
+Soybean potassium deficiency/potassium_deficiency_674.jpg --> Predicted: Soybean healthy | Correct: False
+Soybean potassium deficiency/potassium_deficiency_739.jpg --> Predicted: Soybean healthy | Correct: False
+Soybean potassium deficiency/potassium_deficiency_943.jpg --> Predicted: Soybean healthy | Correct: False
+Soybean potassium deficiency/potassium_deficiency_948.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean potassium deficiency/potassium_deficiency_952.jpg --> Predicted: Soybean healthy | Correct: False
+Soybean rust/soybean_rust_1108.jpg --> Predicted: Tomato early blight | Correct: False
+Soybean rust/soybean_rust_1212.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean rust/soybean_rust_167.JPG --> Predicted: Apple brown spot | Correct: False
+Soybean rust/soybean_rust_232.jpg --> Predicted: Tomato early blight | Correct: False
+Soybean rust/soybean_rust_331.jpg --> Predicted: Apple brown spot | Correct: False
+Soybean rust/soybean_rust_411.jpg --> Predicted: Grape black measles | Correct: False
+Soybean rust/soybean_rust_439.jpg --> Predicted: Apple brown spot | Correct: False
+Soybean rust/soybean_rust_631.jpg --> Predicted: Tomato early blight | Correct: False
+Soybean rust/soybean_rust_698.jpg --> Predicted: Tomato early blight | Correct: False
+Soybean rust/soybean_rust_910.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean target spot/target_spot_101.jpg --> Predicted: Apple brown spot | Correct: False
+Soybean target spot/target_spot_1030.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean target spot/target_spot_370.jpg --> Predicted: Tomato early blight | Correct: False
+Soybean target spot/target_spot_43.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean target spot/target_spot_750.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean target spot/target_spot_780.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean target spot/target_spot_811.jpg --> Predicted: Apple brown spot | Correct: False
+Soybean target spot/target_spot_83.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Soybean target spot/target_spot_905.jpg --> Predicted: Apple brown spot | Correct: False
+Soybean target spot/target_spot_989.jpg --> Predicted: Soybean angular leaf spot | Correct: False
+Strawberry healthy/24de1e79-2489-4156-8197-72c4b46977bd___RS_HL 4802_180deg.JPG --> Predicted: Grape powdery mildew | Correct: False
+Strawberry healthy/307ea50d-38f5-4cd5-bfe5-cddc1ad40850___RS_HL 4352.JPG --> Predicted: Strawberry healthy | Correct: True
+Strawberry healthy/30b0611b-c150-4668-8007-662129beaa6e___RS_HL 1806.JPG --> Predicted: Apple healthy | Correct: False
+Strawberry healthy/3d28c3ea-8419-4e09-addd-211e3828e39f___RS_HL 1942.JPG --> Predicted: Apple healthy | Correct: False
+Strawberry healthy/65880698-1582-43e9-86c4-3dfcea34ee8d___RS_HL 1654_270deg.JPG --> Predicted: Strawberry healthy | Correct: True
+Strawberry healthy/677ba255-d1ac-48b7-9847-dd9abc1a8db8___RS_HL 1887.JPG --> Predicted: Pepper healthy | Correct: False
+Strawberry healthy/a41cf942-f28c-49a8-8c6f-090bed625de2___RS_HL 2219_270deg.JPG --> Predicted: Strawberry healthy | Correct: True
+Strawberry healthy/c2052c26-d4f7-4f0a-845b-5e25cc2f6e48___RS_HL 4409_270deg.JPG --> Predicted: Strawberry healthy | Correct: True
+Strawberry healthy/daf99263-f38b-4aa6-ac5e-c82a10065773___RS_HL 1800_90deg.JPG --> Predicted: Strawberry healthy | Correct: True
+Strawberry healthy/fc93155b-55bc-4cab-8807-e5cc6f896384___RS_HL 2082_new30degFlipLR.JPG --> Predicted: Strawberry healthy | Correct: True
+Strawberry leaf scorch/1fc21810-f901-4c83-a510-583980dccc01___RS_L.Scorch 0100_flipLR.JPG --> Predicted: Strawberry leaf scorch | Correct: True
+Strawberry leaf scorch/30e43c7d-0621-4827-8a3a-3ae771996f1e___RS_L.Scorch 9959.JPG --> Predicted: Strawberry healthy | Correct: False
+Strawberry leaf scorch/469e16af-7eb7-4b8e-b596-b9817151f13d___RS_L.Scorch 1512_flipLR.JPG --> Predicted: Grape black rot | Correct: False
+Strawberry leaf scorch/59def4d2-f75f-4550-875a-adafdf5b4ab9___RS_L.Scorch 0976_flipLR.JPG --> Predicted: Grape black rot | Correct: False
+Strawberry leaf scorch/968c98c8-d748-4b1c-ab29-fc68f250da46___RS_L.Scorch 0024_flipLR.JPG --> Predicted: Strawberry healthy | Correct: False
+Strawberry leaf scorch/98d56bb0-5b16-489f-b101-2c04de8a4ee7___RS_L.Scorch 0954.JPG --> Predicted: Grape black rot | Correct: False
+Strawberry leaf scorch/99ac9cd2-8c79-4f36-b708-c5521025418b___RS_L.Scorch 9928.JPG --> Predicted: Strawberry leaf scorch | Correct: True
+Strawberry leaf scorch/cb7d8aec-9b86-4778-a62a-9544051b1eae___RS_L.Scorch 1021_flipLR.JPG --> Predicted: Strawberry leaf scorch | Correct: True
+Strawberry leaf scorch/cee45ae3-03d6-41fb-aa2b-35a2ec20d8fb___RS_L.Scorch 1239_flipLR.JPG --> Predicted: Strawberry leaf scorch | Correct: True
+Strawberry leaf scorch/d3df0a6c-9a93-44ba-9c33-b17331d590c5___RS_L.Scorch 0784.JPG --> Predicted: Grape black measles | Correct: False
+Tomato bacterial spot/18f11c42-356f-4f3a-bc6d-f770dd101ba4___GCREC_Bact.Sp 5631.JPG --> Predicted: Grape black rot | Correct: False
+Tomato bacterial spot/38ef51e1-c793-4a6c-b17d-e066bcd533c8___GCREC_Bact.Sp 5639.JPG --> Predicted: Tomato early blight | Correct: False
+Tomato bacterial spot/3981c964-0d65-4c9e-9b78-5e892b6a961c___GCREC_Bact.Sp 3230.JPG --> Predicted: Tomato early blight | Correct: False
+Tomato bacterial spot/4990878e-265e-4dad-98cf-ce60fb67035b___GCREC_Bact.Sp 3479.JPG --> Predicted: Soybean angular leaf spot | Correct: False
+Tomato bacterial spot/49c34c1b-08a8-4bdd-a933-0eb4daff5f97___GCREC_Bact.Sp 3501.JPG --> Predicted: Soybean angular leaf spot | Correct: False
+Tomato bacterial spot/5bc8227b-796d-40cb-8f9e-dc5b5a0fc055___GCREC_Bact.Sp 5664.JPG --> Predicted: Tomato early blight | Correct: False
+Tomato bacterial spot/8d56489d-58dc-43d8-a399-906b18b78566___GCREC_Bact.Sp 3081.JPG --> Predicted: Apple alternaria boltch | Correct: False
+Tomato bacterial spot/a469ae7c-95bb-4633-89a6-bb9da9dcb99d___GCREC_Bact.Sp 5635.JPG --> Predicted: Tomato healthy | Correct: False
+Tomato bacterial spot/b0a74f61-0012-4b6c-b528-bbce1b79c588___GCREC_Bact.Sp 3805.JPG --> Predicted: Tomato early blight | Correct: False
+Tomato bacterial spot/c1b331bd-edf3-4623-bf39-01c3c4fe6105___UF.GRC_BS_Lab Leaf 9299.JPG --> Predicted: Grape heathy | Correct: False
+Tomato early blight/2763c9bc-ecc6-4f1a-86a7-ef8ffa370420___RS_Erly.B 8422.JPG --> Predicted: Grape downy mildew | Correct: False
+Tomato early blight/386b2d80-35c1-4fa5-98b6-f78c1c9cfb36___RS_Erly.B 6470.JPG --> Predicted: Grape black rot | Correct: False
+Tomato early blight/4d88d7a6-b49c-4927-81de-60b6b807c839___RS_Erly.B 7655.JPG --> Predicted: Grape black rot | Correct: False
+Tomato early blight/65579d4a-eb54-47cb-a8f7-d886971c8c63___RS_Erly.B 7475_flipTB.JPG --> Predicted: Grape powdery mildew | Correct: False
+Tomato early blight/71eb9b0a-a7ea-47a0-8108-71949d74e22d___RS_Erly.B 7557_flipTB.JPG --> Predicted: Strawberry leaf scorch | Correct: False
+Tomato early blight/a2ec9710-99ea-4dc5-a88c-69974e0557dc___RS_Erly.B 9412_flipTB.JPG --> Predicted: Grape black rot | Correct: False
+Tomato early blight/c8412a1c-4e61-4a35-9538-c3d3a7c46cbe___RS_Erly.B 7383_flipTB.JPG --> Predicted: Tomato early blight | Correct: True
+Tomato early blight/f882f8cc-49bc-49f6-a6c0-fbffe60d81a0___RS_Erly.B 7672.JPG --> Predicted: Tomato early blight | Correct: True
+Tomato early blight/f8babb7d-af2d-495c-9d99-cf215c8c67af___RS_Erly.B 9462.JPG --> Predicted: Tomato late blight | Correct: False
+Tomato early blight/fe79c70c-0977-43f3-ad1b-3a1b4bceeceb___RS_Erly.B 7506_flipTB.JPG --> Predicted: Tomato early blight | Correct: True
+Tomato healthy/125ff07a-87f1-4953-9ded-8f9e5adb7b1b___RS_HL 0470.JPG --> Predicted: Pepper scab | Correct: False
+Tomato healthy/27c1515c-743f-4f4d-8342-fbe3cee29e7e___RS_HL 0344.JPG --> Predicted: Tomato healthy | Correct: True
+Tomato healthy/2f07c3a8-90db-4d61-b8e3-55b3c016c510___GH_HL Leaf 382.1_flipTB.JPG --> Predicted: Grape heathy | Correct: False
+Tomato healthy/56821d0b-8d8c-47ed-9754-3c16c9c97cb8___GH_HL Leaf 286.JPG --> Predicted: Soybean healthy | Correct: False
+Tomato healthy/5f3f3da8-de1a-4cd8-af68-6801c9327834___RS_HL 9755.JPG --> Predicted: Pepper scab | Correct: False
+Tomato healthy/7627db62-eca7-44fd-8b81-b818575821aa___GH_HL Leaf 356.1.JPG --> Predicted: Soybean healthy | Correct: False
+Tomato healthy/90af034e-dedd-4edf-afb7-9449c4508535___RS_HL 9675.JPG --> Predicted: Grape powdery mildew | Correct: False
+Tomato healthy/a9ebbd1c-8e4f-4ff9-b126-401cf57d3e4c___RS_HL 0328.JPG --> Predicted: Grape powdery mildew | Correct: False
+Tomato healthy/af78f888-bd62-44bb-8223-6be0cf0950fc___GH_HL Leaf 491.JPG --> Predicted: Grape powdery mildew | Correct: False
+Tomato healthy/b6fa2d79-dac1-42c6-a074-9d013843bb11___GH_HL Leaf 276.1.JPG --> Predicted: Soybean healthy | Correct: False
+Tomato late blight/1a69b38b-c4eb-42c4-9584-bcb14fb8db0c___GHLB2 Leaf 9011_flipLR.JPG --> Predicted: Cherry healthy | Correct: False
+Tomato late blight/1cb5d336-3649-49bf-aa9a-72950067b8b0___GHLB_PS Leaf 12 Day 9_flipLR.jpg --> Predicted: Grape black rot | Correct: False
+Tomato late blight/20fe383e-d172-4aee-b76c-d82420e93b0c___RS_Late.B 5519.JPG --> Predicted: Tomato late blight | Correct: True
+Tomato late blight/2e5a8b76-c1d5-432c-bbde-7589e087b120___GHLB2 Leaf 8976_flipLR.JPG --> Predicted: Apple black rot | Correct: False
+Tomato late blight/2e62a850-078e-44ce-ac30-6b940479e017___RS_Late.B 6080.JPG --> Predicted: Grape black rot | Correct: False
+Tomato late blight/7f847477-1111-4f20-9de5-56153bee415b___RS_Late.B 5049_flipLR.JPG --> Predicted: Tomato early blight | Correct: False
+Tomato late blight/a5ef7726-d20f-4109-985f-7fc8989e4aa5___GHLB_PS Leaf 2.2 Day 8.jpg --> Predicted: Apple healthy | Correct: False
+Tomato late blight/cc182d88-d09a-4caa-948a-91db3007290a___GHLB_PS Leaf 2.1 Day 7.jpg --> Predicted: Tomato healthy | Correct: False
+Tomato late blight/cdcc1a8c-7b80-4d56-a5b6-942f03928ea0___RS_Late.B 5233.JPG --> Predicted: Grape black rot | Correct: False
+Tomato late blight/e3c4a4e5-4ec3-404f-8dbd-7de9dd3f184a___RS_Late.B 5073.JPG --> Predicted: Tomato early blight | Correct: False
+Tomato leaf mold/4172a7c2-35dc-426f-9b59-c7b1908edc5a___Crnl_L.Mold 6710_180deg.JPG --> Predicted: Tomato healthy | Correct: False
+Tomato leaf mold/526cef23-88d8-4dd8-8ff4-eed6e98ac7d4___Crnl_L.Mold 6856_180deg.JPG --> Predicted: Pepper scab | Correct: False
+Tomato leaf mold/600a933c-9490-4ae7-b7e7-5177992b9bb8___Crnl_L.Mold 8633.JPG --> Predicted: Apple powdery mildew | Correct: False
+Tomato leaf mold/65986ff3-5848-4473-a7b7-b79e07d79fd7___Crnl_L.Mold 7040.JPG --> Predicted: Apple brown spot | Correct: False
+Tomato leaf mold/662d31b7-5dcb-4af1-b645-20b83610d1ee___Crnl_L.Mold 8687_flipTB.JPG --> Predicted: Tomato early blight | Correct: False
+Tomato leaf mold/77a7828d-7cef-4490-9bd3-3e05c523a2f4___Crnl_L.Mold 7056_flipTB.JPG --> Predicted: Pepper bell bacterial spot | Correct: False
+Tomato leaf mold/99d2b2e1-b3e6-4689-ad9a-209cdfdf4084___Crnl_L.Mold 7025_flipTB.JPG --> Predicted: Grape downy mildew | Correct: False
+Tomato leaf mold/b1299841-6001-40d1-aa5c-90f5e289fbf1___Crnl_L.Mold 6887_180deg.JPG --> Predicted: Tomato early blight | Correct: False
+Tomato leaf mold/d51c5c7e-feb1-46b2-b5c9-05b9b742bf16___Crnl_L.Mold 6505.JPG --> Predicted: Tomato early blight | Correct: False
+Tomato leaf mold/f3ef6606-c66b-4fa0-a542-f09b78b6c3e0___Crnl_L.Mold 9120.JPG --> Predicted: Grape powdery mildew | Correct: False
+Tomato mosaic virus/2474f9d1-c3b6-4ec6-bb65-b5d1dd7021dc___PSU_CG 2201_90deg.JPG --> Predicted: Tomato early blight | Correct: False
+Tomato mosaic virus/26ea2737-6f69-441b-a5da-7f68ed4e8f5e___PSU_CG 2141_90deg.JPG --> Predicted: Soybean angular leaf spot | Correct: False
+Tomato mosaic virus/2afd76a3-68f8-42cf-a68a-2f3076168dc0___PSU_CG 2260_270deg.JPG --> Predicted: Soybean angular leaf spot | Correct: False
+Tomato mosaic virus/2d053972-2f30-414c-9de9-e37c98e44648___PSU_CG 2104_90deg.JPG --> Predicted: Tomato yellow leaf curl virus | Correct: False
+Tomato mosaic virus/388f46e3-32d3-45f3-84fd-12cb06feed12___PSU_CG 2119_180deg.JPG --> Predicted: Tomato mosaic virus | Correct: True
+Tomato mosaic virus/7c9939ff-c133-460f-a883-26ecb38aa594___PSU_CG 2340_180deg.JPG --> Predicted: Grape powdery mildew | Correct: False
+Tomato mosaic virus/a03ed170-8835-4339-9d11-ab36c11c4b5a___PSU_CG 2394_270deg.JPG --> Predicted: Tomato early blight | Correct: False
+Tomato mosaic virus/e1693a70-df15-4743-829a-67f593d1e381___PSU_CG 2110_180deg.JPG --> Predicted: Tomato yellow leaf curl virus | Correct: False
+Tomato mosaic virus/ee1d7f40-d80c-4cac-9cd3-1a687431496e___PSU_CG 2282_270deg.JPG --> Predicted: Tomato healthy | Correct: False
+Tomato mosaic virus/tomato-mosaic-virus-disease-on-260nw-559799638.jpg --> Predicted: Tomato mosaic virus | Correct: True
+Tomato septoria leaf spot/02d2c484-8bdb-4ef2-8d07-0bdb3ac330cc___Matt.S_CG 0975_flipTB.JPG --> Predicted: Pepper scab | Correct: False
+Tomato septoria leaf spot/3acde329-875f-4fab-b09f-513714612d5c___Matt.S_CG 7476.JPG --> Predicted: Pepper scab | Correct: False
+Tomato septoria leaf spot/3fc5146d-71b5-4764-8a78-481e098e661e___Matt.S_CG 2752_flipTB.JPG --> Predicted: Soybean angular leaf spot | Correct: False
+Tomato septoria leaf spot/40b13cf8-a4ca-4d0b-9e76-6f40f38ea063___Matt.S_CG 0773.JPG --> Predicted: Apple brown spot | Correct: False
+Tomato septoria leaf spot/9580a3c7-f614-4f5c-b660-8b9525865917___Keller.St_CG 1858.JPG --> Predicted: Tomato bacterial spot | Correct: False
+Tomato septoria leaf spot/b9f908ad-b621-476a-9d0f-bc7ca4f0f7da___JR_Sept.L.S 2584.JPG --> Predicted: Tomato early blight | Correct: False
+Tomato septoria leaf spot/c6962655-b64b-45d6-b6a5-49bc8adfe0d3___Keller.St_CG 1904.JPG --> Predicted: Grape downy mildew | Correct: False
+Tomato septoria leaf spot/d6513bff-a877-4482-88d0-699396af3862___JR_Sept.L.S 8419.JPG --> Predicted: Tomato early blight | Correct: False
+Tomato septoria leaf spot/eead46ba-77cc-4a29-8497-9b3b5a40d468___Matt.S_CG 6090.JPG --> Predicted: Apple alternaria boltch | Correct: False
+Tomato septoria leaf spot/f67d781b-72a1-4e74-9a0b-770bf4b03882___Keller.St_CG 1944.JPG --> Predicted: Grape black rot | Correct: False
+Tomato yellow leaf curl virus/a5905d0d-c770-4f8b-85c8-5d493f7a45f5___YLCV_GCREC 5465.JPG --> Predicted: Pepper healthy | Correct: False
+Tomato yellow leaf curl virus/a8faf777-5878-4262-8926-9f3cf4fd428b___UF.GRC_YLCV_Lab 01259.JPG --> Predicted: Pepper bell bacterial spot | Correct: False
+Tomato yellow leaf curl virus/ba2c5eed-9c8f-4e1a-8ae4-1108d54f1ca0___YLCV_GCREC 5447.JPG --> Predicted: Grape heathy | Correct: False
+Tomato yellow leaf curl virus/be45c789-1d00-4742-a246-1a1cab2116d9___YLCV_NREC 2507.JPG --> Predicted: Pepper healthy | Correct: False
+Tomato yellow leaf curl virus/c99d2bdf-ec6d-486d-840a-bd90582208b7___YLCV_GCREC 2044.JPG --> Predicted: Soybean healthy | Correct: False
+Tomato yellow leaf curl virus/d4b90f0d-b374-4535-a0f2-939e40fcebf9___YLCV_GCREC 5453.JPG --> Predicted: Apple healthy | Correct: False
+Tomato yellow leaf curl virus/e5b25092-f409-496a-a6f7-5f5bfd70ba83___YLCV_NREC 2417.JPG --> Predicted: Tomato mosaic virus | Correct: False
+Tomato yellow leaf curl virus/e6be8040-6122-4d04-a9ad-786059a76191___YLCV_NREC 2914.JPG --> Predicted: Strawberry healthy | Correct: False
+Tomato yellow leaf curl virus/f4329273-758b-4d62-bbc1-20a429b4b892___UF.GRC_YLCV_Lab 09420.JPG --> Predicted: Soybean potassium deficiency | Correct: False
+Tomato yellow leaf curl virus/f808bf17-246f-4eba-9d53-019cfc3508b1___UF.GRC_YLCV_Lab 03147.JPG --> Predicted: Grape heathy | Correct: False
+Wheat brown rust/03441.jpg --> Predicted: Wheat yellow rust | Correct: False
+Wheat brown rust/08601.jpg --> Predicted: Wheat yellow rust | Correct: False
+Wheat brown rust/08761.JPG --> Predicted: Wheat yellow rust | Correct: False
+Wheat brown rust/09221.jpg --> Predicted: Corn rust | Correct: False
+Wheat brown rust/BrownRust1138.png --> Predicted: Wheat brown rust | Correct: True
+Wheat brown rust/Brown_rust007.jpg --> Predicted: Corn northern leaf blight | Correct: False
+Wheat brown rust/Brown_rust262.jpg --> Predicted: Apple alternaria boltch | Correct: False
+Wheat brown rust/Brown_rust381.jpg --> Predicted: Tomato yellow leaf curl virus | Correct: False
+Wheat brown rust/Brown_rust391.jpg --> Predicted: Grape powdery mildew | Correct: False
+Wheat brown rust/Brown_rust603.jpg --> Predicted: Grape black rot | Correct: False
+Wheat healthy/02151.jpg --> Predicted: Wheat healthy | Correct: True
+Wheat healthy/04741.jpg --> Predicted: Wheat healthy | Correct: True
+Wheat healthy/11041.jpg --> Predicted: Wheat healthy | Correct: True
+Wheat healthy/Healthy1177.jpg --> Predicted: Corn healthy | Correct: False
+Wheat healthy/Healthy1259.jpg --> Predicted: Corn healthy | Correct: False
+Wheat healthy/Healthy1316.jpg --> Predicted: Rice brown spot | Correct: False
+Wheat healthy/Healthy601.jpg --> Predicted: Corn healthy | Correct: False
+Wheat healthy/Healthy647.jpg --> Predicted: Corn healthy | Correct: False
+Wheat healthy/Healthy928.jpg --> Predicted: Corn healthy | Correct: False
+Wheat healthy/Healthy939.jpg --> Predicted: Wheat healthy | Correct: True
+Wheat loose smut/0961.jpg --> Predicted: Wheat brown rust | Correct: False
+Wheat loose smut/2341.jpg --> Predicted: Wheat brown rust | Correct: False
+Wheat loose smut/2931.jpg --> Predicted: Corn rust | Correct: False
+Wheat loose smut/2981.jpg --> Predicted: Wheat brown rust | Correct: False
+Wheat loose smut/4601.jpg --> Predicted: Corn northern leaf blight | Correct: False
+Wheat loose smut/5391.jpg --> Predicted: Wheat loose smut | Correct: True
+Wheat loose smut/6751.jpg --> Predicted: Wheat yellow rust | Correct: False
+Wheat loose smut/8331.jpg --> Predicted: Wheat yellow rust | Correct: False
+Wheat loose smut/8501.jpg --> Predicted: Corn northern leaf blight | Correct: False
+Wheat loose smut/8571.jpg --> Predicted: Wheat brown rust | Correct: False
+Wheat septoria/los(1).JPG --> Predicted: Wheat yellow rust | Correct: False
+Wheat septoria/los(45).JPG --> Predicted: Wheat yellow rust | Correct: False
+Wheat septoria/los(75).JPG --> Predicted: Rice leaf blast | Correct: False
+Wheat septoria/los(8).JPG --> Predicted: Rice brown spot | Correct: False
+Wheat septoria/los(94).JPG --> Predicted: Rice leaf blast | Correct: False
+Wheat septoria/Septoria17.png --> Predicted: Wheat healthy | Correct: False
+Wheat septoria/Septoria2517.png --> Predicted: Wheat yellow rust | Correct: False
+Wheat septoria/Septoria4546.png --> Predicted: Corn gray leaf spot | Correct: False
+Wheat septoria/Septoria4791.png --> Predicted: Wheat yellow rust | Correct: False
+Wheat septoria/Septoria6396.png --> Predicted: Corn healthy | Correct: False
+Wheat yellow rust/Yellow_rust1085.jpg --> Predicted: Pepper scab | Correct: False
+Wheat yellow rust/Yellow_rust1156.jpg --> Predicted: Wheat yellow rust | Correct: True
+Wheat yellow rust/Yellow_rust171.jpg --> Predicted: Corn northern leaf blight | Correct: False
+Wheat yellow rust/Yellow_rust284.jpg --> Predicted: Corn northern leaf blight | Correct: False
+Wheat yellow rust/Yellow_rust377.jpg --> Predicted: Soybean potassium deficiency | Correct: False
+Wheat yellow rust/Yellow_rust513.jpg --> Predicted: Corn northern leaf blight | Correct: False
+Wheat yellow rust/Yellow_rust682.jpg --> Predicted: Rice leaf blast | Correct: False
+Wheat yellow rust/Yellow_rust695.jpg --> Predicted: Rice tungro | Correct: False
+Wheat yellow rust/Yellow_rust892.jpg --> Predicted: Corn northern leaf blight | Correct: False
+Wheat yellow rust/Yellow_rust966.jpg --> Predicted: Wheat yellow rust | Correct: True
+
+Per-Class Metrics:
+Apple alternaria boltch | ACC: 0.20, Precision: 0.08, Recall: 0.20, F1: 0.11
+Apple black rot | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Apple brown spot | ACC: 0.30, Precision: 0.06, Recall: 0.30, F1: 0.10
+Apple grey spot | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Apple healthy | ACC: 0.50, Precision: 0.17, Recall: 0.50, F1: 0.26
+Apple mosaic virus | ACC: 0.20, Precision: 1.00, Recall: 0.20, F1: 0.33
+Apple powdery mildew | ACC: 0.80, Precision: 0.42, Recall: 0.80, F1: 0.55
+Apple rust | ACC: 0.10, Precision: 1.00, Recall: 0.10, F1: 0.18
+Cherry healthy | ACC: 0.60, Precision: 0.40, Recall: 0.60, F1: 0.48
+Cherry powdery mildew | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Citrus healthy | ACC: 0.50, Precision: 0.42, Recall: 0.50, F1: 0.45
+Citrus huanglongbing | ACC: 0.20, Precision: 0.22, Recall: 0.20, F1: 0.21
+Corn gray leaf spot | ACC: 0.10, Precision: 0.09, Recall: 0.10, F1: 0.10
+Corn healthy | ACC: 1.00, Precision: 0.53, Recall: 1.00, F1: 0.69
+Corn northern leaf blight | ACC: 0.70, Precision: 0.25, Recall: 0.70, F1: 0.37
+Corn rust | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Grape black measles | ACC: 0.20, Precision: 0.40, Recall: 0.20, F1: 0.27
+Grape black rot | ACC: 0.90, Precision: 0.19, Recall: 0.90, F1: 0.31
+Grape downy mildew | ACC: 0.10, Precision: 0.25, Recall: 0.10, F1: 0.14
+Grape heathy | ACC: 1.00, Precision: 0.20, Recall: 1.00, F1: 0.34
+Grape leaf blight | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Grape mosaic virus | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Grape powdery mildew | ACC: 0.20, Precision: 0.10, Recall: 0.20, F1: 0.13
+Grape yellows | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Peach bacterial spot | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Peach healthy | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Pepper bell bacterial spot | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Pepper healthy | ACC: 0.20, Precision: 0.20, Recall: 0.20, F1: 0.20
+Pepper scab | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Potato healthy | ACC: 0.20, Precision: 0.67, Recall: 0.20, F1: 0.31
+Potato late blight | ACC: 0.10, Precision: 0.50, Recall: 0.10, F1: 0.17
+Rice bacterial blight | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Rice brown spot | ACC: 0.60, Precision: 0.40, Recall: 0.60, F1: 0.48
+Rice healthy | ACC: 0.10, Precision: 0.25, Recall: 0.10, F1: 0.14
+Rice hispa | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Rice leaf blast | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Rice tungro | ACC: 0.20, Precision: 0.50, Recall: 0.20, F1: 0.29
+Soybean angular leaf spot | ACC: 0.70, Precision: 0.18, Recall: 0.70, F1: 0.29
+Soybean bacterial blight | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Soybean cercospora leaf blight | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Soybean downy mildew | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Soybean frogeye | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Soybean healthy | ACC: 0.30, Precision: 0.19, Recall: 0.30, F1: 0.23
+Soybean potassium deficiency | ACC: 0.20, Precision: 0.50, Recall: 0.20, F1: 0.29
+Soybean rust | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Soybean target spot | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Strawberry healthy | ACC: 0.60, Precision: 0.67, Recall: 0.60, F1: 0.63
+Strawberry leaf scorch | ACC: 0.40, Precision: 0.80, Recall: 0.40, F1: 0.53
+Tomato bacterial spot | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Tomato early blight | ACC: 0.30, Precision: 0.06, Recall: 0.30, F1: 0.10
+Tomato healthy | ACC: 0.10, Precision: 0.07, Recall: 0.10, F1: 0.08
+Tomato late blight | ACC: 0.10, Precision: 0.33, Recall: 0.10, F1: 0.15
+Tomato leaf mold | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Tomato mosaic virus | ACC: 0.20, Precision: 0.50, Recall: 0.20, F1: 0.29
+Tomato septoria leaf spot | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Tomato yellow leaf curl virus | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Wheat brown rust | ACC: 0.10, Precision: 0.20, Recall: 0.10, F1: 0.13
+Wheat healthy | ACC: 0.40, Precision: 0.22, Recall: 0.40, F1: 0.29
+Wheat loose smut | ACC: 0.10, Precision: 1.00, Recall: 0.10, F1: 0.18
+Wheat septoria | ACC: 0.00, Precision: 0.00, Recall: 0.00, F1: 0.00
+Wheat yellow rust | ACC: 0.20, Precision: 0.17, Recall: 0.20, F1: 0.18
+
+Overall Metrics: ACC: 0.21, Precision: 0.21, Recall: 0.21, F1: 0.21
