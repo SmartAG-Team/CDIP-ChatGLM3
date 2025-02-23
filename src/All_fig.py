@@ -1550,7 +1550,7 @@ def sfig6():
 
 if __name__ == "__main__":
     # fig5()
-    # fig7()
+    fig7()
     # fig8()
     # fig9()
     # fig10()
@@ -1560,4 +1560,4 @@ if __name__ == "__main__":
     # sfig3()
     # sfig4()
     # sfig5()
-    sfig6()
+    # sfig6()
